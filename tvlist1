@@ -1,1224 +1,2830 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/coke123/coke123/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/coke123/coke123/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
-#EXTINF:-1,SKY FOOTBALL
-http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21735.ts
-#EXTINF:-1,BT SPORTS 3 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21734.ts
-#EXTINF:-1,BT SPORT ESPN
-http://p4.giffy.be:8080/live/coke123/coke123/21731.ts
-#EXTINF:-1,BT SPORT MOSAIC
-http://p4.giffy.be:8080/live/coke123/coke123/21729.ts
-#EXTINF:-1,BT SPORT EXTRA
-http://p4.giffy.be:8080/live/coke123/coke123/21730.ts
-#EXTINF:-1,UK | 4 SEVEN
-http://p4.giffy.be:8080/live/coke123/coke123/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p4.giffy.be:8080/live/coke123/coke123/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p4.giffy.be:8080/live/coke123/coke123/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/coke123/coke123/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p4.giffy.be:8080/live/coke123/coke123/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/coke123/coke123/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/coke123/coke123/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/coke123/coke123/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/coke123/coke123/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/coke123/coke123/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p4.giffy.be:8080/live/coke123/coke123/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p4.giffy.be:8080/live/coke123/coke123/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p4.giffy.be:8080/live/coke123/coke123/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/coke123/coke123/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p4.giffy.be:8080/live/coke123/coke123/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p4.giffy.be:8080/live/coke123/coke123/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/coke123/coke123/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/coke123/coke123/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/coke123/coke123/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/coke123/coke123/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/coke123/coke123/30534.ts
-#EXTINF:-1,UK | E4
-http://p4.giffy.be:8080/live/coke123/coke123/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/coke123/coke123/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p4.giffy.be:8080/live/coke123/coke123/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p4.giffy.be:8080/live/coke123/coke123/30523.ts
-#EXTINF:-1,UK | HOME
-http://p4.giffy.be:8080/live/coke123/coke123/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/coke123/coke123/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p4.giffy.be:8080/live/coke123/coke123/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p4.giffy.be:8080/live/coke123/coke123/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p4.giffy.be:8080/live/coke123/coke123/30518.ts
-#EXTINF:-1,UK | ITV1
-http://p4.giffy.be:8080/live/coke123/coke123/30556.ts
-#EXTINF:-1,UK | ITV2
-http://p4.giffy.be:8080/live/coke123/coke123/30557.ts
-#EXTINF:-1,UK | ITV3
-http://p4.giffy.be:8080/live/coke123/coke123/30558.ts
-#EXTINF:-1,UK | ITV4
-http://p4.giffy.be:8080/live/coke123/coke123/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p4.giffy.be:8080/live/coke123/coke123/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p4.giffy.be:8080/live/coke123/coke123/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p4.giffy.be:8080/live/coke123/coke123/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p4.giffy.be:8080/live/coke123/coke123/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p4.giffy.be:8080/live/coke123/coke123/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p4.giffy.be:8080/live/coke123/coke123/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/coke123/coke123/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p4.giffy.be:8080/live/coke123/coke123/30540.ts
-#EXTINF:-1,UK | PICK
-http://p4.giffy.be:8080/live/coke123/coke123/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p4.giffy.be:8080/live/coke123/coke123/30507.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/coke123/coke123/30516.ts
-#EXTINF:-1,UK | S4C
-http://p4.giffy.be:8080/live/coke123/coke123/30541.ts
-#EXTINF:-1,UK | SKY ARTS 1
-http://p4.giffy.be:8080/live/coke123/coke123/30503.ts
-#EXTINF:-1,UK | SKY ATLANTIC
-http://p4.giffy.be:8080/live/coke123/coke123/30502.ts
-#EXTINF:-1,UK | SKY LIVING
-http://p4.giffy.be:8080/live/coke123/coke123/30489.ts
-#EXTINF:-1,UK | SKY MOVIES ACTION & ADVENTURE
-http://p4.giffy.be:8080/live/coke123/coke123/30501.ts
-#EXTINF:-1,UK | SKY MOVIES COMEDY
-http://p4.giffy.be:8080/live/coke123/coke123/30500.ts
-#EXTINF:-1,UK | SKY MOVIES CRIMES & THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30499.ts
-#EXTINF:-1,UK | SKY MOVIES DISNEY
-http://p4.giffy.be:8080/live/coke123/coke123/30498.ts
-#EXTINF:-1,UK | SKY MOVIES DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30497.ts
-#EXTINF:-1,UK | SKY MOVIES FAMILY
-http://p4.giffy.be:8080/live/coke123/coke123/30496.ts
-#EXTINF:-1,UK | SKY MOVIES MODERN GREATS
-http://p4.giffy.be:8080/live/coke123/coke123/30495.ts
-#EXTINF:-1,UK | SKY MOVIES PREMIERE
-http://p4.giffy.be:8080/live/coke123/coke123/30494.ts
-#EXTINF:-1,UK | SKY MOVIES SCI-FI
-http://p4.giffy.be:8080/live/coke123/coke123/30493.ts
-#EXTINF:-1,UK | SKY MOVIES SELECT HD
-http://p4.giffy.be:8080/live/coke123/coke123/30492.ts
-#EXTINF:-1,UK | SKY MOVIES SHOWCASE
-http://p4.giffy.be:8080/live/coke123/coke123/30491.ts
-#EXTINF:-1,UK | SKY MOVIES THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30490.ts
-#EXTINF:-1,UK | TLC
-http://p4.giffy.be:8080/live/coke123/coke123/30510.ts
-#EXTINF:-1,UK | TRAVEL
-http://p4.giffy.be:8080/live/coke123/coke123/30529.ts
-#EXTINF:-1,UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/coke123/coke123/30553.ts
-#EXTINF:-1,UK | TV5
-http://p4.giffy.be:8080/live/coke123/coke123/30508.ts
-#EXTINF:-1,UK |  UNIVERSAL
-http://p4.giffy.be:8080/live/coke123/coke123/30564.ts
-#EXTINF:-1,UK | VIVA
-http://p4.giffy.be:8080/live/coke123/coke123/30509.ts
+#EXTINF:-1,[AR] BEIN Â SPORT Â ARABIA Â [ AR ]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/580.ts
+#EXTINF:-1,[AR] BEIN SPORT NEWS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1327.ts
+#EXTINF:-1,[BEIN]BEIN.SPORTS-.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/5210.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3879.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.1.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3880.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3881.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.2.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3882.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3883.ts
+#EXTINF:-1,[AR]BEIN-SPORTS.3.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3884.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3885.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.4.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3886.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3887.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.5.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3888.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_6HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3889.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.6.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3890.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_7HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3891.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.7.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3892.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_8HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3893.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.8.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3894.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_9HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3895.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.9.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3896.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_10HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3897.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.10.sd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3898.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_11HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3899.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_12HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3900.ts
+#EXTINF:-1,[AR]BEINSPORTS.NBA.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3868.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.1..HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3928.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.1..HD.BACKUP
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3929.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.2..HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3930.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.2..HD.BACKUP
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3931.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.3..HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4669.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.3..BACKUP
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4668.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.4..HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4667.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.4..HD.BACKUP
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4666.ts
+#EXTINF:-1,[BEIN] ==[=beIN_MOVIES=]==[BEIN]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1601.ts
+#EXTINF:-1,[BEIN] BEIN MOVIES HD1 PREMIER
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3628.ts
+#EXTINF:-1,[BEIN] BEIN MOVIES HD2 ACTION
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3629.ts
+#EXTINF:-1,[BEIN] beINMOVIES HD3 DRAMA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3875.ts
+#EXTINF:-1,[AR] BEIN MOVIES HD1 PREMIER.
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1602.ts
+#EXTINF:-1,[AR] BEIN MOVIES HD2 .ACTION
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1603.ts
+#EXTINF:-1,[AR] BEIN MOVIES HD3.DRAMA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1604.ts
+#EXTINF:-1,[AR] BEIN MOVIES HD4 FAMILY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1605.ts
+#EXTINF:-1,[AR] beIN SERIES HD1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2157.ts
+#EXTINF:-1,[BEIN] Â BABY TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2294.ts
+#EXTINF:-1,[BEIN] BEIN FX.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2024.ts
+#EXTINF:-1,[BEIN] BOOMERANG HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2473.ts
+#EXTINF:-1,[BEIN] FOX MOVIES FAMILY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/97.ts
+#EXTINF:-1,[BEIN]---BEIN CULTUR---[BEIN]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3021.ts
+#EXTINF:-1,[BEIN] D.MAX
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2029.ts
+#EXTINF:-1,[BEIN] FATAFEAT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3780.ts
+#EXTINF:-1,[BEIN] GOURMET.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3017.ts
+#EXTINF:-1,[BEIN] .FATAFEAT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2297.ts
+#EXTINF:-1,[BEIN] ANIMAL PLANET
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1965.ts
+#EXTINF:-1,|AR|==|=BEINS BARAEM=|==|AR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2624.ts
+#EXTINF:-1,[BEIN] BARAEM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2332.ts
+#EXTINF:-1,[BEIN] JEEM
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1736.ts
+#EXTINF:-1,[BEIN] JUNIOR.
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1768.ts
+#EXTINF:-1,[AR]---|ABU.DHABAI.SPORT|---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1723.ts
+#EXTINF:-1,[AR] AD SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1724.ts
+#EXTINF:-1,[AR] AD SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1725.ts
+#EXTINF:-1,[AR] AD SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1726.ts
+#EXTINF:-1,[AR] AD SPORT 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/37.ts
+#EXTINF:-1,[AR] AD SPORT 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1727.ts
+#EXTINF:-1,[AR] ON Sport
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2556.ts
+#EXTINF:-1,[FR]-----| GENERALISTES |-----[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/442.ts
+#EXTINF:-1,[FR] TF1_FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/6223.ts
+#EXTINF:-1,[FR] TF1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/69.ts
+#EXTINF:-1,[FR] FRANCE2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2188.ts
+#EXTINF:-1,[FR] FRANCE2 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/444.ts
+#EXTINF:-1,[FR] FRANCE3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/445.ts
+#EXTINF:-1,[FR] FRANCE3 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2517.ts
+#EXTINF:-1,[FR] FRANCE4 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/446.ts
+#EXTINF:-1,[FR] FRANCE4 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2518.ts
+#EXTINF:-1,[FR] FRANCE5 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/447.ts
+#EXTINF:-1,[FR] FRANCE5 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2519.ts
+#EXTINF:-1,[FR] FRANCE O HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/448.ts
+#EXTINF:-1,[FR] FRANCE O SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2520.ts
+#EXTINF:-1,[FR] M6 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2474.ts
+#EXTINF:-1,[FR] M6 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2587.ts
+#EXTINF:-1,[FR] M6 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/450.ts
+#EXTINF:-1,[FR] W9 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2295.ts
+#EXTINF:-1,[FR] W9 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/451.ts
+#EXTINF:-1,[FR] TF1 SERIES FILMS SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/454.ts
+#EXTINF:-1,[FR] 6TER SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/455.ts
+#EXTINF:-1,[FR] ARTE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/456.ts
+#EXTINF:-1,[FR]----FRANCE INFO---[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/458.ts
+#EXTINF:-1,[FR] FRANCE 24 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/15.ts
+#EXTINF:-1,[FR] TV5 MONDE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/449.ts
+#EXTINF:-1,|FR| FRANCE INFO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2547.ts
+#EXTINF:-1,[FR] C NEWS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/552.ts
+#EXTINF:-1,[FR] LCI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2312.ts
+#EXTINF:-1,[FR] BFM TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2314.ts
+#EXTINF:-1,[FR] BFM TV SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2526.ts
+#EXTINF:-1,[FR] BFM BUISINESS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/757.ts
+#EXTINF:-1,[FR] LCP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2313.ts
+#EXTINF:-1,[FR]-----[DIVERTISSEMENT]-----[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1705.ts
+#EXTINF:-1,[FR] 13EME RUE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/545.ts
+#EXTINF:-1,[FR] WEO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/546.ts
+#EXTINF:-1,[FR] WEO SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2525.ts
+#EXTINF:-1,[FR] NT1 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/550.ts
+#EXTINF:-1,[FR] NT1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2521.ts
+#EXTINF:-1,[FR] NRJ12 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/551.ts
+#EXTINF:-1,[FR] TEVA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/547.ts
+#EXTINF:-1,[FR] CSTAR SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/453.ts
+#EXTINF:-1,[FR] C STAR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2522.ts
+#EXTINF:-1,[FR] C8 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/452.ts
+#EXTINF:-1,[FR] C8 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2523.ts
+#EXTINF:-1,[FR] SYFY SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/472.ts
+#EXTINF:-1,[FR] AB1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1046.ts
+#EXTINF:-1,[FR] CHERIE 25 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/760.ts
+#EXTINF:-1,[FR] PARIS PREMIERE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/469.ts
+#EXTINF:-1,[FR] RTL9 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/457.ts
+#EXTINF:-1,[FR] TREK SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2282.ts
+#EXTINF:-1,[FR] E ENTERTAINEMENT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2546.ts
+#EXTINF:-1,[FR] NUMERO23 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1356.ts
+#EXTINF:-1,[FR] COMEDIE+ SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/471.ts
+#EXTINF:-1,[FR] COMEDIE+ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2524.ts
+#EXTINF:-1,[FR] PARAMOUNT CHANNEL SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/470.ts
+#EXTINF:-1,[FR] TMC SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/474.ts
+#EXTINF:-1,[FR] TMC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1624.ts
+#EXTINF:-1,[FR] TV BREIZH SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1355.ts
+#EXTINF:-1,[SU] RTS UN
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/548.ts
+#EXTINF:-1,[SU] RTS DEUX
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/549.ts
+#EXTINF:-1,[FR]-+-+-CINEMA FRANCE +-+-|FR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/475.ts
+#EXTINF:-1,[FR] CANAL+HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3777.ts
+#EXTINF:-1,[FR] CANAL+ FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2527.ts
+#EXTINF:-1,[FR] CANAL+SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/476.ts
+#EXTINF:-1,[FR] CANAL+ CINEMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2528.ts
+#EXTINF:-1,[FR] CANAL+ CINEMA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/479.ts
+#EXTINF:-1,[FR] CANAL+ DECALE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2529.ts
+#EXTINF:-1,[FR] CANAL+ DECALE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/477.ts
+#EXTINF:-1,[FR] CANAL+ FAMILY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/478.ts
+#EXTINF:-1,[FR] CANAL+ FAMILY SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2530.ts
+#EXTINF:-1,[FR] CANAL+ SERIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3779.ts
+#EXTINF:-1,[FR] CANAL+ SERIES SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/480.ts
+#EXTINF:-1,[FR] SERIE CLUB SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/468.ts
+#EXTINF:-1,[FR] CINE+ FRISSON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/460.ts
+#EXTINF:-1,[FR] CINE+ FRISSON SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2531.ts
+#EXTINF:-1,[FR] CINE+ EMOTION SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/462.ts
+#EXTINF:-1,[FR] CINE+ FAMIZ SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/461.ts
+#EXTINF:-1,[FR] CINE+ PREMIER SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/459.ts
+#EXTINF:-1,[FR] CINE+ CLASSIC SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/463.ts
+#EXTINF:-1,[FR] CINE POLAR SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/758.ts
+#EXTINF:-1,[FR] CINE+ FX SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/759.ts
+#EXTINF:-1,[FR] ACTION Â SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/473.ts
+#EXTINF:-1,[FR] ACTION Â HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2536.ts
+#EXTINF:-1,[FR] OCS MAX SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/464.ts
+#EXTINF:-1,[FR] OCS CHOC SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/467.ts
+#EXTINF:-1,[FR] OCS GEANTS SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/465.ts
+#EXTINF:-1,[FR] OCS CITY SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/466.ts
+#EXTINF:-1,[FR] TCM CINEMA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2296.ts
+#EXTINF:-1,[FR]--------[ FRENCH KIDS ]--------[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/491.ts
+#EXTINF:-1,[FR] NICKELODEON 4TEEN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4005.ts
+#EXTINF:-1,[FR] BOOMERANG HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2532.ts
+#EXTINF:-1,[FR] BOOMERANG SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/498.ts
+#EXTINF:-1,[FR] CARTOON NET HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2533.ts
+#EXTINF:-1,[FR] CARTOON NET SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/497.ts
+#EXTINF:-1,[FR] DISNY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/496.ts
+#EXTINF:-1,[FR] DISNY CHANNEL SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2534.ts
+#EXTINF:-1,[FR] CANAL J Â HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/495.ts
+#EXTINF:-1,[FR] DIsNY CHANNEL SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2264.ts
+#EXTINF:-1,[FR] DISNEY CINEMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/494.ts
+#EXTINF:-1,[FR] DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/493.ts
+#EXTINF:-1,[FR] DISNEY JUNIOR SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2535.ts
+#EXTINF:-1,[FR] MANGAS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/505.ts
+#EXTINF:-1,[FR] MANGAS SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2539.ts
+#EXTINF:-1,[FR] DISNEY XD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/492.ts
+#EXTINF:-1,[FR] GAME ONE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/503.ts
+#EXTINF:-1,[FR] ZOUZOUS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1581.ts
+#EXTINF:-1,[FR] BOiNG HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1702.ts
+#EXTINF:-1,[FR] GULLI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/500.ts
+#EXTINF:-1,[FR] GULLI SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2538.ts
+#EXTINF:-1,[FR] NICKELODEON JUN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3867.ts
+#EXTINF:-1,[FR] NICKELODEON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/504.ts
+#EXTINF:-1,[FR] NICKELODEON Â FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/506.ts
+#EXTINF:-1,[FR] PIWI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2537.ts
+#EXTINF:-1,[FR] PIWI SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/499.ts
+#EXTINF:-1,[FR] TELETOON+ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/502.ts
+#EXTINF:-1,[FR] TIJI SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/501.ts
+#EXTINF:-1,[FR]+++ DISNEY ORANGE +++[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2449.ts
+#EXTINF:-1,[FR] DISNEY ORANGE 1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3632.ts
+#EXTINF:-1,[FR] DISNEY ORANGE 2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3633.ts
+#EXTINF:-1,[FR] DISNEY ORANGE 3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3634.ts
+#EXTINF:-1,[FR] DISNEY ORANGE 4
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3635.ts
+#EXTINF:-1,[FR] DISNEY.ORANGE.5
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3636.ts
+#EXTINF:-1,[FR]++ DESSINS ANIMES 24/24 ++[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/332.ts
+#EXTINF:-1,[FR] TOM AND JERRY 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1440.ts
+#EXTINF:-1,[FR] LUCKY LUKE 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3554.ts
+#EXTINF:-1,[FR] DOCTEUR CAILLOU
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3630.ts
+#EXTINF:-1,[FR] LEO LE LION 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3557.ts
+#EXTINF:-1,[FR] HORSELAND 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3556.ts
+#EXTINF:-1,[FR] Â PINOCCHIO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3631.ts
+#EXTINF:-1,[FR] MR BEAN
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3421.ts
+#EXTINF:-1,[FR]+-+-+[France Culture]+-+- [FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/507.ts
+#EXTINF:-1,[FR] CRIME DISTRICT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3418.ts
+#EXTINF:-1,[FR] DISCOVERY INVESTIGATION SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/29.ts
+#EXTINF:-1,[FR] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/516.ts
+#EXTINF:-1,[FR] DISCOVERY SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2540.ts
+#EXTINF:-1,[FR] DISCOVERY SC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2541.ts
+#EXTINF:-1,[FR] DISCOVERY SC SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/517.ts
+#EXTINF:-1,[FR] VOYAGE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2248.ts
+#EXTINF:-1,[FR] VOYAGE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2542.ts
+#EXTINF:-1,[FR] ANIMAUX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2543.ts
+#EXTINF:-1,[FR] ANIMAUX SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/514.ts
+#EXTINF:-1,[FR] USHUAIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2545.ts
+#EXTINF:-1,[FR] USHUAIA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/511.ts
+#EXTINF:-1,[FR] SCIENCE VIE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/510.ts
+#EXTINF:-1,|FR| PLANETE+ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2544.ts
+#EXTINF:-1,|FR| PLANETE+ SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/508.ts
+#EXTINF:-1,|FR| PLANETE+ A.E SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/509.ts
+#EXTINF:-1,[FR] PLANETE CI SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/770.ts
+#EXTINF:-1,[FR] RMC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/518.ts
+#EXTINF:-1,[FR] NATIONAL GEO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2549.ts
+#EXTINF:-1,[FR] NATIONAL GEO SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/513.ts
+#EXTINF:-1,[FR] NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/512.ts
+#EXTINF:-1,[FR] NAT GEO WILD SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2548.ts
+#EXTINF:-1,[FR] CHASSE PECHE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/515.ts
+#EXTINF:-1,[FR] CHASSE.PECHE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2550.ts
+#EXTINF:-1,[FR] SEASON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1755.ts
+#EXTINF:-1,[FR] TOUTE L HISTOIRE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/769.ts
+#EXTINF:-1,[FR] HISTOIRE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/96.ts
+#EXTINF:-1,[FR] MEZZO LIVE Â SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2686.ts
+#EXTINF:-1,[BE]---- [BELGIQUE]------ [BE]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1501.ts
+#EXTINF:-1,[BE] CLUB RTL
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1506.ts
+#EXTINF:-1,[BE] LA DEUX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1503.ts
+#EXTINF:-1,[BE] LA TROIS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1504.ts
+#EXTINF:-1,[BE] LA UNE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1502.ts
+#EXTINF:-1,[BE] RTL TVI
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1505.ts
+#EXTINF:-1,[BE] PLUG RTL
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/46.ts
+#EXTINF:-1,[BE] EEN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2236.ts
+#EXTINF:-1,[BE] VTM
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2019.ts
+#EXTINF:-1,[BE] VIER
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2241.ts
+#EXTINF:-1,[BE] JIM
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2237.ts
+#EXTINF:-1,[BE] 2BE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2228.ts
+#EXTINF:-1,[BE] CANVAS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2235.ts
+#EXTINF:-1,[BE] AB3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2233.ts
+#EXTINF:-1,[FR]----[MUSIC]----[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1617.ts
+#EXTINF:-1,[FR] MTV DANCE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1620.ts
+#EXTINF:-1,[FR] MTV MUSIC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1619.ts
+#EXTINF:-1,[FR] MTV BASE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1621.ts
+#EXTINF:-1,[FR] M6 MUSIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2293.ts
+#EXTINF:-1,[FR] NRJ12 HITS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2265.ts
+#EXTINF:-1,[FR] VIRGIN TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/98.ts
+#EXTINF:-1,[FR] MCM TOP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2149.ts
+#EXTINF:-1,[FR] MCM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2154.ts
+#EXTINF:-1,[FR] VH1 CASSIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2148.ts
+#EXTINF:-1,[FR] MCM POP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2292.ts
+#EXTINF:-1,[FR] CAPITAL TV.
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/84.ts
+#EXTINF:-1,[FR] M2O MUSIC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/100.ts
+#EXTINF:-1,[FR] Radio 5 TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/105.ts
+#EXTINF:-1,[FR]+-+-+SPORT FRANCE+-+-+-[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/481.ts
+#EXTINF:-1,[FR] BEIN SPORTS 1 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/482.ts
+#EXTINF:-1,[FR] beINSPORT 1 SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2430.ts
+#EXTINF:-1,[FR] BEIN SPORTS 2 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/483.ts
+#EXTINF:-1,[FR] BEINSPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/60.ts
+#EXTINF:-1,[FR]beINSPORT2-SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1286.ts
+#EXTINF:-1,|FR| beIN SPORTS 3 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/484.ts
+#EXTINF:-1,[FR] BEIN SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/151.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 4 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1739.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 5 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1740.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 6 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1741.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 7 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1742.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 8 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1627.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 9 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1628.ts
+#EXTINF:-1,[FR] BEIN SPORT MAX 10 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1756.ts
+#EXTINF:-1,[FR] SFR.SPORT.1-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3776.ts
+#EXTINF:-1,[FR] SFR SPORTS.1 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/771.ts
+#EXTINF:-1,[FR] SFR.SPORT.1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1448.ts
+#EXTINF:-1,[FR] SFR.SPORT.2-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3782.ts
+#EXTINF:-1,[FR] SFR SPORT.2 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/486.ts
+#EXTINF:-1,[FR]SFR.SPORT.2.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1451.ts
+#EXTINF:-1,[FR] SFR SPORTS.3 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/487.ts
+#EXTINF:-1,[FR] SFR.SPORT.3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2566.ts
+#EXTINF:-1,[FR] CANAL+ SPORT SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3781.ts
+#EXTINF:-1,[FR] SFR.SPORT.5 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2563.ts
+#EXTINF:-1,[FR] CANAL+ SPORT FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1450.ts
+#EXTINF:-1,[FR] CANAL+ SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/761.ts
+#EXTINF:-1,[FR] EUROSPORT1 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/554.ts
+#EXTINF:-1,[FR] EUROSPORT 2 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/553.ts
+#EXTINF:-1,[FR] EUROSPORT1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3869.ts
+#EXTINF:-1,[FR] EUROSPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/17.ts
+#EXTINF:-1,[FR] KOMBA SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/99.ts
+#EXTINF:-1,[FR] EQUIDIA LIVE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/490.ts
+#EXTINF:-1,[FR] EQUIDIA LIFE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1775.ts
+#EXTINF:-1,[FR] INFOSPORT Â HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/485.ts
+#EXTINF:-1,[FR] LEQUIPE21 FHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/489.ts
+#EXTINF:-1,[FR] FOOT+ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/488.ts
+#EXTINF:-1,[FR] GOLF+ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2281.ts
+#EXTINF:-1,[FR] AB MOTEUR SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1623.ts
+#EXTINF:-1,[FR] LA CHAINE NORMADIE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1626.ts
+#EXTINF:-1,[FR]---[PPV-A.LA CARTE]---[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/776.ts
+#EXTINF:-1,[FR] ALACARTE 11
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/762.ts
+#EXTINF:-1,[FR] ALACARTE 12
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/783.ts
+#EXTINF:-1,[FR] ALACARTE 13
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/784.ts
+#EXTINF:-1,[FR] ALACARTE 14
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/785.ts
+#EXTINF:-1,[FR] ALACARTE 15
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/786.ts
+#EXTINF:-1,[FR] ALACARTE 16
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/787.ts
+#EXTINF:-1,[FR] ALACARTE 17
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/788.ts
+#EXTINF:-1,[FR] ALACARTE 18
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/789.ts
+#EXTINF:-1,[FR] ALACARTE 19
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/790.ts
+#EXTINF:-1,[FR] ALACARTE 20
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/791.ts
+#EXTINF:-1,[FR]---[ CANAL_PLAY ]---[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1606.ts
+#EXTINF:-1,[FR] CANAL PLAY 11
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1607.ts
+#EXTINF:-1,[FR] CANAL PLAY 12
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1608.ts
+#EXTINF:-1,[FR] CANAL PLAY 13
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1609.ts
+#EXTINF:-1,[FR] CANAL PLAY 14
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1610.ts
+#EXTINF:-1,[FR] CANAL PLAY 15
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1611.ts
+#EXTINF:-1,[FR] CANAL PLAY 16
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1612.ts
+#EXTINF:-1,[FR] CANAL PLAY 17
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1613.ts
+#EXTINF:-1,[FR] CANAL PLAY 18
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1614.ts
+#EXTINF:-1,[FR] CANAL PLAY 19
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1615.ts
+#EXTINF:-1,[FR] CANAL PLAY 20
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1616.ts
+#EXTINF:-1,[FR]---[ ORANGE CINE ]---[FR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2045.ts
+#EXTINF:-1,[FR] ORANGE CINE+1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2903.ts
+#EXTINF:-1,[FR] ORANGE CINE+2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2044.ts
+#EXTINF:-1,[FR] ORANGE CINE+3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2043.ts
+#EXTINF:-1,[FR] ORANGE CINE+4
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2042.ts
+#EXTINF:-1,[FR] ORANGE CINE+5
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2041.ts
+#EXTINF:-1,[FR] ORANGE CINE+6
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2040.ts
+#EXTINF:-1,[FR] ORANGE CINE+ 7
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2266.ts
+#EXTINF:-1,[FR] ORANGE CINE+8
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2023.ts
+#EXTINF:-1,[FR] ORANGE CINE+9
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1991.ts
+#EXTINF:-1,[FR] ORANGE CINE+10
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2904.ts
+#EXTINF:-1,[AR]-----[MAROC]-----[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1684.ts
+#EXTINF:-1,[AR] 2M MAROC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2551.ts
+#EXTINF:-1,[AR] 2M TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/557.ts
+#EXTINF:-1,[AR] ALOULA TNT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2369.ts
+#EXTINF:-1,[AR] ALOULA TNT
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/556.ts
+#EXTINF:-1,[AR] MEDI1 TNT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/561.ts
+#EXTINF:-1,[AR] TELE MAROC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2822.ts
+#EXTINF:-1,[AR] CHADA FM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3707.ts
+#EXTINF:-1,[AR] ASSABIA MAROC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2353.ts
+#EXTINF:-1,[AR] ALMAGHRIBIA TNT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/560.ts
+#EXTINF:-1,[AR] ASSADISSA MAROC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/569.ts
+#EXTINF:-1,[AR] ARRIADIA TNT TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/559.ts
+#EXTINF:-1,[AR] ARRIADIA TNT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3417.ts
+#EXTINF:-1,[AR] ARRABIA MAROC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1682.ts
+#EXTINF:-1,[AR] TAMAZIGHT MAROC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1710.ts
+#EXTINF:-1,[AR] GM SUD24 TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/52.ts
+#EXTINF:-1,[AR]-----|ALGERIEN|----[AR]-
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1685.ts
+#EXTINF:-1,[AR]Echourrouk HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/574.ts
+#EXTINF:-1,[AR] TV4 TAMAZIGHIRT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2568.ts
+#EXTINF:-1,[AR] Dzair Tv HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2581.ts
+#EXTINF:-1,[AR] BEUR TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2570.ts
+#EXTINF:-1,[AR] Â TV A3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2569.ts
+#EXTINF:-1,[AR] Al Magharibia HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2579.ts
+#EXTINF:-1,[AR] NUMEDIA NEWS ALGERIE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2580.ts
+#EXTINF:-1,[AR] AL MAGHaRiBIA 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2571.ts
+#EXTINF:-1,[AR] Â ECHOURROUK TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1708.ts
+#EXTINF:-1,[AR] ECHOURROUK NEWS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1707.ts
+#EXTINF:-1,[AR] CANAL ALGERIE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1703.ts
+#EXTINF:-1,[AR] SAMIRA TV HD.
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1709.ts
+#EXTINF:-1,[AR] BERBERE JEUNESSE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3016.ts
+#EXTINF:-1,[AR] Â Ennahar TV Algerie HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3015.ts
+#EXTINF:-1,[AR] ENNAHAR TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3019.ts
+#EXTINF:-1,[AR] BERBERE TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3018.ts
+#EXTINF:-1,[AR]----|TUNISIA|---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1721.ts
+#EXTINF:-1,[AR] WATANYA 1 HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1711.ts
+#EXTINF:-1,[AR] WATANYA 2 HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1712.ts
+#EXTINF:-1,[AR] HANNIBAL TV HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1717.ts
+#EXTINF:-1,[AR] NESSMA TV HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1713.ts
+#EXTINF:-1,[AR] TOUNISNA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3003.ts
+#EXTINF:-1,[AR] ATTESSIA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3001.ts
+#EXTINF:-1,[AR] ZAYTOUNA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2564.ts
+#EXTINF:-1,[AR] AL HIW ETTOUNSSI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3002.ts
+#EXTINF:-1,[AR] ZEITOUNA HIDAYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2588.ts
+#EXTINF:-1,|TR|++++ENFANTS++++|TR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1729.ts
+#EXTINF:-1,[AR] MBC 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1483.ts
+#EXTINF:-1,[AR] MBC 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/571.ts
+#EXTINF:-1,[AR] MBC 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1482.ts
+#EXTINF:-1,[AR] MBC 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/21.ts
+#EXTINF:-1,[AR] MBC 3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1471.ts
+#EXTINF:-1,[AR] MBC 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/572.ts
+#EXTINF:-1,[AR] MBC 4 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1481.ts
+#EXTINF:-1,[AR] MBC 4 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/22.ts
+#EXTINF:-1,[AR] MBC ACTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1573.ts
+#EXTINF:-1,[AR] MBC Action
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3012.ts
+#EXTINF:-1,|AR| MBC Max HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3013.ts
+#EXTINF:-1,[AR] MBC MAX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/23.ts
+#EXTINF:-1,[AR] MBC DRAMA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3011.ts
+#EXTINF:-1,|AR| MBC varity +
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1947.ts
+#EXTINF:-1,[AR] MBC Drama HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3014.ts
+#EXTINF:-1,[AR] MBC DRAMA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1294.ts
+#EXTINF:-1,[AR] MBC MASR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1472.ts
+#EXTINF:-1,[AR] MBC MASR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1574.ts
+#EXTINF:-1,[AR] MBC MASR 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2143.ts
+#EXTINF:-1,[AR] MBC MASR 2SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2088.ts
+#EXTINF:-1,[AR] B4U AFLAM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2077.ts
+#EXTINF:-1,[AR] B4U PLUS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1572.ts
+#EXTINF:-1,[AR] MBC BOLLYWOOD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/575.ts
+#EXTINF:-1,|AR| MBC BOLLYWOOD SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2089.ts
+#EXTINF:-1,[AR] ZEE AFLAM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/564.ts
+#EXTINF:-1,[AR] ZEE AFLAM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2091.ts
+#EXTINF:-1,[AR] ZEE ALWAN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/563.ts
+#EXTINF:-1,[AR] MBC PRO SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1281.ts
+#EXTINF:-1,[AR] MBC PRO SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1282.ts
+#EXTINF:-1,[AR] MBC PRO SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1283.ts
+#EXTINF:-1,[OSN]--- OSN ENTERTAINMENT---[OSN]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2.ts
+#EXTINF:-1,[OSN] BOX OFFICE 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2592.ts
+#EXTINF:-1,[OSN] BOX OFFICE 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2591.ts
+#EXTINF:-1,[OSN] BOX OFFICE 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2590.ts
+#EXTINF:-1,[OSN] BOX OFFICE 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/5.ts
+#EXTINF:-1,[OSN] BOX OFFICE 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/4.ts
+#EXTINF:-1,[OSN] BOX OFFICE 3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3.ts
+#EXTINF:-1,[OSN] ON DEMAND 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/8.ts
+#EXTINF:-1,[OSN] ON DEMAND 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/7.ts
+#EXTINF:-1,[OSN] ON DEMAND 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/6.ts
+#EXTINF:-1,[OSN] ON DEMANDE EXTRA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2278.ts
+#EXTINF:-1,[OSN] DEMANDE EXTRA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2277.ts
+#EXTINF:-1,[OSN] MOVIES ACTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/9.ts
+#EXTINF:-1,[OSN] MOVIES ACTION +2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1284.ts
+#EXTINF:-1,[OSN] SEEVII DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2574.ts
+#EXTINF:-1,[OSN] MOVIES DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/12.ts
+#EXTINF:-1,[OSN] MOVIES KIDS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/11.ts
+#EXTINF:-1,[OSN] MOVIES PREMIER HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/10.ts
+#EXTINF:-1,[OSN] MOVIES PREMIER 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2584.ts
+#EXTINF:-1,[OSN] MOVIES PREMIER +2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/578.ts
+#EXTINF:-1,[OSN] DISCOVERY CH HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2555.ts
+#EXTINF:-1,[OSN] MOVIES COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2589.ts
+#EXTINF:-1,[OSN] MOVIES COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1292.ts
+#EXTINF:-1,[OSN] MOVIES COMEDY 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/579.ts
+#EXTINF:-1,[OSN] MOVIES FESTIVAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1287.ts
+#EXTINF:-1,[OSN] MOVIES FAMILY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/577.ts
+#EXTINF:-1,[OSN] MOVIES FIRST HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2583.ts
+#EXTINF:-1,[OSN] Movies Kids HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2567.ts
+#EXTINF:-1,[OSN] SEEVII OULA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2572.ts
+#EXTINF:-1,[OSN] SEEVII SHAMIYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2516.ts
+#EXTINF:-1,[OSN] SEEVII BEELINK HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2573.ts
+#EXTINF:-1,[OSN] CINIMA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2577.ts
+#EXTINF:-1,[OSN] CINIMA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2578.ts
+#EXTINF:-1,[OSN] YAHALA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2575.ts
+#EXTINF:-1,[OSN] YAHALA CINIMA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/576.ts
+#EXTINF:-1,[OSN] YAHALA CINIMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2576.ts
+#EXTINF:-1,[OSN] Â OUTDOOR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3004.ts
+#EXTINF:-1,[OSN] SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2028.ts
+#EXTINF:-1,[OSN] SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2027.ts
+#EXTINF:-1,[OSN] SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2026.ts
+#EXTINF:-1,[OSN] SPORT 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2025.ts
+#EXTINF:-1,[OSN] FIRST HBO HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2559.ts
+#EXTINF:-1,[OSN] MOVIES DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2582.ts
+#EXTINF:-1,[OSN] MOVIES 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2585.ts
+#EXTINF:-1,[OSN] MOVIES STAR HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2586.ts
+#EXTINF:-1,[OSN] MOVIES DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2560.ts
+#EXTINF:-1,[OSN] ANIMAL PLANET HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2565.ts
+#EXTINF:-1,[OSN] YA HALA CINEMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1622.ts
+#EXTINF:-1,[OSN] YA HALA DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1293.ts
+#EXTINF:-1,[OSN] YAHALA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1285.ts
+#EXTINF:-1,[OSN] CINIMA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1290.ts
+#EXTINF:-1,[OSN] CINIMA KIDS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1291.ts
+#EXTINF:-1,[OSN] Star MOVIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1288.ts
+#EXTINF:-1,[OSN] STAR WORLD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1289.ts
+#EXTINF:-1,[AR]---|ART|---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1747.ts
+#EXTINF:-1,[AR] Art Cinema
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3020.ts
+#EXTINF:-1,[AR] ART AFLAM 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1300.ts
+#EXTINF:-1,[AR] ART AFLAM 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1301.ts
+#EXTINF:-1,[AR] ART HEKAYAT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1303.ts
+#EXTINF:-1,[AR] ART HEKAYAT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1302.ts
+#EXTINF:-1,[AR]-----|EGYPT|-----[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1744.ts
+#EXTINF:-1,[AR] Rotana Clip HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3007.ts
+#EXTINF:-1,AR| ROTANA CLIP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/568.ts
+#EXTINF:-1,AR| ROTANA MUSIC HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/567.ts
+#EXTINF:-1,[AR] ROTANA MASRIYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3005.ts
+#EXTINF:-1,[AR]Â ROTANA MASSRYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1575.ts
+#EXTINF:-1,[AR] Rotana Â Aflam HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3010.ts
+#EXTINF:-1,[AR]Â ROTANA AFLAM  HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1579.ts
+#EXTINF:-1,[AR] Rotana Cinema HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3008.ts
+#EXTINF:-1,[AR]Â ROTANA CINIMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1577.ts
+#EXTINF:-1,[AR] Rotana Classic HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3009.ts
+#EXTINF:-1,[AR]Â ROTANA CLASSIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1578.ts
+#EXTINF:-1,[AR] Rotana Khalijiah HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3006.ts
+#EXTINF:-1,[AR]Â ROTANA KHALIJI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1576.ts
+#EXTINF:-1,[AR] NILE SPORT HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1749.ts
+#EXTINF:-1,[AR] NILE CINIMA HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1752.ts
+#EXTINF:-1,[AR] NILE DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1751.ts
+#EXTINF:-1,[AR] NILE FAMILY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1750.ts
+#EXTINF:-1,|AR| Alkass one
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2553.ts
+#EXTINF:-1,|AR| Alkass Tow
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2554.ts
+#EXTINF:-1,[AR] CBC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2557.ts
+#EXTINF:-1,[AR] CBC XTRA HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2561.ts
+#EXTINF:-1,[AR] Cbc Sofra
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2562.ts
+#EXTINF:-1,[AR] CBC DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2558.ts
+#EXTINF:-1,[AR] DMC DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1445.ts
+#EXTINF:-1,[AR] DMC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1444.ts
+#EXTINF:-1,[AR] DMC SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1443.ts
+#EXTINF:-1,[AR] AL NAHAR TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1441.ts
+#EXTINF:-1, [AR]++[ ISLAMIC ]++[AR] 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/328.ts
+#EXTINF:-1,[AR] AL RAHMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1704.ts
+#EXTINF:-1,[AR] LIVE QURAN
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2327.ts
+#EXTINF:-1,[AR] ALMAJD QURAN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/570.ts
+#EXTINF:-1,|AR| Almajd Science
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1769.ts
+#EXTINF:-1,[AR] IQRAA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1718.ts
+#EXTINF:-1,[AR] ALMAJD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1714.ts
+#EXTINF:-1,[AR] RESSALA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1706.ts
+#EXTINF:-1,[AR] ANASS TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1766.ts
+#EXTINF:-1,[AR] SAUDI ALIKHBARIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2434.ts
+#EXTINF:-1,[AR] SAUDI 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2436.ts
+#EXTINF:-1,[AR] SAUDI 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2435.ts
+#EXTINF:-1,[AR] SAUDI CULTURE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2432.ts
+#EXTINF:-1,[AR] SAUDI IQTISSADIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2433.ts
+#EXTINF:-1,|AR| Saudi_Quran
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2438.ts
+#EXTINF:-1,[AR] SAUDI SONA NABAWIA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2437.ts
+#EXTINF:-1,[AR] MAKKAH HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/48.ts
+#EXTINF:-1,[AR]=|=Syria_Channel=|=[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2625.ts
+#EXTINF:-1,|AR|_SAMA_SYRIA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2552.ts
+#EXTINF:-1,[AR] SYRIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2090.ts
+#EXTINF:-1,[AR] SYRIA TARBAWIYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2086.ts
+#EXTINF:-1,[AR] SYRIA NEWS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/241.ts
+#EXTINF:-1,[AR] HALAB TODAY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/33.ts
+#EXTINF:-1,[AR] SYRIA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/32.ts
+#EXTINF:-1,|AR|_Syrian_Drama
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2439.ts
+#EXTINF:-1,[BEIN] NAT GEO WILD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/27.ts
+#EXTINF:-1,[AR]---| Libya |---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2671.ts
+#EXTINF:-1,[AR] Libya ONE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2667.ts
+#EXTINF:-1,[AR] LIBYA  TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2666.ts
+#EXTINF:-1,[AR] LIBYA NEWS HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2670.ts
+#EXTINF:-1,[AR]---|ArabicKids|---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1743.ts
+#EXTINF:-1,[AR] AJYAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1734.ts
+#EXTINF:-1,[AR] MICKEY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1732.ts
+#EXTINF:-1,[AR] TOYOR JANAH HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1737.ts
+#EXTINF:-1,[AR] TOYOR JANAH BABY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1735.ts
+#EXTINF:-1,[AR] TOYOR ALJANH HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/565.ts
+#EXTINF:-1,[AR] CARTON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1731.ts
+#EXTINF:-1,[AR] MAJED KIDS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1748.ts
+#EXTINF:-1,[AR] SPACE TOON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/566.ts
+#EXTINF:-1,[AR]--|ARABE_BEBE_24/24|--[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1753.ts
+#EXTINF:-1,[AR] Tayor Al Jannah 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3555.ts
+#EXTINF:-1,[AR] Toyor Baby 24/24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3420.ts
+#EXTINF:-1,[AR] DOCUMENTAIRE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/327.ts
+#EXTINF:-1,[AR] Al Jazeera Doc HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/30.ts
+#EXTINF:-1,[AR] Quest HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1716.ts
+#EXTINF:-1,AR| NATIONAL GEGRAPHIQUE HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/573.ts
+#EXTINF:-1,[AR]----|NEWS|----[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1745.ts
+#EXTINF:-1,[AR] ALMAYADEEN TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2669.ts
+#EXTINF:-1,[AR] AL MANAR TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1582.ts
+#EXTINF:-1,[AR] AL KAWTARE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/45.ts
+#EXTINF:-1,[AR] ALALAM NEWS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3877.ts
+#EXTINF:-1,[AR] KARBALAE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1442.ts
+#EXTINF:-1,[AR]  AL ARABIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1304.ts
+#EXTINF:-1,[AR] Al JAZZERA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1305.ts
+#EXTINF:-1,[AR] BBC Arabic HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1719.ts
+#EXTINF:-1,[AR] TRT ARABIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1715.ts
+#EXTINF:-1,[AR] DW ARABIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/26.ts
+#EXTINF:-1,[AR] SKY NEWS ARAIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1754.ts
+#EXTINF:-1,[AR] TR ARABIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/109.ts
+#EXTINF:-1,[AR] SKY NEWS ARABIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1720.ts
+#EXTINF:-1,[AR] FRANCE 24HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/562.ts
+#EXTINF:-1,[NEWS] AL SHARQIYA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/51.ts
+#EXTINF:-1,[NEWS] ANN7 SOUTH AFRIKA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/148.ts
+#EXTINF:-1,[AR] PANORAMA DRAMA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/208.ts
+#EXTINF:-1,[AR]---|DUBAI|---[AR]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1746.ts
+#EXTINF:-1,[AR] DUBAI ONE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/40.ts
+#EXTINF:-1,[AR] DUBAI SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/19.ts
+#EXTINF:-1,[AR] DUBAI ONE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1306.ts
+#EXTINF:-1,[AR] DUBAI SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1307.ts
+#EXTINF:-1,[AR] SAMA DUBAI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/39.ts
+#EXTINF:-1,[AR] DUBAI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/31.ts
+#EXTINF:-1,[AR] SAMA DUBAI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1585.ts
+#EXTINF:-1,Al_Rai
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2668.ts
+#EXTINF:-1,[AR] DUBAI ZAMANE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1583.ts
+#EXTINF:-1,[AR] NOOR DUBAI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/34.ts
+#EXTINF:-1,[AR] AL HAYAT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/44.ts
+#EXTINF:-1,[AR] PANORAMA DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/25.ts
+#EXTINF:-1,[AR] PAKISTAN PEACE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/38.ts
+#EXTINF:-1,[AR] SIGMA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/42.ts
+#EXTINF:-1,| = RADIO MAROC = |
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1759.ts
+#EXTINF:-1,[CHADA FM]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1761.ts
+#EXTINF:-1,[MED RADIO]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1762.ts
+#EXTINF:-1,[RADIO MEDI 1]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1763.ts
+#EXTINF:-1,[RADIO ASWAT]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1764.ts
+#EXTINF:-1,[RADIO MARS]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1760.ts
+#EXTINF:-1,RADIO_2M
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1771.ts
+#EXTINF:-1,[HIT RADIO]
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1758.ts
+#EXTINF:-1,HIT_RADIO_100%_DANCEFLOOR
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1772.ts
+#EXTINF:-1,HIT_RADIO_100%_GOLD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1773.ts
+#EXTINF:-1,HIT_RADIO_100%_MGHARBA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1774.ts
+#EXTINF:-1,(=======ESP-CINIMA=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2288.ts
+#EXTINF:-1,[ES] 0# HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1405.ts
+#EXTINF:-1,[ES] M.ACCION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1410.ts
+#EXTINF:-1,[ES] M.ACCION SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1984.ts
+#EXTINF:-1,[ES]  M.COMEDIA.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1983.ts
+#EXTINF:-1,[ES]  M.DCINE.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1982.ts
+#EXTINF:-1,|ES| M.ESTRENOS.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1981.ts
+#EXTINF:-1,[ES]  M.SERIES.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1980.ts
+#EXTINF:-1,[ES] DISCOVERY.SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1409.ts
+#EXTINF:-1,[ES] M.SERIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1408.ts
+#EXTINF:-1,[ES]  CANAL+SERIES XTRA HD
 
-#EXTINF:-1,UK: Racing UK
-http://87.120.36.166:80/live/test2017/test2017/8933.ts
-#EXTINF:-1,UK: RTE ONE
-http://87.120.36.166:80/live/test2017/test2017/8934.ts
-#EXTINF:-1,UK: RTE TWO
-http://87.120.36.166:80/live/test2017/test2017/8935.ts
-#EXTINF:-1,UK: 5 Star
-http://87.120.36.166:80/live/test2017/test2017/3718.ts
-#EXTINF:-1,UK: 5 USA
-http://87.120.36.166:80/live/test2017/test2017/3719.ts
-#EXTINF:-1,UK: Alibi
-http://87.120.36.166:80/live/test2017/test2017/3746.ts
-#EXTINF:-1,UK: Animal Planet
-http://87.120.36.166:80/live/test2017/test2017/1800.ts
-#EXTINF:-1,UK: Baby TV
-http://87.120.36.166:80/live/test2017/test2017/3735.ts
-#EXTINF:-1,UK: BBC News
-http://87.120.36.166:80/live/test2017/test2017/3715.ts
-#EXTINF:-1,UK: BBC Parliament
-http://87.120.36.166:80/live/test2017/test2017/3716.ts
-#EXTINF:-1,UK: BT Sport 3
-http://87.120.36.166:80/live/test2017/test2017/3734.ts
-#EXTINF:-1,UK: BT Sports 1
-http://87.120.36.166:80/live/test2017/test2017/1795.ts
-#EXTINF:-1,UK: BT Sports 2
-http://87.120.36.166:80/live/test2017/test2017/1796.ts
-#EXTINF:-1,UK: Cartoon Network
-http://87.120.36.166:80/live/test2017/test2017/3737.ts
-#EXTINF:-1,UK: CBC Reality
-http://87.120.36.166:80/live/test2017/test2017/3747.ts
-#EXTINF:-1,UK: CCTV 9 Documentary
-http://87.120.36.166:80/live/test2017/test2017/3730.ts
-#EXTINF:-1,UK: CCTV News
-http://87.120.36.166:80/live/test2017/test2017/3723.ts
-#EXTINF:-1,UK: Channel 4
-http://87.120.36.166:80/live/test2017/test2017/3720.ts
-#EXTINF:-1,UK: Channel 5
-http://87.120.36.166:80/live/test2017/test2017/3721.ts
-#EXTINF:-1,UK: Channel Aka
-http://87.120.36.166:80/live/test2017/test2017/3749.ts
-#EXTINF:-1,UK: Discovery
-http://87.120.36.166:80/live/test2017/test2017/2376.ts
-#EXTINF:-1,UK: Discovery Science
-http://87.120.36.166:80/live/test2017/test2017/3729.ts
-#EXTINF:-1,UK: Disney Channel
-http://87.120.36.166:80/live/test2017/test2017/2835.ts
-#EXTINF:-1,UK: Disney Junior
-http://87.120.36.166:80/live/test2017/test2017/2834.ts
-#EXTINF:-1,UK: Disney XD
-http://87.120.36.166:80/live/test2017/test2017/2826.ts
-#EXTINF:-1,UK: E Entertainment
-http://87.120.36.166:80/live/test2017/test2017/3726.ts
-#EXTINF:-1,UK: ESPN
-http://87.120.36.166:80/live/test2017/test2017/2782.ts
-#EXTINF:-1,UK: Film 4
-http://87.120.36.166:80/live/test2017/test2017/3727.ts
-#EXTINF:-1,UK: Food Network
-http://87.120.36.166:80/live/test2017/test2017/3739.ts
-#EXTINF:-1,UK: History
-http://87.120.36.166:80/live/test2017/test2017/2375.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://87.120.36.166:80/live/test2017/test2017/3712.ts
-#EXTINF:-1,UK: ITV
-http://87.120.36.166:80/live/test2017/test2017/2620.ts
-#EXTINF:-1,UK: ITV 3
-http://87.120.36.166:80/live/test2017/test2017/2622.ts
-#EXTINF:-1,UK: ITV 4
-http://87.120.36.166:80/live/test2017/test2017/2623.ts
-#EXTINF:-1,UK: ITV Be
-http://87.120.36.166:80/live/test2017/test2017/3713.ts
-#EXTINF:-1,UK: Love World
-http://87.120.36.166:80/live/test2017/test2017/3750.ts
-#EXTINF:-1,UK: MTV
-http://87.120.36.166:80/live/test2017/test2017/3740.ts
-#EXTINF:-1,UK: MTV Hits
-http://87.120.36.166:80/live/test2017/test2017/3741.ts
-#EXTINF:-1,UK: National Geographic
-http://87.120.36.166:80/live/test2017/test2017/2010.ts
-#EXTINF:-1,UK: National Geographic wild
-http://87.120.36.166:80/live/test2017/test2017/2373.ts
-#EXTINF:-1,UK: Nickelodeon
-http://87.120.36.166:80/live/test2017/test2017/3736.ts
-#EXTINF:-1,UK: Press TV
-http://87.120.36.166:80/live/test2017/test2017/3722.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://87.120.36.166:80/live/test2017/test2017/3733.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://87.120.36.166:80/live/test2017/test2017/2831.ts
-#EXTINF:-1,UK: Sky Movies Crime
-http://87.120.36.166:80/live/test2017/test2017/2374.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://87.120.36.166:80/live/test2017/test2017/2832.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://87.120.36.166:80/live/test2017/test2017/1799.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://87.120.36.166:80/live/test2017/test2017/1798.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi
-http://87.120.36.166:80/live/test2017/test2017/2830.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://87.120.36.166:80/live/test2017/test2017/2502.ts
-#EXTINF:-1,UK: Sky Sport News
-http://87.120.36.166:80/live/test2017/test2017/3711.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://87.120.36.166:80/live/test2017/test2017/2006.ts
-#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
-http://87.120.36.166:80/live/test2017/test2017/3193.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://87.120.36.166:80/live/test2017/test2017/8314.ts
-#EXTINF:-1,UK: SKY SPORT CRICKET HD
-http://87.120.36.166:80/live/test2017/test2017/3194.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://87.120.36.166:80/live/test2017/test2017/8313.ts
-#EXTINF:-1,UK:  SKY SPORT ACTION HD
-http://87.120.36.166:80/live/test2017/test2017/3195.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://87.120.36.166:80/live/test2017/test2017/2012.ts
-#EXTINF:-1,UK: SKY SPORT GOLF HD
-http://87.120.36.166:80/live/test2017/test2017/3196.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://87.120.36.166:80/live/test2017/test2017/2451.ts
-#EXTINF:-1,UK: SKY SPORT MIX HD
-http://87.120.36.166:80/live/test2017/test2017/3197.ts
-#EXTINF:-1,UK: STV
-http://87.120.36.166:80/live/test2017/test2017/3714.ts
-#EXTINF:-1,UK: TLC
-http://87.120.36.166:80/live/test2017/test2017/3725.ts
-#EXTINF:-1,UK: True Movies 1
-http://87.120.36.166:80/live/test2017/test2017/2827.ts
-#EXTINF:-1,UK: True Movies 2
-http://87.120.36.166:80/live/test2017/test2017/2828.ts
-#EXTINF:-1,UK: VH1
-http://87.120.36.166:80/live/test2017/test2017/3742.ts
-#EXTINF:-1,UK: Viva
-http://87.120.36.166:80/live/test2017/test2017/3743.ts
-#EXTINF:-1,UK: Yesterday
-http://87.120.36.166:80/live/test2017/test2017/3745.ts
-#EXTINF:-1,UK: Eurosport 1
-http://87.120.36.166:80/live/test2017/test2017/8692.ts
-#EXTINF:-1,UK: Gold
-http://87.120.36.166:80/live/test2017/test2017/3744.ts
-#EXTINF:-1,UK: SKY BOX OFFICE
-http://87.120.36.166:80/live/test2017/test2017/8693.ts
-#EXTINF:-1,UK: SKY BOX OFFICE1
-http://87.120.36.166:80/live/test2017/test2017/8694.ts
-#EXTINF:-1,UK: SKY BOX OFFICE2
-http://87.120.36.166:80/live/test2017/test2017/8695.ts
-#EXTINF:-1,UK: SKY BOX OFFICE3
-http://87.120.36.166:80/live/test2017/test2017/8696.ts
-#EXTINF:-1,UK: SKY BOX OFFICE4
-http://87.120.36.166:80/live/test2017/test2017/8697.ts
-#EXTINF:-1,UK: SKY SPORT FOOTBALL
-http://87.120.36.166:80/live/test2017/test2017/8698.ts
-#EXTINF:-1,UK: SKY SPORT GOLF
-http://87.120.36.166:80/live/test2017/test2017/8699.ts
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1979.ts
+#EXTINF:-1,[ES]  CANAL+SERIES XTRA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1978.ts
+#EXTINF:-1,[ES] HOLLYWOOD SD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1413.ts
+#EXTINF:-1,[ES] M.ESTRENOS.SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1407.ts
+#EXTINF:-1,======= ENTRETENIMIENTO=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2287.ts
+#EXTINF:-1,|ES| NEOX TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3866.ts
+#EXTINF:-1,[ES] FOX LIFE SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2234.ts
+#EXTINF:-1,[ES] AXN SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1971.ts
+#EXTINF:-1,[ES] AXN WHITE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1970.ts
+#EXTINF:-1,[ES] HOLLYWOOD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2232.ts
+#EXTINF:-1,[ES] SYFY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2231.ts
+#EXTINF:-1,[ES] TCM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2230.ts
+#EXTINF:-1,[ES] AMC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2227.ts
+#EXTINF:-1,=======ESP-TDT=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2286.ts
+#EXTINF:-1,[ES] TNT SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2229.ts
+#EXTINF:-1,[ES]  LA.1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1990.ts
+#EXTINF:-1,[ES]  LA.2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1989.ts
+#EXTINF:-1,[ES] CAZA Y PESCA SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2004.ts
+#EXTINF:-1,[ES] CALLE 13 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1975.ts
+#EXTINF:-1,[ES] CANAL COCINA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1974.ts
+#EXTINF:-1,[ES] ODISSEIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1973.ts
+#EXTINF:-1,[ES] CANAL PANDA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1972.ts
+#EXTINF:-1,[ES] COMDY CENTRAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1977.ts
+#EXTINF:-1,[ES] ANTENA 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1988.ts
+#EXTINF:-1,[ES] COSMO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1976.ts
+#EXTINF:-1,[ES] CUATRO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1987.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1412.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1985.ts
+#EXTINF:-1,[ES] LA SEXTA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/68.ts
+#EXTINF:-1,[ES] ASTAURIAS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/74.ts
+#EXTINF:-1,[ES] CANAL 4
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/123.ts
+#EXTINF:-1,[ES] ElCorreoTV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/77.ts
+#EXTINF:-1,[ES] ETB HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/76.ts
+#EXTINF:-1,=======CULTURA=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2290.ts
+#EXTINF:-1,[ES] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2244.ts
+#EXTINF:-1,[ES] NATIIONAL GEO SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2243.ts
+#EXTINF:-1,[ES] NATIIONAL GEO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2242.ts
+#EXTINF:-1,=======NIÃƒâ€˜OS=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2291.ts
+#EXTINF:-1,[ES] DISENEY CHANNEL HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2238.ts
+#EXTINF:-1,[ES] DISENEY CHANNEL SD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2239.ts
+#EXTINF:-1,[ES] NICKELODEON HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2240.ts
+#EXTINF:-1,=======DEPORTES=======
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2289.ts
+#EXTINF:-1,[ES] CANAL LIGA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1421.ts
+#EXTINF:-1,[ES] TELECINCO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1411.ts
+#EXTINF:-1,[ES] M DEPORTE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2010.ts
+#EXTINF:-1,[ES] M DEPORTE HD2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2011.ts
+#EXTINF:-1,[ES] EUROSPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2013.ts
+#EXTINF:-1,[ES] EUROSPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2012.ts
+#EXTINF:-1,[ES] GOLF HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2016.ts
+#EXTINF:-1,[ES] BAR LA LIGA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2017.ts
+#EXTINF:-1,[ES] M Futbol HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2018.ts
+#EXTINF:-1,[ES] CANAL + FUTBOL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1406.ts
+#EXTINF:-1,[ES] BARCA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2015.ts
+#EXTINF:-1,[ES] BARCA TV HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1415.ts
+#EXTINF:-1,[ES] REAL MADRID HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1416.ts
+#EXTINF:-1,[ES] REAL MADRID TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2014.ts
+#EXTINF:-1,[ES] M Toros HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2005.ts
+#EXTINF:-1,[ES] M GOLF HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2009.ts
+#EXTINF:-1,[ES] MOTOGP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2008.ts
+#EXTINF:-1,[ES] Movistar F1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2007.ts
+#EXTINF:-1,[ES] TELECINCO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1986.ts
+#EXTINF:-1,[ES] Teledeporte HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2006.ts
+#EXTINF:-1,[ES] BEIN SPORT ES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1414.ts
+#EXTINF:-1,[ES] BEIN LIGA HD ES
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2003.ts
+#EXTINF:-1,[ES] BEIN LALIGA 2HD(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2002.ts
+#EXTINF:-1,[ES] BEIN LALIGA 2HD(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2001.ts
+#EXTINF:-1,[ES] BEIN LALIGA 3HD (Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2000.ts
+#EXTINF:-1,[ES] BEIN MAX 1HD ES (Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1999.ts
+#EXTINF:-1,[ES] BEIN MAX 2HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1998.ts
+#EXTINF:-1,[ES] BEIN MAX 3HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1997.ts
+#EXTINF:-1,[ES] BEIN MAX 4HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1996.ts
+#EXTINF:-1,[ES] BEIN MAX 5HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1995.ts
+#EXTINF:-1,[ES] BEIN MAX 6HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1994.ts
+#EXTINF:-1,[ES] BEIN MAX 7HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1993.ts
+#EXTINF:-1,[ES] BEIN MAX 8HD ES(Solo_partidos)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1992.ts
+#EXTINF:-1,=====TAQUILLAS=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1588.ts
+#EXTINF:-1,[ES] TAQUILLA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1589.ts
+#EXTINF:-1,[ES] TAQUILLA 2HD
 
-#EXTINF:-1,UK:Sports_Football
-http://178.33.239.88:9000/live/2018/2018/8067.ts
-#EXTINF:-1,UK:Sky Premier Sport
-http://178.33.239.88:9000/live/2018/2018/12943.ts
-#EXTINF:-1,UK:Sky Sport Premier League
-http://178.33.239.88:9000/live/2018/2018/12947.ts
-#EXTINF:-1,UK:Sky Sport Premier League (b)
-http://178.33.239.88:9000/live/2018/2018/12946.ts
-#EXTINF:-1,UK:Sky Sports Premier league
-http://178.33.239.88:9000/live/2018/2018/12948.ts
-#EXTINF:-1,UK:SKY_PREMIER
-http://178.33.239.88:9000/live/2018/2018/12945.ts
-#EXTINF:-1,UK:BT_SPORT_1
-http://178.33.239.88:9000/live/2018/2018/10521.ts
-#EXTINF:-1,UK:BT_SPORT_2
-http://178.33.239.88:9000/live/2018/2018/10522.ts
-#EXTINF:-1,UK:BT_SPORT_3
-http://178.33.239.88:9000/live/2018/2018/9260.ts
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://178.33.239.88:9000/live/2018/2018/8069.ts
-#EXTINF:-1,UK:Sky_Sport
-http://178.33.239.88:9000/live/2018/2018/7860.ts
-#EXTINF:-1,UK:Sky_Sports_1
-http://178.33.239.88:9000/live/2018/2018/8092.ts
-#EXTINF:-1,UK:Sky_Sports 2
-http://178.33.239.88:9000/live/2018/2018/8091.ts
-#EXTINF:-1,UK:Sky_Sports_3
-http://178.33.239.88:9000/live/2018/2018/8090.ts
-#EXTINF:-1,UK:Sky_Sports_5
-http://178.33.239.88:9000/live/2018/2018/8088.ts
-#EXTINF:-1,UK:Sky_Sports_4
-http://178.33.239.88:9000/live/2018/2018/8089.ts
-#EXTINF:-1,UK:Sky Sport MIX
-http://178.33.239.88:9000/live/2018/2018/12938.ts
-#EXTINF:-1,UK:Sky_Sports BT
-http://178.33.239.88:9000/live/2018/2018/12941.ts
-#EXTINF:-1,UK:Sky Sports
-http://178.33.239.88:9000/live/2018/2018/12942.ts
-#EXTINF:-1,Uk: Sky Sports Box
-http://178.33.239.88:9000/live/2018/2018/12937.ts
-#EXTINF:-1,UK:Premier_Sport
-http://178.33.239.88:9000/live/2018/2018/10869.ts
-#EXTINF:-1,UK:Sky_Sports_News
-http://178.33.239.88:9000/live/2018/2018/10870.ts
-#EXTINF:-1,UK:Sky_Sport_Racing
-http://178.33.239.88:9000/live/2018/2018/7858.ts
-#EXTINF:-1,UK:Sky_Sports F1
-http://178.33.239.88:9000/live/2018/2018/8087.ts
-#EXTINF:-1,UK:Setanta_Sports_1
-http://178.33.239.88:9000/live/2018/2018/10524.ts
-#EXTINF:-1,UK:EuroSport_1
-http://178.33.239.88:9000/live/2018/2018/10525.ts
-#EXTINF:-1,UK:EuroSport_2
-http://178.33.239.88:9000/live/2018/2018/10526.ts
-#EXTINF:-1,UK:True_Movies
-http://178.33.239.88:9000/live/2018/2018/8055.ts
-#EXTINF:-1,UK:Sky-Cienma_Disney
-http://178.33.239.88:9000/live/2018/2018/9270.ts
-#EXTINF:-1,UK:Sky-Cinema_Comedy
-http://178.33.239.88:9000/live/2018/2018/9269.ts
-#EXTINF:-1,UK:Sky-Movies_Premiere
-http://178.33.239.88:9000/live/2018/2018/9262.ts
-#EXTINF:-1,UK:SKY_ACTION_HD
-http://178.33.239.88:9000/live/2018/2018/10889.ts
-#EXTINF:-1,UK:CBS_ACTION
-http://178.33.239.88:9000/live/2018/2018/10867.ts
-#EXTINF:-1,UK:CBS_DRAMA
-http://178.33.239.88:9000/live/2018/2018/10866.ts
-#EXTINF:-1,UK:CBS_REALITY
-http://178.33.239.88:9000/live/2018/2018/10865.ts
-#EXTINF:-1,UK:DRAMA
-http://178.33.239.88:9000/live/2018/2018/10864.ts
-#EXTINF:-1,UK:Film_4
-http://178.33.239.88:9000/live/2018/2018/10868.ts
-#EXTINF:-1,UK:Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10874.ts
-#EXTINF:-1,UK:HORROR_CHANNEL
-http://178.33.239.88:9000/live/2018/2018/10863.ts
-#EXTINF:-1,UK:MOVIES_4_MEN
-http://178.33.239.88:9000/live/2018/2018/10862.ts
-#EXTINF:-1,UK:SKY_CINEMA_DISNEY
-http://178.33.239.88:9000/live/2018/2018/10882.ts
-#EXTINF:-1,UK:SKY_CINEMA_DRAMA_ROMANCE
-http://178.33.239.88:9000/live/2018/2018/10881.ts
-#EXTINF:-1,UK:SKY_CINEMA_Action
-http://178.33.239.88:9000/live/2018/2018/10880.ts
-#EXTINF:-1,UK:SKY_CINEMA_PREMIERE_HD
-http://178.33.239.88:9000/live/2018/2018/10884.ts
-#EXTINF:-1,UK:SKY_CINEMA_SCI-FI_HORROR_HD
-http://178.33.239.88:9000/live/2018/2018/10885.ts
-#EXTINF:-1,UK:SKY_Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10887.ts
-#EXTINF:-1,UK:SKY_Crime_Thriller
-http://178.33.239.88:9000/live/2018/2018/10879.ts
-#EXTINF:-1,UK:SKY_Movies_Family_HD
-http://178.33.239.88:9000/live/2018/2018/10886.ts
-#EXTINF:-1,UK:SKY_Greats
-http://178.33.239.88:9000/live/2018/2018/10878.ts
-#EXTINF:-1,UK:SKY_MOVIES_PREMIERE_PLUS_HD
-http://178.33.239.88:9000/live/2018/2018/10883.ts
-#EXTINF:-1,UK:SKY_SHOW
-http://178.33.239.88:9000/live/2018/2018/10876.ts
-#EXTINF:-1,UK:SKY_SELECT_HD
-http://178.33.239.88:9000/live/2018/2018/10888.ts
-#EXTINF:-1,UK:SONY_MOVIES
-http://178.33.239.88:9000/live/2018/2018/10873.ts
-#EXTINF:-1,UK:Movies_Drama
-http://178.33.239.88:9000/live/2018/2018/10871.ts
-#EXTINF:-1,UK:CNBC
-http://178.33.239.88:9000/live/2018/2018/8071.ts
-#EXTINF:-1,UK:CNN_NEW
-http://178.33.239.88:9000/live/2018/2018/8052.ts
-#EXTINF:-1,UK:Disney
-http://178.33.239.88:9000/live/2018/2018/8075.ts
-#EXTINF:-1,UK:ITV 4
-http://178.33.239.88:9000/live/2018/2018/9255.ts
-#EXTINF:-1,UK:Nat_Wild-HD
-http://178.33.239.88:9000/live/2018/2018/8056.ts
-#EXTINF:-1,UK:Dmax
-http://178.33.239.88:9000/live/2018/2018/8073.ts
-#EXTINF:-1,UK:Nick_Toons
-http://178.33.239.88:9000/live/2018/2018/8074.ts
-#EXTINF:-1,UK:ITV_2_HD
-http://178.33.239.88:9000/live/2018/2018/10528.ts
-#EXTINF:-1,UK:ITV_3_HD
-http://178.33.239.88:9000/live/2018/2018/10529.ts
-#EXTINF:-1,UK:ITV_4_HD
-http://178.33.239.88:9000/live/2018/2018/10530.ts
-#EXTINF:-1,UK:ITV_HD
-http://178.33.239.88:9000/live/2018/2018/10531.ts
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1590.ts
+#EXTINF:-1,[ES] TAQUILLA 3HD
 
-#EXTINF:-1,UK: ESPN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/62222.ts
-#EXTINF:-1,UK: BOX OFFICE HD 1
-http://landiptv.live:8080/live/ricardo/ricardo/74550.ts
-#EXTINF:-1,UK: BoxOffice 2
-http://landiptv.live:8080/live/ricardo/ricardo/74551.ts
-#EXTINF:-1,UK: BoxOffice 4
-http://landiptv.live:8080/live/ricardo/ricardo/74552.ts
-#EXTINF:-1,UK: Liverpool FC
-http://landiptv.live:8080/live/ricardo/ricardo/64983.ts
-#EXTINF:-1,UK: ITV1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65172.ts
-#EXTINF:-1,UK: ITV2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65171.ts
-#EXTINF:-1,UK: ITV3 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65170.ts
-#EXTINF:-1,UK: ITV4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65169.ts
-#EXTINF:-1,UK: AT THE RACES
-http://landiptv.live:8080/live/ricardo/ricardo/65018.ts
-#EXTINF:-1,UK: Racing UK HD
-http://landiptv.live:8080/live/ricardo/ricardo/65019.ts
-#EXTINF:-1,UK: Chelsea TV HD
-http://landiptv.live:8080/live/ricardo/ricardo/65020.ts
-#EXTINF:-1,UK: Dave HD
-http://landiptv.live:8080/live/ricardo/ricardo/65021.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://landiptv.live:8080/live/ricardo/ricardo/65023.ts
-#EXTINF:-1,UK: TRUE MOVIES 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84953.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84954.ts
-#EXTINF:-1,UK: Discovery Science HD
-http://landiptv.live:8080/live/ricardo/ricardo/65024.ts
-#EXTINF:-1,UK: Discovery History HD
-http://landiptv.live:8080/live/ricardo/ricardo/65025.ts
-#EXTINF:-1,UK: Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65029.ts
-#EXTINF:-1,UK: Home & Health
-http://landiptv.live:8080/live/ricardo/ricardo/65031.ts
-#EXTINF:-1,UK: Discovery Turbo HD
-http://landiptv.live:8080/live/ricardo/ricardo/65033.ts
-#EXTINF:-1,UK: China History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65035.ts
-#EXTINF:-1,UK: ITV BE
-http://landiptv.live:8080/live/ricardo/ricardo/65036.ts
-#EXTINF:-1,UK: Really
-http://landiptv.live:8080/live/ricardo/ricardo/65037.ts
-#EXTINF:-1,UK: Pick
-http://landiptv.live:8080/live/ricardo/ricardo/65038.ts
-#EXTINF:-1,UK: Quest
-http://landiptv.live:8080/live/ricardo/ricardo/65039.ts
-#EXTINF:-1,UK: Good Food
-http://landiptv.live:8080/live/ricardo/ricardo/65040.ts
-#EXTINF:-1,UK: Sky News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65042.ts
-#EXTINF:-1,UK: TLC HD
-http://landiptv.live:8080/live/ricardo/ricardo/65043.ts
-#EXTINF:-1,UK: Yesterday HD
-http://landiptv.live:8080/live/ricardo/ricardo/65044.ts
-#EXTINF:-1,UK: Travel
-http://landiptv.live:8080/live/ricardo/ricardo/65045.ts
-#EXTINF:-1,UK: 5 USA
-http://landiptv.live:8080/live/ricardo/ricardo/65046.ts
-#EXTINF:-1,UK: Trace Africa
-http://landiptv.live:8080/live/ricardo/ricardo/65047.ts
-#EXTINF:-1,UK: Starz TV
-http://landiptv.live:8080/live/ricardo/ricardo/65048.ts
-#EXTINF:-1,UK: Scuzz
-http://landiptv.live:8080/live/ricardo/ricardo/65049.ts
-#EXTINF:-1,UK: The Vault
-http://landiptv.live:8080/live/ricardo/ricardo/65052.ts
-#EXTINF:-1,UK: Chart show Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65053.ts
-#EXTINF:-1,UK: Chart Show TV
-http://landiptv.live:8080/live/ricardo/ricardo/65054.ts
-#EXTINF:-1,UK: Box Upfront
-http://landiptv.live:8080/live/ricardo/ricardo/65055.ts
-#EXTINF:-1,UK: Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65056.ts
-#EXTINF:-1,UK: The Box
-http://landiptv.live:8080/live/ricardo/ricardo/65057.ts
-#EXTINF:-1,UK: Channel AKA
-http://landiptv.live:8080/live/ricardo/ricardo/65059.ts
-#EXTINF:-1,UK: Heart TV
-http://landiptv.live:8080/live/ricardo/ricardo/65060.ts
-#EXTINF:-1,UK: CAPITAL TV
-http://landiptv.live:8080/live/ricardo/ricardo/65061.ts
-#EXTINF:-1,UK: MTV BASE
-http://landiptv.live:8080/live/ricardo/ricardo/65090.ts
-#EXTINF:-1,UK: MTV Music
-http://landiptv.live:8080/live/ricardo/ricardo/65095.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/65097.ts
-#EXTINF:-1,UK: Viva
-http://landiptv.live:8080/live/ricardo/ricardo/65098.ts
-#EXTINF:-1,UK: Sky MotoGP
-http://landiptv.live:8080/live/ricardo/ricardo/65100.ts
-#EXTINF:-1,UK: Russia Today News
-http://landiptv.live:8080/live/ricardo/ricardo/65101.ts
-#EXTINF:-1,UK: Investigation Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65102.ts
-#EXTINF:-1,UK: Hunting Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65104.ts
-#EXTINF:-1,UK: DW
-http://landiptv.live:8080/live/ricardo/ricardo/65105.ts
-#EXTINF:-1,UK: Sony Movie
-http://landiptv.live:8080/live/ricardo/ricardo/65106.ts
-#EXTINF:-1,UK: Sony Sab
-http://landiptv.live:8080/live/ricardo/ricardo/65107.ts
-#EXTINF:-1,UK: Sony TV
-http://landiptv.live:8080/live/ricardo/ricardo/65108.ts
-#EXTINF:-1,UK: Sony Max
-http://landiptv.live:8080/live/ricardo/ricardo/65109.ts
-#EXTINF:-1,UK: Star Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65110.ts
-#EXTINF:-1,UK: Alibi HD
-http://landiptv.live:8080/live/ricardo/ricardo/65112.ts
-#EXTINF:-1,UK: Sky Arts HD
-http://landiptv.live:8080/live/ricardo/ricardo/65113.ts
-#EXTINF:-1,UK: iFood
-http://landiptv.live:8080/live/ricardo/ricardo/65117.ts
-#EXTINF:-1,UK: True Movies HD
-http://landiptv.live:8080/live/ricardo/ricardo/65118.ts
-#EXTINF:-1,UK: CBS Reality
-http://landiptv.live:8080/live/ricardo/ricardo/65119.ts
-#EXTINF:-1,UK: CBS Drama
-http://landiptv.live:8080/live/ricardo/ricardo/65120.ts
-#EXTINF:-1,UK: CBS Action
-http://landiptv.live:8080/live/ricardo/ricardo/65121.ts
-#EXTINF:-1,UK: Movies24
-http://landiptv.live:8080/live/ricardo/ricardo/65122.ts
-#EXTINF:-1,UK: Movies4Men +1
-http://landiptv.live:8080/live/ricardo/ricardo/65123.ts
-#EXTINF:-1,UK: Movies4Men
-http://landiptv.live:8080/live/ricardo/ricardo/65124.ts
-#EXTINF:-1,UK: Baby TV
-http://landiptv.live:8080/live/ricardo/ricardo/65125.ts
-#EXTINF:-1,UK: Boomerang HD
-http://landiptv.live:8080/live/ricardo/ricardo/65126.ts
-#EXTINF:-1,UK: Nicktoons
-http://landiptv.live:8080/live/ricardo/ricardo/65129.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://landiptv.live:8080/live/ricardo/ricardo/65130.ts
-#EXTINF:-1,UK: Disney XD HD
-http://landiptv.live:8080/live/ricardo/ricardo/65134.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://landiptv.live:8080/live/ricardo/ricardo/65135.ts
-#EXTINF:-1,UK: Sky Living HD
-http://landiptv.live:8080/live/ricardo/ricardo/65136.ts
-#EXTINF:-1,UK: Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65137.ts
-#EXTINF:-1,UK: HBO Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65139.ts
-#EXTINF:-1,UK: SKY SELECT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65140.ts
-#EXTINF:-1,UK: SKY GREATS HD
-http://landiptv.live:8080/live/ricardo/ricardo/65142.ts
-#EXTINF:-1,UK: Sky Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65144.ts
-#EXTINF:-1,UK: SKY Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65145.ts
-#EXTINF:-1,UK: SKY Cinema Drama & Romance HD
-http://landiptv.live:8080/live/ricardo/ricardo/65146.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65148.ts
-#EXTINF:-1,UK: SKY FAMILY HD
-http://landiptv.live:8080/live/ricardo/ricardo/65149.ts
-#EXTINF:-1,UK: Sky Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/65151.ts
-#EXTINF:-1,UK: Sky Hits Showcase HD
-http://landiptv.live:8080/live/ricardo/ricardo/65152.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://landiptv.live:8080/live/ricardo/ricardo/65154.ts
-#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
-http://landiptv.live:8080/live/ricardo/ricardo/65156.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://landiptv.live:8080/live/ricardo/ricardo/65157.ts
-#EXTINF:-1,UK: SKY Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/65158.ts
-#EXTINF:-1,UK: Sky One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65159.ts
-#EXTINF:-1,UK: Comedy Central HD
-http://landiptv.live:8080/live/ricardo/ricardo/65160.ts
-#EXTINF:-1,UK: Lifetime HD
-http://landiptv.live:8080/live/ricardo/ricardo/65161.ts
-#EXTINF:-1,UK: TCM HD
-http://landiptv.live:8080/live/ricardo/ricardo/65162.ts
-#EXTINF:-1,UK: Fox HD
-http://landiptv.live:8080/live/ricardo/ricardo/65163.ts
-#EXTINF:-1,UK: Syfy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65165.ts
-#EXTINF:-1,UK: TLC IRELAND
-http://landiptv.live:8080/live/ricardo/ricardo/65166.ts
-#EXTINF:-1,UK: Watch HD
-http://landiptv.live:8080/live/ricardo/ricardo/65168.ts
-#EXTINF:-1,UK: ITV Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/65173.ts
-#EXTINF:-1,UK: E! HD
-http://landiptv.live:8080/live/ricardo/ricardo/65174.ts
-#EXTINF:-1,UK: 3E HD
-http://landiptv.live:8080/live/ricardo/ricardo/65175.ts
-#EXTINF:-1,UK: RTE Junior
-http://landiptv.live:8080/live/ricardo/ricardo/65176.ts
-#EXTINF:-1,UK: RTE ONE HD
-http://landiptv.live:8080/live/ricardo/ricardo/65177.ts
-#EXTINF:-1,UK: RTE TWO HD
-http://landiptv.live:8080/live/ricardo/ricardo/65178.ts
-#EXTINF:-1,UK: RTE NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/65179.ts
-#EXTINF:-1,UK: BBC Four HD
-http://landiptv.live:8080/live/ricardo/ricardo/65182.ts
-#EXTINF:-1,UK: BBC News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65183.ts
-#EXTINF:-1,UK: CBBC Three
-http://landiptv.live:8080/live/ricardo/ricardo/65184.ts
-#EXTINF:-1,UK: BBC One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65186.ts
-#EXTINF:-1,UK: MUTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74521.ts
-#EXTINF:-1,UK: LFC TV
-http://landiptv.live:8080/live/ricardo/ricardo/74522.ts
-#EXTINF:-1,UK: SKY PREMIERE +1
-http://landiptv.live:8080/live/ricardo/ricardo/74535.ts
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://landiptv.live:8080/live/ricardo/ricardo/74545.ts
-#EXTINF:-1,UK: SKY HITS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74547.ts
-#EXTINF:-1,UK: BBC Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/74561.ts
-#EXTINF:-1,UK: BBC World News
-http://landiptv.live:8080/live/ricardo/ricardo/74563.ts
-#EXTINF:-1,UK: SKY 1
-http://landiptv.live:8080/live/ricardo/ricardo/74564.ts
-#EXTINF:-1,UK: ITV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74566.ts
-#EXTINF:-1,UK: London Live
-http://landiptv.live:8080/live/ricardo/ricardo/74568.ts
-#EXTINF:-1,UK: More4
-http://landiptv.live:8080/live/ricardo/ricardo/74571.ts
-#EXTINF:-1,UK: 4SEVEN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74572.ts
-#EXTINF:-1,UK: DMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74573.ts
-#EXTINF:-1,UK: UNIVERSAL HD
-http://landiptv.live:8080/live/ricardo/ricardo/74574.ts
-#EXTINF:-1,UK: My5
-http://landiptv.live:8080/live/ricardo/ricardo/74575.ts
-#EXTINF:-1,UK: E4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74576.ts
-#EXTINF:-1,UK: Eden HD
-http://landiptv.live:8080/live/ricardo/ricardo/74577.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://landiptv.live:8080/live/ricardo/ricardo/74579.ts
-#EXTINF:-1,UK: Your TV
-http://landiptv.live:8080/live/ricardo/ricardo/74580.ts
-#EXTINF:-1,UK: TG 4
-http://landiptv.live:8080/live/ricardo/ricardo/74585.ts
-#EXTINF:-1,UK: 5Star
-http://landiptv.live:8080/live/ricardo/ricardo/74587.ts
-#EXTINF:-1,UK: SPIKE
-http://landiptv.live:8080/live/ricardo/ricardo/74588.ts
-#EXTINF:-1,UK: BET
-http://landiptv.live:8080/live/ricardo/ricardo/74589.ts
-#EXTINF:-1,UK: CITV
-http://landiptv.live:8080/live/ricardo/ricardo/74590.ts
-#EXTINF:-1,UK: Tiny POP
-http://landiptv.live:8080/live/ricardo/ricardo/74591.ts
-#EXTINF:-1,UK: H2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74597.ts
-#EXTINF:-1,UK: Travel Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74601.ts
-#EXTINF:-1,UK: 4MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74604.ts
-#EXTINF:-1,UK: Fox News
-http://landiptv.live:8080/live/ricardo/ricardo/74608.ts
-#EXTINF:-1,UK: Euronews
-http://landiptv.live:8080/live/ricardo/ricardo/74609.ts
-#EXTINF:-1,UK: Sky Musicals HD
-http://landiptv.live:8080/live/ricardo/ricardo/74690.ts
-#EXTINF:-1,UK: Sky 3D
-http://landiptv.live:8080/live/ricardo/ricardo/74696.ts
-#EXTINF:-1,UK: BoxOffice 3
-http://landiptv.live:8080/live/ricardo/ricardo/74697.ts
-#EXTINF:-1,UK: Pop Max
-http://landiptv.live:8080/live/ricardo/ricardo/74706.ts
-#EXTINF:-1,UK: W HD
-http://landiptv.live:8080/live/ricardo/ricardo/74716.ts
-#EXTINF:-1,UK: ITV2 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74719.ts
-#EXTINF:-1,UK: ITV4 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74720.ts
-#EXTINF:-1,UK: Quest Red
-http://landiptv.live:8080/live/ricardo/ricardo/74721.ts
-#EXTINF:-1,UK: Challenge
-http://landiptv.live:8080/live/ricardo/ricardo/74722.ts
-#EXTINF:-1,UK: S4C
-http://landiptv.live:8080/live/ricardo/ricardo/74723.ts
-#EXTINF:-1,UK: 5 USA +1
-http://landiptv.live:8080/live/ricardo/ricardo/74729.ts
-#EXTINF:-1,UK: UTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74731.ts
-#EXTINF:-1,UK: BBC Parliament
-http://landiptv.live:8080/live/ricardo/ricardo/74734.ts
-#EXTINF:-1,UK: BBC Alba
-http://landiptv.live:8080/live/ricardo/ricardo/74735.ts
-#EXTINF:-1,UK: Arise News
-http://landiptv.live:8080/live/ricardo/ricardo/74736.ts
-#EXTINF:-1,UK: FRANCE 24
-http://landiptv.live:8080/live/ricardo/ricardo/74737.ts
-#EXTINF:-1,UK: CBSN News
-http://landiptv.live:8080/live/ricardo/ricardo/74738.ts
-#EXTINF:-1,UK: Channels Television
-http://landiptv.live:8080/live/ricardo/ricardo/74741.ts
-#EXTINF:-1,UK: CNN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/74742.ts
-#EXTINF:-1,UK: Bloomberg
-http://landiptv.live:8080/live/ricardo/ricardo/74743.ts
-#EXTINF:-1,UK: Discovery HOME & HEALTH
-http://landiptv.live:8080/live/ricardo/ricardo/74758.ts
-#EXTINF:-1,UK: Film 4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74759.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/74760.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74761.ts
-#EXTINF:-1,UK: Sky Great HD
-http://landiptv.live:8080/live/ricardo/ricardo/74765.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/74774.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/74775.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://landiptv.live:8080/live/ricardo/ricardo/74776.ts
-#EXTINF:-1,UK: Channel4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74789.ts
-#EXTINF:-1,UK: Channel5 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74790.ts
-#EXTINF:-1,UK: CNN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74792.ts
-#EXTINF:-1,UK: Discovery Shed
-http://landiptv.live:8080/live/ricardo/ricardo/74794.ts
-#EXTINF:-1,UK: Drama
-http://landiptv.live:8080/live/ricardo/ricardo/74796.ts
-#EXTINF:-1,UK: Food Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74799.ts
-#EXTINF:-1,UK: History HD
-http://landiptv.live:8080/live/ricardo/ricardo/74802.ts
-#EXTINF:-1,UK: Horror Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74804.ts
-#EXTINF:-1,UK: NAT GEO Wild HD
-http://landiptv.live:8080/live/ricardo/ricardo/74807.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://landiptv.live:8080/live/ricardo/ricardo/74808.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://landiptv.live:8080/live/ricardo/ricardo/65133.ts
-#EXTINF:-1,UK: Cartoonito
-http://landiptv.live:8080/live/ricardo/ricardo/74593.ts
-#EXTINF:-1,UK: Disney Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/74594.ts
-#EXTINF:-1,UK: Nickelodeon +1
-http://landiptv.live:8080/live/ricardo/ricardo/74705.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74786.ts
-#EXTINF:-1,UK: ITV Box Office HD
-http://landiptv.live:8080/live/ricardo/ricardo/65022.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://landiptv.live:8080/live/ricardo/ricardo/80381.ts
-#EXTINF:-1,UK: HISTOR
-http://landiptv.live:8080/live/ricardo/ricardo/80400.ts
-#EXTINF:-1,UK: Setanta Sport
-http://landiptv.live:8080/live/ricardo/ricardo/65015.ts
-#EXTINF:-1,UK: EDGE SPORT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65066.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://landiptv.live:8080/live/ricardo/ricardo/65067.ts
-#EXTINF:-1,UK: Super Sport 2
-http://landiptv.live:8080/live/ricardo/ricardo/74658.ts
-#EXTINF:-1,UK: Ginxe Sports TV
-http://landiptv.live:8080/live/ricardo/ricardo/74685.ts
-#EXTINF:-1,UK: BBC Earth
-http://landiptv.live:8080/live/ricardo/ricardo/86280.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/86281.ts
-#EXTINF:-1,UK: 5 SELECT
-http://landiptv.live:8080/live/ricardo/ricardo/86300.ts
-#EXTINF:-1,UK: CRIME & INVESTIGATION HD
-http://landiptv.live:8080/live/ricardo/ricardo/86302.ts
-#EXTINF:-1,UK: Fine Living Network
-http://landiptv.live:8080/live/ricardo/ricardo/86312.ts
-#EXTINF:-1,UK: Racing HD
-http://landiptv.live:8080/live/ricardo/ricardo/86331.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/86333.ts
-#EXTINF:-1,UK: SyFy UK
-http://landiptv.live:8080/live/ricardo/ricardo/86340.ts
-#EXTINF:-1,UK: Sky Cinema Oscars
-http://landiptv.live:8080/live/ricardo/ricardo/88313.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/88316.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/88320.ts
-#EXTINF:-1,UK: SHOWCASE
-http://landiptv.live:8080/live/ricardo/ricardo/88686.ts
-#EXTINF:-1,UK: HBO HD
-http://landiptv.live:8080/live/ricardo/ricardo/91383.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91439.ts
-#EXTINF:-1,UK: Sky Cinema Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/91457.ts
-#EXTINF:-1,UK: True Movie
-http://landiptv.live:8080/live/ricardo/ricardo/92612.ts
-#EXTINF:-1,UK: Sky Movie Thriller
-http://landiptv.live:8080/live/ricardo/ricardo/93063.ts
-#EXTINF:-1,UK: Sky Movie Family
-http://landiptv.live:8080/live/ricardo/ricardo/93066.ts
-#EXTINF:-1,UK: Sky Movie Drama
-http://landiptv.live:8080/live/ricardo/ricardo/93070.ts
-#EXTINF:-1,UK: CHELSEA
-http://landiptv.live:8080/live/ricardo/ricardo/93244.ts
-#EXTINF:-1,UK: WWE Raw Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/93245.ts
-#EXTINF:-1,UK: WWE HD
-http://landiptv.live:8080/live/ricardo/ricardo/93246.ts
-#EXTINF:-1,UK: WWE 24
-http://landiptv.live:8080/live/ricardo/ricardo/93247.ts
-#EXTINF:-1,UK: Premier Sport HD
-http://landiptv.live:8080/live/ricardo/ricardo/93328.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/93470.ts
-#EXTINF:-1,UK: Sky Living FHD
-http://landiptv.live:8080/live/ricardo/ricardo/93472.ts
-#EXTINF:-1,UK: ITV BOX OFFICE (Live During Events Only)
-http://landiptv.live:8080/live/ricardo/ricardo/93907.ts
-#EXTINF:-1,UK: TCM (film)
-http://landiptv.live:8080/live/ricardo/ricardo/94176.ts
-#EXTINF:-1,UK: Keep It Country TV
-http://landiptv.live:8080/live/ricardo/ricardo/94189.ts
-#EXTINF:-1,UK: AMC HD
-http://landiptv.live:8080/live/ricardo/ricardo/63034.ts
-#EXTINF:-1,UK: RTE1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91966.ts
-#EXTINF:-1,UK: RTE2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91967.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER 1
-http://landiptv.live:8080/live/ricardo/ricardo/94779.ts
-#EXTINF:-1,UK: Eurosport 1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94786.ts
-#EXTINF:-1,UK: HBO 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94789.ts
-#EXTINF:-1,UK: NAT GEO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94791.ts
-#EXTINF:-1,UK: Animal Planet FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94793.ts
-#EXTINF:-1,UK: History FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94795.ts
-#EXTINF:-1,UK: MGM FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94796.ts
-#EXTINF:-1,UK: PPV WWE
-http://landiptv.live:8080/live/ricardo/ricardo/94806.ts
-#EXTINF:-1,UK: WWE NETWORK
-http://landiptv.live:8080/live/ricardo/ricardo/74519.ts
-#EXTINF:-1,UK: TV3
-http://landiptv.live:8080/live/ricardo/ricardo/74567.ts
-#EXTINF:-1,UK: REAL LIVES
-http://landiptv.live:8080/live/ricardo/ricardo/74582.ts
-#EXTINF:-1,UK: UTV Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74586.ts
-#EXTINF:-1,UK: CAPITAL TV MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74602.ts
-#EXTINF:-1,UK: NOW 80s
-http://landiptv.live:8080/live/ricardo/ricardo/74605.ts
-#EXTINF:-1,UK: RUSSIA TODAY
-http://landiptv.live:8080/live/ricardo/ricardo/74610.ts
-#EXTINF:-1,UK: HUM TV EUROPE
-http://landiptv.live:8080/live/ricardo/ricardo/74611.ts
-#EXTINF:-1,UK: B4U Music
-http://landiptv.live:8080/live/ricardo/ricardo/86866.ts
-#EXTINF:-1,UK: &TV
-http://landiptv.live:8080/live/ricardo/ricardo/87030.ts
-#EXTINF:-1,UK: PRIME TV UK
-http://landiptv.live:8080/live/ricardo/ricardo/91384.ts
-#EXTINF:-1,UK: CHANNEL AKAAL
-http://landiptv.live:8080/live/ricardo/ricardo/91386.ts
-#EXTINF:-1,UK: ARY DIGITAL
-http://landiptv.live:8080/live/ricardo/ricardo/91387.ts
-#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH
-http://landiptv.live:8080/live/ricardo/ricardo/91389.ts
-#EXTINF:-1,UK: BLOOMBERG NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91391.ts
-#EXTINF:-1,UK: HUM MASALA
-http://landiptv.live:8080/live/ricardo/ricardo/91394.ts
-#EXTINF:-1,UK: SETANTA SPORTS
-http://landiptv.live:8080/live/ricardo/ricardo/91400.ts
-#EXTINF:-1,UK: DUNYA NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91417.ts
-#EXTINF:-1,UK: NOLLLYWOOD
-http://landiptv.live:8080/live/ricardo/ricardo/91418.ts
-#EXTINF:-1,UK: E! Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/91422.ts
-#EXTINF:-1,UK: ABP NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91433.ts
-#EXTINF:-1,UK: RISHTEY TV
-http://landiptv.live:8080/live/ricardo/ricardo/91454.ts
-#EXTINF:-1,UK: SIKH TV
-http://landiptv.live:8080/live/ricardo/ricardo/91455.ts
-#EXTINF:-1,UK: STAR BHARAT
-http://landiptv.live:8080/live/ricardo/ricardo/91458.ts
-#EXTINF:-1,UK: STAR PLUS
-http://landiptv.live:8080/live/ricardo/ricardo/91459.ts
-#EXTINF:-1,UK: ZING TV
-http://landiptv.live:8080/live/ricardo/ricardo/91468.ts
-#EXTINF:-1,UK: MTV Base HD
-http://landiptv.live:8080/live/ricardo/ricardo/95572.ts
-#EXTINF:-1,UK: MTV Live HD
-http://landiptv.live:8080/live/ricardo/ricardo/95573.ts
-#EXTINF:-1,UK: REALY
-http://landiptv.live:8080/live/ricardo/ricardo/74727.ts
-#EXTINF:-1,UK: Africa News
-http://landiptv.live:8080/live/ricardo/ricardo/65041.ts
-#EXTINF:-1,UK: ABC News
-http://landiptv.live:8080/live/ricardo/ricardo/96992.ts
-#EXTINF:-1,UK: Sky Cinema Premiere Plus
-http://landiptv.live:8080/live/ricardo/ricardo/97047.ts
-#EXTINF:-1,UK: MOTORSPORT TV
-http://landiptv.live:8080/live/ricardo/ricardo/97053.ts
-#EXTINF:-1,UK: CBBC
-http://landiptv.live:8080/live/ricardo/ricardo/74569.ts
-#EXTINF:-1,UK: Pick TV
-http://landiptv.live:8080/live/ricardo/ricardo/91965.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/94661.ts
-#EXTINF:-1,UK: Motors TV
-http://landiptv.live:8080/live/ricardo/ricardo/97001.ts
-#EXTINF:-1,UK: Chelsea FC
-http://landiptv.live:8080/live/ricardo/ricardo/98241.ts
-#EXTINF:-1,UK: Bike
-http://landiptv.live:8080/live/ricardo/ricardo/99064.ts
-#EXTINF:-1,UK: Box Nation
-http://landiptv.live:8080/live/ricardo/ricardo/99066.ts
-#EXTINF:-1,UK: Challange
-http://landiptv.live:8080/live/ricardo/ricardo/99069.ts
-#EXTINF:-1,UK: Crime and Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99072.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99073.ts
-#EXTINF:-1,UK: Disney Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99076.ts
-#EXTINF:-1,UK: ESPN
-http://landiptv.live:8080/live/ricardo/ricardo/99082.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99085.ts
-#EXTINF:-1,UK: Fast & Fun Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/99086.ts
-#EXTINF:-1,UK: History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99093.ts
-#EXTINF:-1,UK: Irish TV
-http://landiptv.live:8080/live/ricardo/ricardo/99095.ts
-#EXTINF:-1,UK: Kix
-http://landiptv.live:8080/live/ricardo/ricardo/99101.ts
-#EXTINF:-1,UK: MTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/99105.ts
-#EXTINF:-1,UK: RT
-http://landiptv.live:8080/live/ricardo/ricardo/99110.ts
-#EXTINF:-1,UK: RTE JR
-http://landiptv.live:8080/live/ricardo/ricardo/99113.ts
-#EXTINF:-1,UK: STV
-http://landiptv.live:8080/live/ricardo/ricardo/99114.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 1
-http://landiptv.live:8080/live/ricardo/ricardo/99117.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 2
-http://landiptv.live:8080/live/ricardo/ricardo/99118.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 3
-http://landiptv.live:8080/live/ricardo/ricardo/99119.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 4
-http://landiptv.live:8080/live/ricardo/ricardo/99120.ts
-#EXTINF:-1,UK: Sky Living UK
-http://landiptv.live:8080/live/ricardo/ricardo/99122.ts
-#EXTINF:-1,UK: Sony Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99127.ts
-#EXTINF:-1,UK: True Crime
-http://landiptv.live:8080/live/ricardo/ricardo/99131.ts
-#EXTINF:-1,UK: True Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/99132.ts
-#EXTINF:-1,UK: TV3 Plus 1
-http://landiptv.live:8080/live/ricardo/ricardo/99134.ts
-#EXTINF:-1,UK: World Fight Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99138.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://landiptv.live:8080/live/ricardo/ricardo/98206.ts
-#EXTINF:-1,UK: Channel5 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98240.ts
-#EXTINF:-1,UK: HISTORY 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/98244.ts
-#EXTINF:-1,UK: STV FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98263.ts
-#EXTINF:-1,UK: LIVERPOOL TV
-http://landiptv.live:8080/live/ricardo/ricardo/85019.ts
-#EXTINF:-1,UK: SKY ARTS 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91968.ts
-#EXTINF:-1,UK: CHANNEL 2
-http://landiptv.live:8080/live/ricardo/ricardo/99577.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99585.ts
-#EXTINF:-1,UK: EDEN 1
-http://landiptv.live:8080/live/ricardo/ricardo/99588.ts
-#EXTINF:-1,UK: GOLD TV
-http://landiptv.live:8080/live/ricardo/ricardo/99590.ts
-#EXTINF:-1,UK: MOVIES 4 MAN
-http://landiptv.live:8080/live/ricardo/ricardo/99596.ts
-#EXTINF:-1,UK: OUTDOR CHANNEL
-http://landiptv.live:8080/live/ricardo/ricardo/99598.ts
-#EXTINF:-1,UK: RTE 3 Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99600.ts
-#EXTINF:-1,UK: SETANTA SPOR
-http://landiptv.live:8080/live/ricardo/ricardo/99602.ts
-#EXTINF:-1,UK: SKY 2
-http://landiptv.live:8080/live/ricardo/ricardo/99603.ts
-#EXTINF:-1,UK: SKY MOVIES ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/99605.ts
-#EXTINF:-1,UK: SKY MOVIES HITS SHOWCASE HD
-http://landiptv.live:8080/live/ricardo/ricardo/99606.ts
-#EXTINF:-1,UK: TCM 1
-http://landiptv.live:8080/live/ricardo/ricardo/99608.ts
-#EXTINF:-1,UK: Discovery Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/92586.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://landiptv.live:8080/live/ricardo/ricardo/92603.ts
-#EXTINF:-1,UK: RTE News Now
-http://landiptv.live:8080/live/ricardo/ricardo/98259.ts
-#EXTINF:-1,UK: EirSport 1
-http://landiptv.live:8080/live/ricardo/ricardo/99617.ts
-#EXTINF:-1,UK: ITV1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99900.ts
-#EXTINF:-1,UK: Community
-http://landiptv.live:8080/live/ricardo/ricardo/99902.ts
-#EXTINF:-1,UK: Channel4 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99907.ts
-#EXTINF:-1,UK: Bloomberg Europe TV
-http://landiptv.live:8080/live/ricardo/ricardo/99911.ts
-#EXTINF:-1,UK: TV3 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99917.ts
-#EXTINF:-1,UK: TG4 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99918.ts
-#EXTINF:-1,UK: Syfy TV
-http://landiptv.live:8080/live/ricardo/ricardo/99919.ts
-#EXTINF:-1,UK: Gold Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99922.ts
-#EXTINF:-1,UK: Nick Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99925.ts
-#EXTINF:-1,UK: NAT GEO Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99930.ts
-#EXTINF:-1,UK: Docubox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99931.ts
-#EXTINF:-1,UK: Fishing & Hunting
-http://landiptv.live:8080/live/ricardo/ricardo/99932.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://landiptv.live:8080/live/ricardo/ricardo/99938.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://landiptv.live:8080/live/ricardo/ricardo/99939.ts
-#EXTINF:-1,UK: Sky Movies Scfi
-http://landiptv.live:8080/live/ricardo/ricardo/99940.ts
-#EXTINF:-1,UK: Sky Drama & Romance
-http://landiptv.live:8080/live/ricardo/ricardo/99941.ts
-#EXTINF:-1,UK: BoxOffice
-http://landiptv.live:8080/live/ricardo/ricardo/99950.ts
-#EXTINF:-1,UK: Motor TV
-http://landiptv.live:8080/live/ricardo/ricardo/99952.ts
-#EXTINF:-1,UK: Fightbox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99955.ts
-#EXTINF:-1,UK: Celtic TV
-http://landiptv.live:8080/live/ricardo/ricardo/99959.ts
-#EXTINF:-1,UK: VH1+
-http://landiptv.live:8080/live/ricardo/ricardo/99961.ts
-#EXTINF:-1,UK: BoxOffice 10
-http://landiptv.live:8080/live/ricardo/ricardo/100445.ts
-#EXTINF:-1,UK: BoxOffice 5
-http://landiptv.live:8080/live/ricardo/ricardo/100449.ts
-#EXTINF:-1,UK: BoxOffice 6
-http://landiptv.live:8080/live/ricardo/ricardo/100450.ts
-#EXTINF:-1,UK: BoxOffice 7
-http://landiptv.live:8080/live/ricardo/ricardo/100451.ts
-#EXTINF:-1,UK: BoxOffice 8
-http://landiptv.live:8080/live/ricardo/ricardo/100452.ts
-#EXTINF:-1,UK: BoxOffice 9
-http://landiptv.live:8080/live/ricardo/ricardo/100453.ts
-#EXTINF:-1,###### USA ######
-http://landiptv.live:8080/live/ricardo/ricardo/93395.ts
-#EXTINF:-1,US: HBO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78351.ts
-#EXTINF:-1,US: HBO Family FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78353.ts
-#EXTINF:-1,US: HBO Zone FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78354.ts
-#EXTINF:-1,US: Showtime 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78342.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://landiptv.live:8080/live/ricardo/ricardo/74853.ts
-#EXTINF:-1,US: Cinemax 5 Max
-http://landiptv.live:8080/live/ricardo/ricardo/74901.ts
-#EXTINF:-1,US: HBO Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/74903.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/77158.ts
-#EXTINF:-1,US: BOX OFFICE MOVIES
-http://landiptv.live:8080/live/ricardo/ricardo/74905.ts
-#EXTINF:-1,US: Starz Encore East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74914.ts
-#EXTINF:-1,US: Starz Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/74915.ts
-#EXTINF:-1,US: Cinemax East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74917.ts
-#EXTINF:-1,US: CINEMAX ACTIONMAX
-http://landiptv.live:8080/live/ricardo/ricardo/74918.ts
-#EXTINF:-1,US: CINEMAX 5 STARMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74927.ts
-#EXTINF:-1,US: Showtime Extreme HD
-http://landiptv.live:8080/live/ricardo/ricardo/74934.ts
-#EXTINF:-1,US: Showtime Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/74935.ts
-#EXTINF:-1,US: AFN PRIME PACIFIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74938.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74939.ts
-#EXTINF:-1,US: AFN NEWS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74940.ts
-#EXTINF:-1,US: AFN Movie HD
-http://landiptv.live:8080/live/ricardo/ricardo/74941.ts
-#EXTINF:-1,US: AFN Family Movie
-http://landiptv.live:8080/live/ricardo/ricardo/74942.ts
-#EXTINF:-1,US: Starz HD
-http://landiptv.live:8080/live/ricardo/ricardo/75115.ts
-#EXTINF:-1,US: Comedy
-http://landiptv.live:8080/live/ricardo/ricardo/75116.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://landiptv.live:8080/live/ricardo/ricardo/75114.ts
-#EXTINF:-1,US: Signature
-http://landiptv.live:8080/live/ricardo/ricardo/75117.ts
-#EXTINF:-1,US: Zone
-http://landiptv.live:8080/live/ricardo/ricardo/75118.ts
-#EXTINF:-1,US: Action Max FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75136.ts
-#EXTINF:-1,US: Showtime FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75137.ts
-#EXTINF:-1,US: HBO East HD
-http://landiptv.live:8080/live/ricardo
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1591.ts
+#EXTINF:-1,[ES] TAQUILLA 4HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1592.ts
+#EXTINF:-1,[ES] TAQUILLA 5HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1593.ts
+#EXTINF:-1,[ES] TAQUILLA 6HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1594.ts
+#EXTINF:-1,[ES] TAQUILLA 7HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1595.ts
+#EXTINF:-1,[ES] TAQUILLA 8HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1596.ts
+#EXTINF:-1,[ES] TAQUILLA 9HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1597.ts
+#EXTINF:-1,[ES] TAQUILLA 10HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1598.ts
+#EXTINF:-1,[DE] Â SKY DE CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/326.ts
+#EXTINF:-1,[DE] ZDF HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/290.ts
+#EXTINF:-1,[DE] SKY ACTIVE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1390.ts
+#EXTINF:-1,[DE] SKY CINIMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1391.ts
+#EXTINF:-1,[DE] SKY CINIMA 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1392.ts
+#EXTINF:-1,[DE] SKY CINIMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1393.ts
+#EXTINF:-1,[DE] SKY COMMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1394.ts
+#EXTINF:-1,[DE] SKY CINIMA EMOTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1395.ts
+#EXTINF:-1,[DE] FOX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1566.ts
+#EXTINF:-1,[DE] SKY CINIMA HITS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1396.ts
+#EXTINF:-1,[DE] SKY CINIMA KRIMI HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1397.ts
+#EXTINF:-1,[DE] SKY ATLANTIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2020.ts
+#EXTINF:-1,[DE] TNT SERIE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2074.ts
+#EXTINF:-1,[DE] DISNEY JUNIOR HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2076.ts
+#EXTINF:-1,[DE] RTL CRIME HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2075.ts
+#EXTINF:-1,[DE] PROSIEBEN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2073.ts
+#EXTINF:-1,[DE] SKY TNT FILM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2072.ts
+#EXTINF:-1,[DE] ARTE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/433.ts
+#EXTINF:-1,[DE] DMAX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/437.ts
+#EXTINF:-1,[DE] ARD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/110.ts
+#EXTINF:-1,[DE] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/432.ts
+#EXTINF:-1,|DE| NAT GEO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/434.ts
+#EXTINF:-1,[DE] NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/435.ts
+#EXTINF:-1,[DE] NAT GEO PEOPLE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/436.ts
+#EXTINF:-1,[DE] ORF 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/438.ts
+#EXTINF:-1,[DE] ORF 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/439.ts
+#EXTINF:-1,[DE] PRO7 MAXX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/440.ts
+#EXTINF:-1,[DE] SKY 13TH STREET HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/441.ts
+#EXTINF:-1,[DE] SKY SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1401.ts
+#EXTINF:-1,[DE] SKY SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1402.ts
+#EXTINF:-1,[DE] SKY SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1403.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1404.ts
+#EXTINF:-1,[DE] SPORT 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/182.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3032.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3031.ts
+#EXTINF:-1,[DE] SK BUNDESLIGA 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3030.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3029.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3028.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 6HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3027.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 7HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3026.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 8HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3025.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 9HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3024.ts
+#EXTINF:-1,[DE] SKY BUNDESLIGA 10HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3023.ts
+#EXTINF:-1,==|=beIN-SD=|==
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1722.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/920.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/921.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/922.ts
+#EXTINF:-1,[DE] Sky Select HD4
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/923.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD5
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/924.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD6
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/925.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD7
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/926.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD8
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/927.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD9
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/928.ts
+#EXTINF:-1,[DE] SKY SELECT Â HD10
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/929.ts
+#EXTINF:-1,[DE] ANIXE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/286.ts
+#EXTINF:-1,[DE] ANIXE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/243.ts
+#EXTINF:-1,[DE] AUSTRIA 24 TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/291.ts
+#EXTINF:-1,[DE] AVUSTURYA 24
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/254.ts
+#EXTINF:-1,[DE] AUSTRIA 24 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/268.ts
+#EXTINF:-1,[DE] RTL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/236.ts
+#EXTINF:-1,[DE] VOX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2085.ts
+#EXTINF:-1,[DE] KIKA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2084.ts
+#EXTINF:-1,[DE] SUPER RTL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2081.ts
+#EXTINF:-1,[DE] NICKELODEON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2080.ts
+#EXTINF:-1,[DE] RTL 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1462.ts
+#EXTINF:-1,[DE] SAT 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/269.ts
+#EXTINF:-1,[DE] KABEL EINS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/258.ts
+#EXTINF:-1,[DE] FILSTALWELLE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/256.ts
+#EXTINF:-1,[DE] LIGHT TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/297.ts
+#EXTINF:-1,[DE] LIGHT CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/323.ts
+#EXTINF:-1,[DE] 24 GE AUS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/283.ts
+#EXTINF:-1,[DE] DAF
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/246.ts
+#EXTINF:-1,====NEDERLAND_CHANNEL====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/985.ts
+#EXTINF:-1,[NL] FILM 1 ACTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/992.ts
+#EXTINF:-1,[NL]  FILM1 COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/993.ts
+#EXTINF:-1,[NL] FILM1 PREMIERE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/990.ts
+#EXTINF:-1,[NL] FILM 1 SPORTLIGHT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/994.ts
+#EXTINF:-1,[NL] FILM1 SUNDANCE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/991.ts
+#EXTINF:-1,[NL] FOX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/989.ts
+#EXTINF:-1,[NL] HBO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/986.ts
+#EXTINF:-1,[NL] HBO 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/987.ts
+#EXTINF:-1,HBO-3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/988.ts
+#EXTINF:-1,[NL] NPO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1485.ts
+#EXTINF:-1,[NL] NPO 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1486.ts
+#EXTINF:-1,[NL] NPO 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1487.ts
+#EXTINF:-1,[NL] RTL 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/144.ts
+#EXTINF:-1,[NL] RTL 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/145.ts
+#EXTINF:-1,[NL] RTL 7HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2367.ts
+#EXTINF:-1,[NL] RTL 8HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2366.ts
+#EXTINF:-1,[NL] SBS 6HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2356.ts
+#EXTINF:-1,[NL] SBS 9HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2355.ts
+#EXTINF:-1,[NL] NICKELODEON HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2363.ts
+#EXTINF:-1,[NL] CARTOON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2361.ts
+#EXTINF:-1,[NL] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2357.ts
+#EXTINF:-1,[NL] DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2360.ts
+#EXTINF:-1,[NL] NAT GEO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2359.ts
+#EXTINF:-1,[NL] NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2358.ts
+#EXTINF:-1,[NL] NICK Jr HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2364.ts
+#EXTINF:-1,[NL] NICK TOONS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2362.ts
+#EXTINF:-1,[NL] TLC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2365.ts
+#EXTINF:-1,[NL] VERONICA DISNEY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2354.ts
+#EXTINF:-1,[NL] FOX SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/995.ts
+#EXTINF:-1,[NL] FOX SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/996.ts
+#EXTINF:-1,[NL] FOX SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/997.ts
+#EXTINF:-1,[NL] FOX SPORT 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/998.ts
+#EXTINF:-1,[NL] FOX SPORT 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/999.ts
+#EXTINF:-1,[NL] FOX SPORT 6HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1000.ts
+#EXTINF:-1,[NL] ZIGGO SPORT XTRA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1492.ts
+#EXTINF:-1,[NL] ZIGGO SPORT XTRA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1491.ts
+#EXTINF:-1,[NL] ZIGGO SPORT GOLF HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1490.ts
+#EXTINF:-1,[NL] ZIGGO SPORT RACING HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1489.ts
+#EXTINF:-1,[NL] ZIGGO SPORT SELECT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1488.ts
+#EXTINF:-1,(Holland) Sport EXTRA 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1001.ts
+#EXTINF:-1,(Holland) Sport EXTRA 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1002.ts
+#EXTINF:-1,---SKY_UK_CHANNEL--
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1003.ts
+#EXTINF:-1,UK:Movies-Action-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1005.ts
+#EXTINF:-1,UK:Movies_Comedy.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1008.ts
+#EXTINF:-1,UK:Movies-Drama.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1007.ts
+#EXTINF:-1,UK:Sky-Movies-Family-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1006.ts
+#EXTINF:-1,UK:Sky-Movies-PremiereHD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1004.ts
+#EXTINF:-1,UK:Sky-Movies-Select
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2275.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2276.ts
+#EXTINF:-1,UK:Sky-Thriller-Movies
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2274.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1010.ts
+#EXTINF:-1,UK:Sky_Atlantic
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1420.ts
+#EXTINF:-1,UK-SKY-MOVIES-DISNEY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1419.ts
+#EXTINF:-1,UK:Horror-Channel-UK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2283.ts
+#EXTINF:-1,UK:SyFy-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2280.ts
+#EXTINF:-1,UK:Crime-Investigation
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2021.ts
+#EXTINF:-1,UK:Comedy-Central-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2022.ts
+#EXTINF:-1,UK:_Movies_Thriller
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1418.ts
+#EXTINF:-1,[UK] TRUE MOVIES 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2928.ts
+#EXTINF:-1,[UK] TRUE MOVIES 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2929.ts
+#EXTINF:-1,[UK] DAVE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2932.ts
+#EXTINF:-1,[UK] DMAX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2934.ts
+#EXTINF:-1,[UK] FILMS 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2933.ts
+#EXTINF:-1,[UK] FOX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2930.ts
+#EXTINF:-1,[UK] MORE 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2935.ts
+#EXTINF:-1,[UK] MOVIES 4 Men
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2936.ts
+#EXTINF:-1,[UK] RTE 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2938.ts
+#EXTINF:-1,[UK] RTE 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2937.ts
+#EXTINF:-1,[UK] BBC NEWS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2945.ts
+#EXTINF:-1,UK:CBS_Action_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2922.ts
+#EXTINF:-1,UK:Racing UK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2923.ts
+#EXTINF:-1,[UK] CBS REALLITY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2931.ts
+#EXTINF:-1,UK:BBC-1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1014.ts
+#EXTINF:-1,UK:BBC-2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1013.ts
+#EXTINF:-1,UK:BBC-3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1012.ts
+#EXTINF:-1,[UK] BBC 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2944.ts
+#EXTINF:-1,[UK] At The Races
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2939.ts
+#EXTINF:-1,[UK] ITV 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2943.ts
+#EXTINF:-1,[UK] ITV 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2942.ts
+#EXTINF:-1,[UK] ITV 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2941.ts
+#EXTINF:-1,[UK] ITV 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2940.ts
+#EXTINF:-1,UK:Discovery-Turbo
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2269.ts
+#EXTINF:-1,[UK] ANIMAL PLANNET
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2927.ts
+#EXTINF:-1,UK:Nat-GeoWild-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2279.ts
+#EXTINF:-1,UK:Discovery-Shed-UK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2270.ts
+#EXTINF:-1,UK:Crime&Investigation
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2267.ts
+#EXTINF:-1,UK:National-Geographic-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2273.ts
+#EXTINF:-1,UK:History
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2272.ts
+#EXTINF:-1,UK:Discovery-History
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2271.ts
+#EXTINF:-1,[UK] DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2925.ts
+#EXTINF:-1,UK:Disney_XD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2924.ts
+#EXTINF:-1,[UK] DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2926.ts
+#EXTINF:-1,UK:Disney_junior
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2268.ts
+#EXTINF:-1,---SKY_UK_SPORT----
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1015.ts
+#EXTINF:-1,UK:Sky-Sports-1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1016.ts
+#EXTINF:-1,UK-SKY SPORT-2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1017.ts
+#EXTINF:-1,UK-SKY SPORT-3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1018.ts
+#EXTINF:-1,UK:Sky-Sports-4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1019.ts
+#EXTINF:-1,[UK] SKY SPORT 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/56.ts
+#EXTINF:-1,UK:-BT-Sport1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1011.ts
+#EXTINF:-1,UK:BT-Sport-2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1020.ts
+#EXTINF:-1,[UK] BT SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2948.ts
+#EXTINF:-1,[UK] BT SPORT .2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2947.ts
+#EXTINF:-1,[UK] BT SPORT ESPN
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2946.ts
+#EXTINF:-1,[UK] CITY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/83.ts
+#EXTINF:-1,UK:Sports-Night
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/159.ts
+#EXTINF:-1,UK: Comedy Central
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/158.ts
+#EXTINF:-1,====SKY_IT_Cinema====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/676.ts
+#EXTINF:-1,[IT] RETE 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/209.ts
+#EXTINF:-1,[IT] CANAL 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/210.ts
+#EXTINF:-1,[IT] ITALIA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/211.ts
+#EXTINF:-1,[IT] SKY CINIMA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/677.ts
+#EXTINF:-1,[IT] SKY CINEMA +1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/743.ts
+#EXTINF:-1,[IT] SKY CINIMA COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/680.ts
+#EXTINF:-1,[IT] SKY CINIMA HITS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/679.ts
+#EXTINF:-1,[IT] SKY CINIMA MAX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/678.ts
+#EXTINF:-1,[IT] SKY CINEMA MAX +1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/745.ts
+#EXTINF:-1,[IT] SKY CINEMA PASSION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/681.ts
+#EXTINF:-1,[IT] SKY CINEMA 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/683.ts
+#EXTINF:-1,[IT] SKY CINEMA CLASSICS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/684.ts
+#EXTINF:-1,[IT] SKY CINEMA FAMILY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/682.ts
+#EXTINF:-1,[IT] SKY ATLANTIC HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1399.ts
+#EXTINF:-1,[IT] SKY CINIMA CULT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1398.ts
+#EXTINF:-1,===RAI_CHANNEL===
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1493.ts
+#EXTINF:-1,[IT] RAI 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1494.ts
+#EXTINF:-1,[IT] RAI 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1495.ts
+#EXTINF:-1,[IT] RAI 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1496.ts
+#EXTINF:-1,[IT] RAI 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1497.ts
+#EXTINF:-1,[IT] RAI PREMUIM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1498.ts
+#EXTINF:-1,â€¢â—â˜…Premium_IT_Cinema â˜…â—â€¢
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/685.ts
+#EXTINF:-1,[IT] PREMUIM CINEMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/686.ts
+#EXTINF:-1,[IT] PREMUIM ACTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/688.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/751.ts
+#EXTINF:-1,[IT] PREMUIM ACTION 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1344.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1341.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1340.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1347.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA EMOTION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1345.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA ENERGY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1346.ts
+#EXTINF:-1,[IT] PREMUIM CRIME HD 
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1343.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA +24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1342.ts
+#EXTINF:-1,[IT] RSi LA 1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2150.ts
+#EXTINF:-1,[IT] RSI LA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/190.ts
+#EXTINF:-1,[IT] SKY CINIMA Uno HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/219.ts
+#EXTINF:-1,[IT] ALTO ADIGE TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/217.ts
+#EXTINF:-1,[IT] CANALE 7HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/220.ts
+#EXTINF:-1,[IT] Sky HISTORY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1092.ts
+#EXTINF:-1,[IT] SKY SPORT 24HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/153.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/753.ts
+#EXTINF:-1,[IT] PREMUIM SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1400.ts
+#EXTINF:-1,[IT] SKY SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1350.ts
+#EXTINF:-1,[IT] SKY SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1351.ts
+#EXTINF:-1,[IT] SKY SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1352.ts
+#EXTINF:-1,[IT] SKY CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1353.ts
+#EXTINF:-1,[IT] SKY CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2687.ts
+#EXTINF:-1,[IT] SKY CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1354.ts
+#EXTINF:-1,[IT] SKY CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2688.ts
+#EXTINF:-1,[IT] SKY CALCIO 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2681.ts
+#EXTINF:-1,[IT] SKY CALCIO 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2083.ts
+#EXTINF:-1,[IT] SKY SPORT GP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1348.ts
+#EXTINF:-1,[IT] SKY SPORT F1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1349.ts
+#EXTINF:-1,[IT] JUVENTUS CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2689.ts
+#EXTINF:-1,[IT] RAI SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2674.ts
+#EXTINF:-1,[IT] RAI SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2678.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2676.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2675.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2684.ts
+#EXTINF:-1,[IT] PREMUIM SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2682.ts
+#EXTINF:-1,[IT] PREMUIM SPORT 2HD
+
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2683.ts
+#EXTINF:-1,â€¢â—â˜…--PRIMA_FILA----â˜…â—â€¢
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/620.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1379.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1380.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1381.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1382.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1383.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 6HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1384.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 7HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1385.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 8HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1386.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 9HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1387.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 10HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1388.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 11HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1474.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 12HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1473.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 13HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1470.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 14HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1469.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 10HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1484.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 16HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1466.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 17HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1464.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 18HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1463.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 19HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1587.ts
+#EXTINF:-1,|TR|++++GENERALITE++++TR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/538.ts
+#EXTINF:-1,TR TV8
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1477.ts
+#EXTINF:-1,TR TGRT
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1480.ts
+#EXTINF:-1,TR:Kanal__7
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1479.ts
+#EXTINF:-1,TR:Show TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1478.ts
+#EXTINF:-1,TR FB TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1476.ts
+#EXTINF:-1,TR:360
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1475.ts
+#EXTINF:-1,TR:ATV-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1022.ts
+#EXTINF:-1,TR:FOX-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1026.ts
+#EXTINF:-1,TR:KANAL-D-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1025.ts
+#EXTINF:-1,TR: SHOW-TV-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1024.ts
+#EXTINF:-1,TR:STAR-TV-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1023.ts
+#EXTINF:-1,TR:TRT-1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1021.ts
+#EXTINF:-1,TR:TRT-HABER-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1027.ts
+#EXTINF:-1,TR:CNN-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2146.ts
+#EXTINF:-1,TR:HABER-TURK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2145.ts
+#EXTINF:-1,TR:DREAM-TÃœRK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2144.ts
+#EXTINF:-1,TR Beyaz TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2334.ts
+#EXTINF:-1,TR:_Cartoon_Network
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2342.ts
+#EXTINF:-1,|TR| DIZI TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2345.ts
+#EXTINF:-1,TR  Fil TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2344.ts
+#EXTINF:-1,TR:_Flash_TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2339.ts
+#EXTINF:-1,TR:_FX
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2343.ts
+#EXTINF:-1,TR:_Halk TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2338.ts
+#EXTINF:-1,TR BEiN iZ HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2337.ts
+#EXTINF:-1,TR:_KRAL_POP
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2335.ts
+#EXTINF:-1,TR:_Minika GO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2340.ts
+#EXTINF:-1,TR:_Minika_Cocuk
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2341.ts
+#EXTINF:-1,TR:_NR1_Turk
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2336.ts
+#EXTINF:-1,TR:_TRT_WORLD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2333.ts
+#EXTINF:-1,|TR|+++CULTURE+++|TR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1417.ts
+#EXTINF:-1,TR:_HISTORY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2349.ts
+#EXTINF:-1,TR:_ANIMAL_PLANET
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2346.ts
+#EXTINF:-1,TR:NAT-GEO-PEOPLE-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1586.ts
+#EXTINF:-1,TR:DISCOVERY-CHANEL-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1465.ts
+#EXTINF:-1,TR DISCOVERY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2348.ts
+#EXTINF:-1,TR:_DISCOVERY_SCIENCE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2347.ts
+#EXTINF:-1,TR:_NATIONAL__GEOGRAPHIC_PEOPLE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2350.ts
+#EXTINF:-1,|TR| NATIONAL GEOGRAPHIC WILD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2351.ts
+#EXTINF:-1,|TR| National Geographie HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2352.ts
+#EXTINF:-1,|TR|++++CINEMA++++|TR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1028.ts
+#EXTINF:-1,TR: Axn Spin HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1665.ts
+#EXTINF:-1,TR | Turkmax Gurme  HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1666.ts
+#EXTINF:-1,[TR]:  TV 8.5 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1667.ts
+#EXTINF:-1,TR | MOVIESMART PREMIUM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2298.ts
+#EXTINF:-1,TR Beln MovÄ±es FamÄ±ly HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2299.ts
+#EXTINF:-1,TR Bein Movies premier
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2300.ts
+#EXTINF:-1,TR | FOX TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2301.ts
+#EXTINF:-1,TR FOX CRIME HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2302.ts
+#EXTINF:-1,TR | MOVIESMART PLATIN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2303.ts
+#EXTINF:-1,TR | SineMax Fear HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2304.ts
+#EXTINF:-1,TR  SiNEMAX COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2305.ts
+#EXTINF:-1,TR BEIN BOX OFFICE 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2306.ts
+#EXTINF:-1,TR BEIN BOX OFFICE 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2307.ts
+#EXTINF:-1,TR | DIZI SMART HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2308.ts
+#EXTINF:-1,TR:MOVIESMART_GOLD_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2310.ts
+#EXTINF:-1,TR | MOVIESMART PLATIN 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2309.ts
+#EXTINF:-1,TR | BEINMOVIES COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2311.ts
+#EXTINF:-1,TR | BEINMOVIES OSCARS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2315.ts
+#EXTINF:-1,TR | MOVIESMART CLASSIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2322.ts
+#EXTINF:-1,TR | NICKELODEON
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2153.ts
+#EXTINF:-1,[TR] BURSA SPOR
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2151.ts
+#EXTINF:-1,[TR]:  Loca 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2147.ts
+#EXTINF:-1,|TR| SMART SPORT 1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2368.ts
+#EXTINF:-1,TR | BEINMOVIES FESTIVAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2323.ts
+#EXTINF:-1,TR DISCOVERY SHOWCASE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2321.ts
+#EXTINF:-1,TR | BEINMOVIES FAMLY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2320.ts
+#EXTINF:-1,TR | SineMax Comedy HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2316.ts
+#EXTINF:-1,TR   Beyaz Tv HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1527.ts
+#EXTINF:-1,TR  Cartoon Network
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1528.ts
+#EXTINF:-1,TR Fox Tv HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1529.ts
+#EXTINF:-1,TR | SineMax Drama HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2158.ts
+#EXTINF:-1,|TR|*****SPORT*****|TR|
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/532.ts
+#EXTINF:-1,TR:bein-liga-1hd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/533.ts
+#EXTINF:-1,TR: BeIN Sports 2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/534.ts
+#EXTINF:-1,TR BeIN Sports 3 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/535.ts
+#EXTINF:-1,TR NTV SPORT
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/536.ts
+#EXTINF:-1,TR TRT SPORT HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/537.ts
+#EXTINF:-1,TR:TURK-BURSASPORT
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/161.ts
+#EXTINF:-1,TR:TURK-SPORTS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/163.ts
+#EXTINF:-1,TR:TURK-SPORTSTV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/162.ts
+#EXTINF:-1,=====PORTUGUES_CHANNEL=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1522.ts
+#EXTINF:-1,[PT] TV CINE 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1523.ts
+#EXTINF:-1,[PT] TV CINE 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1524.ts
+#EXTINF:-1,[PT] TV CINE 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1525.ts
+#EXTINF:-1,[PT] TV CINE 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1526.ts
+#EXTINF:-1,[PT] HOLLYWOOD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2120.ts
+#EXTINF:-1,[PT] TV SERIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2117.ts
+#EXTINF:-1,[PT] AXN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2130.ts
+#EXTINF:-1,[PT] AXN BLACK HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2131.ts
+#EXTINF:-1,[PT] AXN WHITE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2129.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2140.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2128.ts
+#EXTINF:-1,[PT] FOX HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2127.ts
+#EXTINF:-1,[PT] FOX LIFE HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2126.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2133.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2137.ts
+#EXTINF:-1,[PT] FOX COMEDY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2135.ts
+#EXTINF:-1,[PT] SYFY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2142.ts
+#EXTINF:-1,[PT] TLC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2484.ts
+#EXTINF:-1,[PT] TVC2 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2483.ts
+#EXTINF:-1,[PT] NATIONAL GEO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2123.ts
+#EXTINF:-1,[PT] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2125.ts
+#EXTINF:-1,[PT] NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2479.ts
+#EXTINF:-1,[PT] Nickelodeon HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2477.ts
+#EXTINF:-1,[PT] DISCOVERY SHOW CAST
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2124.ts
+#EXTINF:-1,[PT] CARTOON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2136.ts
+#EXTINF:-1,[PT] DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2139.ts
+#EXTINF:-1,[PT] DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2138.ts
+#EXTINF:-1,[PT] JIM JAM HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2478.ts
+#EXTINF:-1,[PT] VH1 HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2481.ts
+#EXTINF:-1,[PT] MCM POP HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2480.ts
+#EXTINF:-1,[PT] ODISSEA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2122.ts
+#EXTINF:-1,[PT] PORTO CANAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2156.ts
+#EXTINF:-1,[PT] CANAL PANDA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2155.ts
+#EXTINF:-1,[PT] MOTOR TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2141.ts
+#EXTINF:-1,[PT] RTP 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2152.ts
+#EXTINF:-1,[PT] RTP 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2494.ts
+#EXTINF:-1,[PT] RTP 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2493.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2492.ts
+#EXTINF:-1,[PT] RTP AFRICA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2491.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2490.ts
+#EXTINF:-1,[PT] RTP MADEIRA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2489.ts
+#EXTINF:-1,[PT] SIC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2488.ts
+#EXTINF:-1,[PT] SIC MULHER HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2487.ts
+#EXTINF:-1,[PT] SIC OTICIAS
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2486.ts
+#EXTINF:-1,[PT] RTP MEMORIA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2485.ts
+#EXTINF:-1,=====PORTUGUES_SPORT=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1530.ts
+#EXTINF:-1,[PT] SPORT TV 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1531.ts
+#EXTINF:-1,[PT] SPORT TV 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1532.ts
+#EXTINF:-1,[PT] SPORT TV 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1533.ts
+#EXTINF:-1,[PT] SPORT TV 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1534.ts
+#EXTINF:-1,[PT] SPORT TV 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1535.ts
+#EXTINF:-1,[PT] PORTO CANAL HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2482.ts
+#EXTINF:-1,[PT] BENIFICA TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1536.ts
+#EXTINF:-1,[PT] MOTORS TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2476.ts
+#EXTINF:-1,[PT]  MOTORVISION HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2475.ts
+#EXTINF:-1,=====ALB_SPORT=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1446.ts
+#EXTINF:-1,|CA| ABC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1452.ts
+#EXTINF:-1,|CA|  RDS2 HD TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2082.ts
+#EXTINF:-1,|CA| Fox News Live
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2079.ts
+#EXTINF:-1,|CA| E HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2692.ts
+#EXTINF:-1,|CA| Bet
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3419.ts
+#EXTINF:-1,|CA| NBC HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2691.ts
+#EXTINF:-1,|CA| Spike HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2690.ts
+#EXTINF:-1,|CA|fox 25 hd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2677.ts
+#EXTINF:-1,|CA| Fxx hd
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1467.ts
+#EXTINF:-1,|CA| Golf channel
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2078.ts
+#EXTINF:-1,|CA|  Golf channel
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2679.ts
+#EXTINF:-1,|CA| NBA TV_CA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2680.ts
+#EXTINF:-1,|CA| black entertainment television
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2673.ts
+#EXTINF:-1,RU | AUTO MOTO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2672.ts
+#EXTINF:-1,RU:Russian_Extreme
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2087.ts
+#EXTINF:-1,==MOVIES.DRAME==
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2685.ts
+#EXTINF:-1,==|=U.S.A=|==
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2285.ts
+#EXTINF:-1,|USA|  HBO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2192.ts
+#EXTINF:-1,|USA|  HBO Zone
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2987.ts
+#EXTINF:-1,|USA| HBO Comedy
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2989.ts
+#EXTINF:-1,|USA| HBO Signature
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2988.ts
+#EXTINF:-1,|USA| HALLMARK
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2196.ts
+#EXTINF:-1,|USA| CBS_ACTION_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2331.ts
+#EXTINF:-1,|USA| FX_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2195.ts
+#EXTINF:-1,|USA| SYFY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2328.ts
+#EXTINF:-1,|USA|  TBS HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2994.ts
+#EXTINF:-1,|USA|  AFN MOVIE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2997.ts
+#EXTINF:-1,|USA| Discovery_Investigation_ID
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2191.ts
+#EXTINF:-1,|USA|  ANIMAL PLANET HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2996.ts
+#EXTINF:-1,|USA|  DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2993.ts
+#EXTINF:-1,|USA|  Discovery Investigation ID
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2990.ts
+#EXTINF:-1,|USA|  DISCOVERY Science HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2992.ts
+#EXTINF:-1,|USA|  Discovery Showcase
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2991.ts
+#EXTINF:-1,|USA| National Geographic HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1765.ts
+#EXTINF:-1,|USA| A&E TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1458.ts
+#EXTINF:-1,|USA| Food-Network-HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1461.ts
+#EXTINF:-1,|USA|  CNN HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2995.ts
+#EXTINF:-1,USA:CNBC_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2330.ts
+#EXTINF:-1,|USA| Willow Cricket HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2986.ts
+#EXTINF:-1,|USA| BOOMBERANG
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2190.ts
+#EXTINF:-1,|USA| TSN 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1460.ts
+#EXTINF:-1,|USA| TSN 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1459.ts
+#EXTINF:-1,|USA| TSN 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1456.ts
+#EXTINF:-1,|USA| TSN 4HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1455.ts
+#EXTINF:-1,|USA| TSN 5HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1454.ts
+#EXTINF:-1,[USA] Astro SUPER SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/49.ts
+#EXTINF:-1,[USA] ASTRO SUPER SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/53.ts
+#EXTINF:-1,[USA] ASTRO SUPER SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/149.ts
+#EXTINF:-1,|USA| Bein_Sports_USA_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2329.ts
+#EXTINF:-1,|USA|  C-SPAN1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3000.ts
+#EXTINF:-1,[AR] AL NAHAR DRAMA HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1447.ts
+#EXTINF:-1,|USA| TNT.HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2999.ts
+#EXTINF:-1,|USA| C-SPAN3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2998.ts
+#EXTINF:-1,USA:PAC_12_Net_Los Angeles
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2189.ts
+#EXTINF:-1,USA:ESPN-1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1457.ts
+#EXTINF:-1,|USA| ESPN 2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1948.ts
+#EXTINF:-1,USA:PAC-12_Network_Live
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1770.ts
+#EXTINF:-1,|USA| PAC-12_Net_Arizona
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1767.ts
+#EXTINF:-1,========== â˜…â˜… AFRICA CHANNELS â˜…â˜… ==========
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2326.ts
+#EXTINF:-1,AF:TFM_TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3876.ts
+#EXTINF:-1,AF: ORTM
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2317.ts
+#EXTINF:-1,AF:GABON_TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2318.ts
+#EXTINF:-1,AF:RTS1_Senegal_2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2324.ts
+#EXTINF:-1,lAFl RTS1_Senegal_l
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2325.ts
+#EXTINF:-1,AF:VOX_AFRICA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2319.ts
+#EXTINF:-1,|AF| Africa TV1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2962.ts
+#EXTINF:-1,|AF| Africa TV2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2961.ts
+#EXTINF:-1,|AF| VOX AFRICA NIGERIA
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2960.ts
+#EXTINF:-1,|AF| RTS 1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2959.ts
+#EXTINF:-1,AF:ORTM-MALI
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2958.ts
+#EXTINF:-1,|AF|  NEC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2957.ts
+#EXTINF:-1,|AF| SOMALI CABLE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2956.ts
+#EXTINF:-1,|AF| TVM1_MO
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2955.ts
+#EXTINF:-1,|AF|  TV3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2954.ts
+#EXTINF:-1,AF: SOMALI_TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2953.ts
+#EXTINF:-1,|AF| SOMALI CABEL
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2952.ts
+#EXTINF:-1,|AF|  D24 (Senegal)
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2951.ts
+#EXTINF:-1,|AF| TCHAD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2950.ts
+#EXTINF:-1,|AF| NEC
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2949.ts
+#EXTINF:-1,=====ROMANIA_CHANNEL=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1468.ts
+#EXTINF:-1,RO|ACASA_HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3143.ts
+#EXTINF:-1,RO|Agro Tv
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3145.ts
+#EXTINF:-1,RO|Axn_White
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3149.ts
+#EXTINF:-1,RO|Cinemax
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3155.ts
+#EXTINF:-1,RO|CINEMAX_2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3154.ts
+#EXTINF:-1,RO|DIGI SPORT 1
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3132.ts
+#EXTINF:-1,RO|DIGI SPORT 2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3131.ts
+#EXTINF:-1,RO|DIGI SPORT 3
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3130.ts
+#EXTINF:-1,RO|DIGI SPORT 4
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3129.ts
+#EXTINF:-1,RO|DIGI_FILM
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3153.ts
+#EXTINF:-1,RO|Disney_Junior
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3136.ts
+#EXTINF:-1,RO|Eurosport
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3134.ts
+#EXTINF:-1,RO|Eurosport_2
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3133.ts
+#EXTINF:-1,RO|HBO_2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3151.ts
+#EXTINF:-1,RO|HBO_3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3150.ts
+#EXTINF:-1,RO|HBO_Romania
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3152.ts
+#EXTINF:-1,RO|History_Channel
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3139.ts
+#EXTINF:-1,RO: 1 Music Channel
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3147.ts
+#EXTINF:-1,RO: DIGI 24 Craiova
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3140.ts
+#EXTINF:-1,RO|NatGeo_Wild
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3138.ts
+#EXTINF:-1,RO|National_Geographic
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3137.ts
+#EXTINF:-1,RO|Nickelodeon
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3135.ts
+#EXTINF:-1,RO|Paramount_Channel
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3142.ts
+#EXTINF:-1,RO|ProCinema
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3141.ts
+#EXTINF:-1,RO|ProTV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3144.ts
+#EXTINF:-1,RO|ROMANIA_TV
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3146.ts
+#EXTINF:-1,RO|TARAF TV HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3148.ts
+#EXTINF:-1,RO|TVR_1HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3160.ts
+#EXTINF:-1,RO|TVR_2HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3159.ts
+#EXTINF:-1,RO|TVR_3HD
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3158.ts
+#EXTINF:-1,RO|VIASAT_HISTORY
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3156.ts
+#EXTINF:-1,RO|VIASAT_NATURE
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/3157.ts
+#EXTINF:-1,====NouveautÃ©_Films_Action_2017=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2380.ts
+#EXTINF:-1,Sleepless.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3795.avi
+#EXTINF:-1,Wheelman.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3797.avi
+#EXTINF:-1,Atomic.Blonde.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3793.avi
+#EXTINF:-1,Baby.Driver.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3831.mkv
+#EXTINF:-1,Dunkirk.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3829.mkv
+#EXTINF:-1,Spider-Man.Homecoming.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3828.mkv
+#EXTINF:-1,The.Arena.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3830.mkv
+#EXTINF:-1,The.Nut.Job.2.Nutty.by.Nature.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3826.mkv
+#EXTINF:-1,Baby Driver 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3457.avi
+#EXTINF:-1,Battle For Incheon Operation Chromite 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3456.avi
+#EXTINF:-1,Bushwick 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3462.avi
+#EXTINF:-1,De Premier 2016 French Bdrip Xvid-extreme
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3470.avi
+#EXTINF:-1,Habibi Allah S2 EP15 Hd
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2793.mkv
+#EXTINF:-1,Headshot 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3458.avi
+#EXTINF:-1,Atomic Blonde 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3460.mkv
+#EXTINF:-1,Alien Covenant 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3463.avi
+#EXTINF:-1,Ares 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3454.avi
+#EXTINF:-1,My Pet Dinosaur 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3459.avi
+#EXTINF:-1,Officer Downe 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3453.avi
+#EXTINF:-1,Pirates Of The Caribbean Dead Men Tell No Tales 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3464.avi
+#EXTINF:-1,Sleepless 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3467.avi
+#EXTINF:-1,The Arena 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3468.avi
+#EXTINF:-1,Undercover Grandpa 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3465.avi
+#EXTINF:-1,Wheelman 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3455.avi
+#EXTINF:-1,Crawlspace 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3332.avi
+#EXTINF:-1,Dreamstreet
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3341.avi
+#EXTINF:-1,Extinction 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3337.avi
+#EXTINF:-1,Aftermath 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3340.avi
+#EXTINF:-1, Kingsman The Secret Service 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3336.avi
+#EXTINF:-1,Outcast 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3345.avi
+#EXTINF:-1,Run All Night 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3333.avi
+#EXTINF:-1,Skin Trade 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3344.avi
+#EXTINF:-1,Taken 3 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3334.avi
+#EXTINF:-1,The Kings Choice 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3338.avi
+#EXTINF:-1,They Call Me Jeeg 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3343.avi
+#EXTINF:-1,Tracers 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3346.mkv
+#EXTINF:-1,Transformers The Last Knight 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3339.avi
+#EXTINF:-1,Viy 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3335.avi
+#EXTINF:-1,71 2014 Limited
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3342.avi
+#EXTINF:-1,Black Site Delta 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3265.mkv
+#EXTINF:-1,City Of Tiny Lights 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3264.mkv
+#EXTINF:-1,Clown Kill 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3263.mkv
+#EXTINF:-1,Death Fighter 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3252.mkv
+#EXTINF:-1,Drone 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3253.mkv
+#EXTINF:-1,Extraordinary Mission 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3254.mkv
+#EXTINF:-1,Kill Em All 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3255.mkv
+#EXTINF:-1,London Heist 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3256.mkv
+#EXTINF:-1,Lucky 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3257.mkv
+#EXTINF:-1,Museum 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3258.mkv
+#EXTINF:-1,They Call Me Jeeg 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3466.avi
+#EXTINF:-1,Contract To Kill 2016 French Bdrip Xvid-extreme
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3452.avi
+#EXTINF:-1,Vincent.N.Roxxy.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3796.avi
+#EXTINF:-1,Crossing Point 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3461.avi
+#EXTINF:-1,My-name-is-lenny 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3259.mkv
+#EXTINF:-1,Ninetytwo 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3260.mkv
+#EXTINF:-1,The Last Face
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3261.mkv
+#EXTINF:-1,The Mummy 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3262.mkv
+#EXTINF:-1,The Saint 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3251.mkv
+#EXTINF:-1,Viking 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3250.mkv
+#EXTINF:-1,Where Is Good 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3249.mkv
+#EXTINF:-1,Boyka Undisputed 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3161.mp4
+#EXTINF:-1,Guardians 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3162.mp4
+#EXTINF:-1,Guardians Of The Galaxy Vol 2 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3163.avi
+#EXTINF:-1,Security 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3164.mp4
+#EXTINF:-1,Taking Earth 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3165.mp4
+#EXTINF:-1,The Immortal Life Of Henrietta Lacks 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3166.avi
+#EXTINF:-1,The Kings Choice 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3167.mp4
+#EXTINF:-1,Dance To Death 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3180.mp4
+#EXTINF:-1,Dragon Inside Me 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3168.mkv
+#EXTINF:-1,First Kill 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3179.mp4
+#EXTINF:-1,Ghost In The Shell 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3169.mkv
+#EXTINF:-1,Guardians 2017 Truefrench Bdrip Xvid Acool
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3170.mkv
+#EXTINF:-1,S W A T Under Siege 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3171.mkv
+#EXTINF:-1,Savage Dog 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3172.mkv
+#EXTINF:-1,The Assignment 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3173.mkv
+#EXTINF:-1,The Hitmans Bodyguard 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3178.mp4
+#EXTINF:-1,The Lost City Of Z 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3174.mkv
+#EXTINF:-1,The Recall 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3177.mp4
+#EXTINF:-1,The Wall 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3176.mp4
+#EXTINF:-1,We Re No Animals 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3175.mp4
+#EXTINF:-1,Pirates Of The Caribbean 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2695.mkv
+#EXTINF:-1,Split 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2502.mkv
+#EXTINF:-1,Sundown 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2503.mkv
+#EXTINF:-1,A Fond 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2388.avi
+#EXTINF:-1,Arrival 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2393.avi
+#EXTINF:-1,The Discovery 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2403.avi
+#EXTINF:-1,Dead,race 2050 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2208.mkv
+#EXTINF:-1,Iboy 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2206.mkv
+#EXTINF:-1,Ares 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2370.avi
+#EXTINF:-1,Monster Trucks 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2373.mp4
+#EXTINF:-1,Mythica The Necromancer 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2374.mp4
+#EXTINF:-1,Resident Evil The Final Chapter 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2375.mp4
+#EXTINF:-1,Sniper Special Ops 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2383.avi
+#EXTINF:-1,Sword Of Vengeance
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2384.avi
+#EXTINF:-1,The Great Wall 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2377.mp4
+#EXTINF:-1,The Perfect Weapon 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/13.mkv
+#EXTINF:-1,Blood Father 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/425.mkv
+#EXTINF:-1,Riphagen 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/427.avi
+#EXTINF:-1,Mechanic Resurrection 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/430.mkv
+#EXTINF:-1,Bastille Day 2016 Avi
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/581.mkv
+#EXTINF:-1,Batman V Superman Dawn Of Justice 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/773.mkv
+#EXTINF:-1,Rampage President Down 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/675.mkv
+#EXTINF:-1,The Accountant 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/779.mkv
+#EXTINF:-1,The Call Up 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/631.mkv
+#EXTINF:-1,Code Of Honor 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/774.mkv
+#EXTINF:-1,Goldstone 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/777.mkv
+#EXTINF:-1,Blair Witch 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2197.mkv
+#EXTINF:-1,Destroy-nameofking3
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2216.mkv
+#EXTINF:-1,Dont Breathe 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2199.mkv
+#EXTINF:-1,End Of A Gun 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2209.mkv
+#EXTINF:-1,Jack Reacher Never Go Back 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2210.mkv
+#EXTINF:-1,Kickboxer Vengeance 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2200.mkv
+#EXTINF:-1,Max Steel 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2211.mkv
+#EXTINF:-1,Operation Mekong 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2201.mkv
+#EXTINF:-1,Ouija Origin Of Evil 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2212.mkv
+#EXTINF:-1,Train To Busan 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2213.mkv
+#EXTINF:-1,Under The Shadow 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2214.mkv
+#EXTINF:-1,Uss Indianapolis Men Of Courage 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/782.mkv
+#EXTINF:-1,When The Bough Breaks 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2205.mkv
+#EXTINF:-1,Tschiller Off Duty 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/781.mkv
+#EXTINF:-1,Gridlocked 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/775.mkv
+#EXTINF:-1,The Rezort 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2203.mkv
+#EXTINF:-1,The Wave 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/741.mkv
+#EXTINF:-1,Vol 7500 2014
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2204.mkv
+#EXTINF:-1,Police Story Lockdown 2013
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2202.mkv
+#EXTINF:-1,War Of The Arrows 2011
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2215.mkv
+#EXTINF:-1,+++Epouvante-horreur-+++
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1038.ts
+#EXTINF:-1, Clown.2014
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3839.avi
+#EXTINF:-1,Annabelle.2.Creation.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3837.avi
+#EXTINF:-1,Before.I
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3841.avi
+#EXTINF:-1,Cult.of.Chucky.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3845.avi
+#EXTINF:-1,Eat.Local.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3846.avi
+#EXTINF:-1,Flatliners.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3842.avi
+#EXTINF:-1,Gremlin.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3853.avi
+#EXTINF:-1,Leatherface.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3851.mkv
+#EXTINF:-1,Pet.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3832.avi
+#EXTINF:-1,Rupture.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3844.avi
+#EXTINF:-1,Satanic.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3834.avi
+#EXTINF:-1,Slasher.com.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3849.mkv
+#EXTINF:-1,The Babysitter.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3843.avi
+#EXTINF:-1,The.Bye.Bye.Man.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3852.avi
+#EXTINF:-1,Wish.Upon.2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3836.avi
+#EXTINF:-1,The.Exorcism.of.Anna.Ecklund.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3847.mkv
+#EXTINF:-1,Prevenge-Tuer.pour.deux.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3833.avi
+#EXTINF:-1,Grave.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3840.avi
+#EXTINF:-1,The.Black.Room.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3850.avi
+#EXTINF:-1,The.Autopsy.of.Jane.Doe.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3838.mkv
+#EXTINF:-1,Dont.Knock.Twice.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3848.avi
+#EXTINF:-1,The.Devils.Candy.2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3835.avi
+#EXTINF:-1,====FILM_ISLAMIQUE====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2610.ts
+#EXTINF:-1,Ù‡Ø¬Ø±Ø© Ø§Ù„Ø±Ø³ÙˆÙ„ - Hegret El Rasool
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2623.mp4
+#EXTINF:-1,-Ù‚ØµØ© Ø¥Ø³Ø­Ø§Ù‚ ÙˆÙŠØ¹Ù‚ÙˆØ¨ Isaac & Jacob Story--
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2593.mkv
+#EXTINF:-1,Flm-mmlk-alnby-slyman-aarby-dvd-resolution-kingdom-of-solomon
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2600.mkv
+#EXTINF:-1,ÙÙŠÙ„Ù… Ø§Ù„Ø¬Ø§Ø­Ø¯ - Ù‚ØµØ© Ø¨Ù‚Ø±Ø© Ø¨Ù†ÙŠ Ø¥Ø³Ø±Ø§Ø¦ÙŠÙ„ Ø§Ù„ØµÙØ±Ø§Ø¡ (1)
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2601.mkv
+#EXTINF:-1,ÙÙŠÙ„Ù… Ù‚ØµØ© Ø³ÙŠØ¯Ù†Ø§ Ø§Ø¨Ø±Ø§Ù‡ÙŠÙ… Ø®Ù„ÙŠÙ„ Ø§Ù„Ù„Ù‡ Ù…Ø¯Ø¨Ù„Ø¬ Ø¨Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2602.mkv
+#EXTINF:-1,------ Bibliotheque  Adil Imam-------
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2630.ts
+#EXTINF:-1,Ù…Ø³Ø±Ø­ÙŠØ© Ø§Ù„ÙˆØ§Ø¯ Ø³ÙŠØ¯ Ø§Ù„Ø´ØºØ§Ù„ - Masrahiyat El Wad Sayed El Shaghal
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2665.mp4
+#EXTINF:-1,ÙÙŠÙ„Ù… Ø¹Ø§Ø¯Ù„ Ø§Ù…Ø§Ù… Ø¹Ù„Ù‰ Ø¨Ø§Ø¨ Ø§Ù„ÙˆØ²ÙŠØ±
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2664.mp4
+#EXTINF:-1,Ø§Ù„Ù†ÙˆÙ… ÙÙ‰ Ø§Ù„Ø¹Ø³Ù„
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2718.mp4
+#EXTINF:-1,ÙÙŠÙ„Ù… Ø§Ù„ÙˆØ¯ Ù…Ø­Ø±ÙˆØ³ Ø¨ØªØ§Ø¹ Ø§Ù„ÙˆØ²ÙŠØ± Ø¨Ø¯Ù‚Ø© Ø¹Ø§Ù„ÙŠØ©
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2663.mkv
+#EXTINF:-1,Ø§Ù„Ø§Ø±Ù‡Ø§Ø¨Ù‰ - El Erhabi
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2661.mp4
+#EXTINF:-1,Ø§Ù„Ø¥Ø±Ù‡Ø§Ø¨ Ùˆ Ø§Ù„ÙƒØ¨Ø§Ø¨ - Ø¹Ø§Ø¯Ù„ Ø¥Ù…Ø§Ù… - Terrorism And Bbq - Adel Emam
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2660.mp4
+#EXTINF:-1,Film Masri Comedy 2016 Adel Imam ÙÙŠÙ„Ù… Ù…ØµØ±ÙŠ ÙƒÙˆÙ…ÙŠØ¯ÙŠØ§ Ø¨Ø·ÙˆÙ„Ø© Ø¹Ø§Ø¯Ù„ Ø¥Ù…Ø§Ù…
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2659.mp4
+#EXTINF:-1,Adel Emam - Al Za3im
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2658.mp4
+#EXTINF:-1,------ Nouveaute Film Egyptien-----
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2431.ts
+#EXTINF:-1,Youm Men El-ayam 2017 Hd
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2622.mkv
+#EXTINF:-1,Sahara 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2877.mp4
+#EXTINF:-1,===MASRA7YATE_MAROC===
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2631.ts
+#EXTINF:-1,Ø§Ù„Ù…Ø³Ø±Ø­ÙŠØ© Ø§Ù„Ù…ØºØ±Ø¨ÙŠØ© - Ø¬Ø§ Ùˆ Ø¬Ø§Ø¨ - Ù…Ø­Ù…Ø¯ Ø§Ù„Ø¬Ù… Ùˆ Ù†Ø²Ù‡Ø© Ø§Ù„Ø±ÙƒØ±Ø§ÙƒÙŠ
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2653.mp4
+#EXTINF:-1,Ø§Ù„Ù…Ø³Ø±Ø­ÙŠØ© Ø§Ù„Ù…ØºØ±Ø¨ÙŠØ© Ø§Ù„Ù…Ø±Ø§Ø© Ø§Ù„ØªÙŠ Almaraa Allati Masrahiya Marocaine
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2654.mp4
+#EXTINF:-1,Ø§Ù„Ù…Ø³Ø±Ø­ÙŠØ© Ø§Ù„Ù…ØºØ±Ø¨ÙŠØ© Ø³Ø§Ø¹Ø© Ù…Ø¨Ø±ÙˆÙƒØ© Ù…Ø¹ Ù…Ø­Ù…Ø¯ Ø§Ù„Ø¬Ù… Ùˆ Ù†Ø²Ù‡Ø© Ø§Ù„Ø±ÙƒØ±Ø§ÙƒÙŠ
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2655.mp4
+#EXTINF:-1,Ø¨Ø±Ø§Ù…Ø¬ Ø±Ù…Ø¶Ø§Ù† - Ø¬Ù…ÙŠØ¹ Ø­Ù„Ù‚Ø§Øª Ù„ÙƒÙˆØ¨Ù„ 2 - 30 Ø­Ù„Ù‚Ø© ÙƒØ§Ù…Ù„Ø© Tous Les Ã©pisodes
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2656.mp4
+#EXTINF:-1,Ù…Ø­Ù…Ø¯ Ø§Ù„Ø¬Ù…- Ù…Ø³Ø±Ø­ÙŠØ© Ø¬Ø§Ø± Ùˆ Ù…Ø¬Ø±ÙˆØ± - 2000
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2657.mp4
+#EXTINF:-1,------Film Marocain-------
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2217.ts
+#EXTINF:-1,ÙÙŠÙ„Ù… Ø´Ù‡Ø§Ø¯Ø© Ø§Ù„Ø­ÙŠØ§Ø©
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2719.mp4
+#EXTINF:-1,Film Marocain 2016 Assarkha Al Akhira ÙÙŠÙ„Ù… Ù…ØºØ±Ø¨ÙŠ 2016 Ø§Ù„ØµØ±Ø®Ø© Ø§Ù„Ø£Ø®ÙŠØ±Ø©
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2703.mp4
+#EXTINF:-1,Film Marocain Complet - Bokyoud - Ø§ÙÙ„Ø§Ù… Ù…ØºØ±Ø¨ÙŠØ© 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2704.mp4
+#EXTINF:-1,Al-faroog
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2440.mkv
+#EXTINF:-1,Alajna
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2442.mkv
+#EXTINF:-1,Maroc Film1
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2878.mp4
+#EXTINF:-1,Maroc Film2
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2879.mp4
+#EXTINF:-1,Maroc Film3
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2880.mp4
+#EXTINF:-1,Maroc Film4
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2881.mp4
+#EXTINF:-1,Maroc Film5
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2882.mp4
+#EXTINF:-1,Maroc Film6
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2883.mp4
+#EXTINF:-1,Maroc Film7
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2884.mp4
+#EXTINF:-1,=====BOX_OFFICE_COMMEDIE=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1538.ts
+#EXTINF:-1,Bad Moms 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1039.mkv
+#EXTINF:-1,C Est Quoi Cette Famille 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1041.mkv
+#EXTINF:-1,Hibou 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1084.mkv
+#EXTINF:-1,Absolutely Fabulous The Movie 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1081.mkv
+#EXTINF:-1,Ordinary World 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1089.mkv
+#EXTINF:-1,Parenthese 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1043.mkv
+#EXTINF:-1,Good Kids 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1042.mkv
+#EXTINF:-1,Monkey Up 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1087.mkv
+#EXTINF:-1,Hardcore Henry 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/674.mkv
+#EXTINF:-1,Ils Sont Partout 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1085.mkv
+#EXTINF:-1,Je Me Tue A Le Dire 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1086.mkv
+#EXTINF:-1,War Dogs 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1044.mkv
+#EXTINF:-1,===Film-science-fiction===
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/2515.ts
+#EXTINF:-1,Kill Switch 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3121.avi
+#EXTINF:-1,Seuls 2017
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/3126.avi
+#EXTINF:-1,=====FILMS_DOCUMENTAIRES=====
+http://leon-iptv.ddns.net:1155/live/admin3/admin3/1539.ts
+#EXTINF:-1,Jackass 3 5 2011
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2163.mkv
+#EXTINF:-1,Monkey Kingdom 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2160.mkv
+#EXTINF:-1,The Imposter-taste
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2162.mkv
+#EXTINF:-1,Tiny Giants 3d 2014
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2161.mkv
+#EXTINF:-1,Dirty Wars 2013
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2159.mkv
+#EXTINF:-1,Where To Invade Next
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/2164.mkv
+#EXTINF:-1,Merci Patron 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1542.mkv
+#EXTINF:-1,Spartacus Et Cassandra 2014
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1543.mkv
+#EXTINF:-1,The Beatles Eight Days A Week 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1544.mkv
+#EXTINF:-1,The Ivory Game 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1545.mkv
+#EXTINF:-1,SpÃ©cial Investigation - EnquÃªte Sur Le RÃ©seau DieudonnÃ©
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1560.mkv
+#EXTINF:-1,Where To Invade Next
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1546.mkv
+#EXTINF:-1,Le Grand Jour 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1550.mkv
+#EXTINF:-1,Amy 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1551.mkv
+#EXTINF:-1,Avant Le Deluge 2016
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1541.mkv
+#EXTINF:-1,Cartel Land 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1552.mkv
+#EXTINF:-1,Demain 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1554.mkv
+#EXTINF:-1,Human 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1555.mkv
+#EXTINF:-1,Les Nouveaux Chiens De Garde 2012
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1557.mkv
+#EXTINF:-1,Les Saisons 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1556.mkv
+#EXTINF:-1,Extinction Doc 2015
+http://leon-iptv.ddns.net:1155/movie/admin3/admin3/1558.mkv
+#EXTINF:-1,Ronaldo 2015
+http://leon-iptv.ddns.net:1155/movie/admin3
