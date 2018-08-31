@@ -1,397 +1,1058 @@
 #EXTM3U
-#EXTINF:-1,UK: ITV 1
-http://217.182.203.97:1850/live/ismail1/ismail12/642.ts
-#EXTINF:-1,UK: ITV 2
-http://217.182.203.97:1850/live/ismail1/ismail12/641.ts
-#EXTINF:-1,UK: ITV 3
-http://217.182.203.97:1850/live/ismail1/ismail12/640.ts
-#EXTINF:-1,UK: ITV 4
-http://217.182.203.97:1850/live/ismail1/ismail12/639.ts
-#EXTINF:-1,UK: BBC 1
-http://217.182.203.97:1850/live/ismail1/ismail12/659.ts
-#EXTINF:-1,UK: BBC 2
-http://217.182.203.97:1850/live/ismail1/ismail12/658.ts
-#EXTINF:-1,UK: BBC 3
-http://217.182.203.97:1850/live/ismail1/ismail12/657.ts
-#EXTINF:-1,UK: BBC 4
-http://217.182.203.97:1850/live/ismail1/ismail12/656.ts
-#EXTINF:-1,UK: HBO
-http://217.182.203.97:1850/live/ismail1/ismail12/1028.ts
-#EXTINF:-1,UK: HBO 2
-http://217.182.203.97:1850/live/ismail1/ismail12/1029.ts
-#EXTINF:-1,UK: HBO 3
-http://217.182.203.97:1850/live/ismail1/ismail12/1030.ts
-#EXTINF:-1,UK: CNN
-http://217.182.203.97:1850/live/ismail1/ismail12/954.ts
-#EXTINF:-1,UK: Boomerang
-http://217.182.203.97:1850/live/ismail1/ismail12/979.ts
-#EXTINF:-1,UK: DISNEY XD
-http://217.182.203.97:1850/live/ismail1/ismail12/690.ts
-#EXTINF:-1,UK: At The Races
-http://217.182.203.97:1850/live/ismail1/ismail12/1917.ts
-#EXTINF:-1,UK: Nat Geo
-http://217.182.203.97:1850/live/ismail1/ismail12/1915.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://217.182.203.97:1850/live/ismail1/ismail12/1012.ts
-#EXTINF:-1,UK: History Ch.
-http://217.182.203.97:1850/live/ismail1/ismail12/1010.ts
-#EXTINF:-1,UK: MUTV
-http://217.182.203.97:1850/live/ismail1/ismail12/1011.ts
-#EXTINF:-1,UK: SONY MOVIES
-http://217.182.203.97:1850/live/ismail1/ismail12/734.ts
-#EXTINF:-1,UK: Racing UK
-http://217.182.203.97:1850/live/ismail1/ismail12/739.ts
-#EXTINF:-1,UK: GOLD
-http://217.182.203.97:1850/live/ismail1/ismail12/743.ts
-#EXTINF:-1,UK: jim Jam
-http://217.182.203.97:1850/live/ismail1/ismail12/983.ts
-#EXTINF:-1,UK: Duck TV
-http://217.182.203.97:1850/live/ismail1/ismail12/977.ts
-#EXTINF:-1,UK: Bloomberg
-http://217.182.203.97:1850/live/ismail1/ismail12/951.ts
-#EXTINF:-1,UK: Baby TV
-http://217.182.203.97:1850/live/ismail1/ismail12/978.ts
-#EXTINF:-1,UK: alibi
-http://217.182.203.97:1850/live/ismail1/ismail12/755.ts
-#EXTINF:-1,UK: TV3
-http://217.182.203.97:1850/live/ismail1/ismail12/1013.ts
-#EXTINF:-1,UK: Sky News (eng)
-http://217.182.203.97:1850/live/ismail1/ismail12/1332.ts
-#EXTINF:-1,UK: AXN White
-http://217.182.203.97:1850/live/ismail1/ismail12/931.ts
-#EXTINF:-1,UK: AXN Black
-http://217.182.203.97:1850/live/ismail1/ismail12/930.ts
-#EXTINF:-1,UK: World Fight Channel HD
-http://217.182.203.97:1850/live/ismail1/ismail12/1423.ts
-#EXTINF:-1,UK: H2 (History2)
-http://217.182.203.97:1850/live/ismail1/ismail12/1946.ts
-#EXTINF:-1,UK: Eurosport News
-http://217.182.203.97:1850/live/ismail1/ismail12/953.ts
-#EXTINF:-1,UK: Euronews
-http://217.182.203.97:1850/live/ismail1/ismail12/948.ts
-#EXTINF:-1,UK: Al Jazeera
-http://217.182.203.97:1850/live/ismail1/ismail12/955.ts
-#EXTINF:-1,UK: DW (english language)
-http://217.182.203.97:1850/live/ismail1/ismail12/956.ts
-#EXTINF:-1,UK: CNBC Europe
-http://217.182.203.97:1850/live/ismail1/ismail12/952.ts
-#EXTINF:-1,UK: France 24 English
-http://217.182.203.97:1850/live/ismail1/ismail12/988.ts
-#EXTINF:-1,UK: MTV Live HD
-http://217.182.203.97:1850/live/ismail1/ismail12/989.ts
-#EXTINF:-1,UK: Unitel Classica
-http://217.182.203.97:1850/live/ismail1/ismail12/976.ts
-#EXTINF:-1,(UK) BBC1 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3139.ts
-#EXTINF:-1,(UK) BBC 1
-http://178.132.6.74:8282/live/ramo/ramo1/3138.ts
-#EXTINF:-1,(UK) BBC2 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3137.ts
-#EXTINF:-1,(UK) BBC 2
-http://178.132.6.74:8282/live/ramo/ramo1/3136.ts
-#EXTINF:-1,(UK) BBC3 HD
-http://178.132.6.74:8282/live/ramo/ramo1/3135.ts
-#EXTINF:-1,(UK) BBC 3
-http://178.132.6.74:8282/live/ramo/ramo1/3134.ts
-#EXTINF:-1,(UK) BBC4 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3133.ts
-#EXTINF:-1,(UK) BBC 4
-http://178.132.6.74:8282/live/ramo/ramo1/3132.ts
-#EXTINF:-1,(UK) ITV 1 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3131.ts
-#EXTINF:-1,(UK) ITV 1
-http://178.132.6.74:8282/live/ramo/ramo1/3130.ts
-#EXTINF:-1,(UK) ITV 2 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3129.ts
-#EXTINF:-1,(UK) ITV 2
-http://178.132.6.74:8282/live/ramo/ramo1/3128.ts
-#EXTINF:-1,(UK) ITV 3 HD
-http://178.132.6.74:8282/live/ramo/ramo1/3127.ts
-#EXTINF:-1,(UK) ITV 3
-http://178.132.6.74:8282/live/ramo/ramo1/3126.ts
-#EXTINF:-1,(UK) ITV 4 Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3125.ts
-#EXTINF:-1,(UK) ITV 4
-http://178.132.6.74:8282/live/ramo/ramo1/3124.ts
-#EXTINF:-1,(UK) RTE ONE Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3116.ts
-#EXTINF:-1,(UK) RTE ONE
-http://178.132.6.74:8282/live/ramo/ramo1/3115.ts
-#EXTINF:-1,(UK) RTE TWO
-http://178.132.6.74:8282/live/ramo/ramo1/3114.ts
-#EXTINF:-1,(UK) SYFY
-http://178.132.6.74:8282/live/ramo/ramo1/3109.ts
-#EXTINF:-1,(UK) VH1 CLASSIC
-http://178.132.6.74:8282/live/ramo/ramo1/3031.ts
-#EXTINF:-1,(UK) YESTERDAY
-http://178.132.6.74:8282/live/ramo/ramo1/3030.ts
-#EXTINF:-1,(UK) CHELSEA TV
-http://178.132.6.74:8282/live/ramo/ramo1/3041.ts
-#EXTINF:-1,(UK) E4 UK
-http://178.132.6.74:8282/live/ramo/ramo1/3106.ts
-#EXTINF:-1,(UK) 5 USA
-http://178.132.6.74:8282/live/ramo/ramo1/3105.ts
-#EXTINF:-1,(UK) ALIBI
-http://178.132.6.74:8282/live/ramo/ramo1/3104.ts
-#EXTINF:-1,(UK) COLORS
-http://178.132.6.74:8282/live/ramo/ramo1/3103.ts
-#EXTINF:-1,(UK) Comedy Central
-http://178.132.6.74:8282/live/ramo/ramo1/3102.ts
-#EXTINF:-1,(UK) DAVE
-http://178.132.6.74:8282/live/ramo/ramo1/3101.ts
-#EXTINF:-1,(UK) MTV Base
-http://178.132.6.74:8282/live/ramo/ramo1/3033.ts
-#EXTINF:-1,(UK) MTV HITS
-http://178.132.6.74:8282/live/ramo/ramo1/3032.ts
-#EXTINF:-1,(UK) Nick JR
-http://178.132.6.74:8282/live/ramo/ramo1/3091.ts
-#EXTINF:-1,(UK) NICKTOONS
-http://178.132.6.74:8282/live/ramo/ramo1/3090.ts
-#EXTINF:-1,(UK) REALLY
-http://178.132.6.74:8282/live/ramo/ramo1/3068.ts
-#EXTINF:-1,(UK) GOLD
-http://178.132.6.74:8282/live/ramo/ramo1/3117.ts
-#EXTINF:-1,(UK) Home
-http://178.132.6.74:8282/live/ramo/ramo1/3099.ts
-#EXTINF:-1,(UK) PICK TV
-http://178.132.6.74:8282/live/ramo/ramo1/3069.ts
-#EXTINF:-1,(UK) NATIONAL GEOGRAPHIC
-http://178.132.6.74:8282/live/ramo/ramo1/3070.ts
-#EXTINF:-1,(UK) NATIONAL GEOGRAPHIC WILD
-http://178.132.6.74:8282/live/ramo/ramo1/3086.ts
-#EXTINF:-1,(UK) FINE LIVING NETWORK Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3082.ts
-#EXTINF:-1,(UK) FOOD NETWORK
-http://178.132.6.74:8282/live/ramo/ramo1/3081.ts
-#EXTINF:-1,(UK) DISCOVERY CHANNEL
-http://178.132.6.74:8282/live/ramo/ramo1/3085.ts
-#EXTINF:-1,(UK) DISCOVERY HISTORY
-http://178.132.6.74:8282/live/ramo/ramo1/3084.ts
-#EXTINF:-1,(UK) Discovery Turbo UK
-http://178.132.6.74:8282/live/ramo/ramo1/3083.ts
-#EXTINF:-1,(UK) Disney Jr
-http://178.132.6.74:8282/live/ramo/ramo1/3094.ts
-#EXTINF:-1,(UK) DISNEY JUNIOR
-http://178.132.6.74:8282/live/ramo/ramo1/3092.ts
-#EXTINF:-1,(UK) DISNEY XD
-http://178.132.6.74:8282/live/ramo/ramo1/3093.ts
-#EXTINF:-1,(UK) BOOMERANG
-http://178.132.6.74:8282/live/ramo/ramo1/3096.ts
-#EXTINF:-1,(UK) Cartoon Network
-http://178.132.6.74:8282/live/ramo/ramo1/3095.ts
-#EXTINF:-1,(UK) CBS ACTION Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3089.ts
-#EXTINF:-1,(UK) CBS DRAMA Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3088.ts
-#EXTINF:-1,(UK) CBS REALITY Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3087.ts
-#EXTINF:-1,(UK) E!
-http://178.132.6.74:8282/live/ramo/ramo1/3100.ts
-#EXTINF:-1,(UK) LONDON LIVE Full HD
-http://178.132.6.74:8282/live/ramo/ramo1/3098.ts
-#EXTINF:-1,(UK) MAN UTD
-http://178.132.6.74:8282/live/ramo/ramo1/3039.ts
-#EXTINF:-1,(UK) MORE 4
-http://178.132.6.74:8282/live/ramo/ramo1/3097.ts
-#EXTINF:-1,(UK) MOTORS TV
-http://178.132.6.74:8282/live/ramo/ramo1/3038.ts
-#EXTINF:-1,UK | BBC1
-http://212.8.252.98:8080/live/muammer/unal/11213.ts
-#EXTINF:-1,UK | BBC2
-http://212.8.252.98:8080/live/muammer/unal/11214.ts
-#EXTINF:-1,UK | BBC3
-http://212.8.252.98:8080/live/muammer/unal/11215.ts
-#EXTINF:-1,UK | CBSAction
-http://212.8.252.98:8080/live/muammer/unal/11218.ts
-#EXTINF:-1,UK | CBSDrama
-http://212.8.252.98:8080/live/muammer/unal/11217.ts
-#EXTINF:-1,UK | CBSReality
-http://212.8.252.98:8080/live/muammer/unal/11216.ts
-#EXTINF:-1,UK | Channel4
-http://212.8.252.98:8080/live/muammer/unal/11219.ts
-#EXTINF:-1,UK | Channel5
-http://212.8.252.98:8080/live/muammer/unal/11220.ts
-#EXTINF:-1,UK | ComedyCentral
-http://212.8.252.98:8080/live/muammer/unal/11221.ts
-#EXTINF:-1,UK | Discovery Science HD
-http://212.8.252.98:8080/live/muammer/unal/11226.ts
-#EXTINF:-1,UK | Discovery Turbo HD
-http://212.8.252.98:8080/live/muammer/unal/11227.ts
-#EXTINF:-1,UK | DiscoveryChannelHD
-http://212.8.252.98:8080/live/muammer/unal/11224.ts
-#EXTINF:-1,UK | DiscoveryShed
-http://212.8.252.98:8080/live/muammer/unal/11225.ts
-#EXTINF:-1,UK | DisneyChannel
-http://212.8.252.98:8080/live/muammer/unal/11223.ts
-#EXTINF:-1,UK | DisneyJunior
-http://212.8.252.98:8080/live/muammer/unal/11222.ts
-#EXTINF:-1,UK | Dmax.
-http://212.8.252.98:8080/live/muammer/unal/11245.ts
-#EXTINF:-1,UK | EUROSPORT 2
-http://212.8.252.98:8080/live/muammer/unal/11247.ts
-#EXTINF:-1,UK | EUROSPORT1
-http://212.8.252.98:8080/live/muammer/unal/11246.ts
-#EXTINF:-1,UK | ITV1
-http://212.8.252.98:8080/live/muammer/unal/11209.ts
-#EXTINF:-1,UK | ITV2
-http://212.8.252.98:8080/live/muammer/unal/11210.ts
-#EXTINF:-1,UK | ITV3
-http://212.8.252.98:8080/live/muammer/unal/11211.ts
-#EXTINF:-1,UK | ITV4
-http://212.8.252.98:8080/live/muammer/unal/11212.ts
-#EXTINF:-1,UK | NationalGeographic
-http://212.8.252.98:8080/live/muammer/unal/11228.ts
-#EXTINF:-1,UK | Yesterday
-http://212.8.252.98:8080/live/muammer/unal/11244.ts
-#EXTINF:-1,UK: News HD
-http://212.8.248.197:8080/live/sam02/sam02/550.ts
-#EXTINF:-1,UK: RTE News
-http://212.8.248.197:8080/live/sam02/sam02/431.ts
-#EXTINF:-1,UK: BBC News
-http://212.8.248.197:8080/live/sam02/sam02/428.ts
-#EXTINF:-1,UK: BBC One HD
-http://212.8.248.197:8080/live/sam02/sam02/488.ts
-#EXTINF:-1,UK: BBC Two HD
-http://212.8.248.197:8080/live/sam02/sam02/487.ts
-#EXTINF:-1,UK: BBC Three HD
-http://212.8.248.197:8080/live/sam02/sam02/486.ts
-#EXTINF:-1,UK: BBC Four HD
-http://212.8.248.197:8080/live/sam02/sam02/485.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://212.8.248.197:8080/live/sam02/sam02/426.ts
-#EXTINF:-1,UK: Channel 5 HD
-http://212.8.248.197:8080/live/sam02/sam02/427.ts
-#EXTINF:-1,UK: Comedy Central
-http://212.8.248.197:8080/live/sam02/sam02/463.ts
-#EXTINF:-1,UK: Comedy Central Ex
-http://212.8.248.197:8080/live/sam02/sam02/462.ts
-#EXTINF:-1,UK: Food Network
-http://212.8.248.197:8080/live/sam02/sam02/495.ts
-#EXTINF:-1,UK: Sony Movies
-http://212.8.248.197:8080/live/sam02/sam02/501.ts
-#EXTINF:-1,UK: Bloomberg HD
-http://212.8.248.197:8080/live/sam02/sam02/457.ts
-#EXTINF:-1,UK: Boomerang
-http://212.8.248.197:8080/live/sam02/sam02/444.ts
-#EXTINF:-1,UK: Nickelodeon
-http://212.8.248.197:8080/live/sam02/sam02/503.ts
-#EXTINF:-1,UK: Nickelodeon JR
-http://212.8.248.197:8080/live/sam02/sam02/423.ts
-#EXTINF:-1,UK: NickToons
-http://212.8.248.197:8080/live/sam02/sam02/446.ts
-#EXTINF:-1,UK: Disney XD HD
-http://212.8.248.197:8080/live/sam02/sam02/493.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://212.8.248.197:8080/live/sam02/sam02/494.ts
-#EXTINF:-1,UK: Disney Chaneel HD
-http://212.8.248.197:8080/live/sam02/sam02/492.ts
-#EXTINF:-1,UK: Discovery Science
-http://212.8.248.197:8080/live/sam02/sam02/526.ts
-#EXTINF:-1,UK: Discovery History
-http://212.8.248.197:8080/live/sam02/sam02/491.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://212.8.248.197:8080/live/sam02/sam02/465.ts
-#EXTINF:-1,UK: Discovery Shed
-http://212.8.248.197:8080/live/sam02/sam02/445.ts
-#EXTINF:-1,UK: Discovery
-http://212.8.248.197:8080/live/sam02/sam02/464.ts
-#EXTINF:-1,UK: National Geographic HD
-http://212.8.248.197:8080/live/sam02/sam02/499.ts
-#EXTINF:-1,UK: Nat Geo Wild HD
-http://212.8.248.197:8080/live/sam02/sam02/498.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://212.8.248.197:8080/live/sam02/sam02/497.ts
-#EXTINF:-1,UK: History HD
-http://212.8.248.197:8080/live/sam02/sam02/496.ts
-#EXTINF:-1,UK: History 2
-http://212.8.248.197:8080/live/sam02/sam02/452.ts
-#EXTINF:-1,UK: Ci
-http://212.8.248.197:8080/live/sam02/sam02/514.ts
-#EXTINF:-1,UK: 1
-http://212.8.248.197:8080/live/sam02/sam02/475.ts
-#EXTINF:-1,UK: 2
-http://212.8.248.197:8080/live/sam02/sam02/507.ts
-#EXTINF:-1,UK: Atlantic
-http://212.8.248.197:8080/live/sam02/sam02/483.ts
-#EXTINF:-1,UK: E! Entertainment
-http://212.8.248.197:8080/live/sam02/sam02/447.ts
-#EXTINF:-1,UK: VH1
-http://212.8.248.197:8080/live/sam02/sam02/449.ts
-#EXTINF:-1,UK: E4
-http://212.8.248.197:8080/live/sam02/sam02/451.ts
-#EXTINF:-1,UK: TG4
-http://212.8.248.197:8080/live/sam02/sam02/422.ts
-#EXTINF:-1,UK: Syfy
-http://212.8.248.197:8080/live/sam02/sam02/538.ts
-#EXTINF:-1,UK: CNBC
-http://212.8.248.197:8080/live/sam02/sam02/466.ts
-#EXTINF:-1,UK: Dave HD
-http://212.8.248.197:8080/live/sam02/sam02/506.ts
-#EXTINF:-1,UK: RTE One
-http://212.8.248.197:8080/live/sam02/sam02/474.ts
-#EXTINF:-1,UK: RTE One UP
-http://212.8.248.197:8080/live/sam02/sam02/1568.ts
-#EXTINF:-1,UK: RTE Two
-http://212.8.248.197:8080/live/sam02/sam02/478.ts
-#EXTINF:-1,UK: RTE Two UP
-http://212.8.248.197:8080/live/sam02/sam02/1569.ts
-#EXTINF:-1,UK: Fox
-http://212.8.248.197:8080/live/sam02/sam02/460.ts
-#EXTINF:-1,UK: Five
-http://212.8.248.197:8080/live/sam02/sam02/473.ts
-#EXTINF:-1,UK: Arts 1 HD
-http://212.8.248.197:8080/live/sam02/sam02/489.ts
-#EXTINF:-1,UK: Baby
-http://212.8.248.197:8080/live/sam02/sam02/424.ts
-#EXTINF:-1,UK: Eden
-http://212.8.248.197:8080/live/sam02/sam02/425.ts
-#EXTINF:-1,UK: Alibi
-http://212.8.248.197:8080/live/sam02/sam02/509.ts
-#EXTINF:-1,UK: Living HD
-http://212.8.248.197:8080/live/sam02/sam02/502.ts
-#EXTINF:-1,UK: BoxNation
-http://212.8.248.197:8080/live/sam02/sam02/490.ts
-#EXTINF:-1,UK: Racing
-http://212.8.248.197:8080/live/sam02/sam02/458.ts
-#EXTINF:-1,UK: Gold
-http://212.8.248.197:8080/live/sam02/sam02/508.ts
-#EXTINF:-1,UK: 5 USA
-http://212.8.248.197:8080/live/sam02/sam02/480.ts
-#EXTINF:-1,UK: 5 star
-http://212.8.248.197:8080/live/sam02/sam02/477.ts
-#EXTINF:-1,UK: life Time
-http://212.8.248.197:8080/live/sam02/sam02/476.ts
-#EXTINF:-1,UK: 5 Spik
-http://212.8.248.197:8080/live/sam02/sam02/525.ts
-#EXTINF:-1,UK: TCM
-http://212.8.248.197:8080/live/sam02/sam02/459.ts
-#EXTINF:-1,UK: CNN
-http://212.8.248.197:8080/live/sam02/sam02/454.ts
-#EXTINF:-1,UK: Dmax
-http://212.8.248.197:8080/live/sam02/sam02/456.ts
-#EXTINF:-1,UK: TLC
-http://212.8.248.197:8080/live/sam02/sam02/455.ts
-#EXTINF:-1,UK: STV
-http://212.8.248.197:8080/live/sam02/sam02/448.ts
-#EXTINF:-1,UK: MTV
-http://212.8.248.197:8080/live/sam02/sam02/1550.ts
-#EXTINF:-1,UK: MTV Rocks HD
-http://212.8.248.197:8080/live/sam02/sam02/442.ts
-#EXTINF:-1,UK: MTV Hits HD
-http://212.8.248.197:8080/live/sam02/sam02/443.ts
-#EXTINF:-1,UK: MTV Dance HD
-http://212.8.248.197:8080/live/sam02/sam02/441.ts
-#EXTINF:-1,UK: MTV Classic
-http://212.8.248.197:8080/live/sam02/sam02/500.ts
-#EXTINF:-1,UK: MTV Base
-http://212.8.248.197:8080/live/sam02/sam02/440.ts
-#EXTINF:-1,UK: Fine Living Network
-http://212.8.248.197:8080/live/sam02/sam02/1544.ts
-#EXTINF:-1,UK: 4Music
-http://212.8.248.197:8080/live/sam02/sam02/1543.ts
-#EXTINF:-1,UK: VH1 Classic
-http://212.8.248.197:8080/live/sam02/sam02/450.ts
-#EXTINF:-1,UK: VIVA the Hits
-http://212.8.248.197:8080/live/sam02/sam02/439.ts
-#EXTINF:-1,UK: Kronehit TV
-http://212.8.248.197:8080/live/sam02/sam02/1545.ts
+#EXTINF:-1,ABIERTOS:Canal 26
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Canal-26.m3u8
+#EXTINF:-1,ABIERTOS:Caracol
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Caracol.m3u8
+#EXTINF:-1,ABIERTOS:El Nueve
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Nueve.m3u8
+#EXTINF:-1,ABIERTOS:El Trece
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Trece.m3u8
+#EXTINF:-1,ABIERTOS:Encuentro
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Encuentro.m3u8
+#EXTINF:-1,ABIERTOS:Las Estrellas
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Las-Estrellas.m3u8
+#EXTINF:-1,ABIERTOS:TV Publica
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TV-Publica.m3u8
+#EXTINF:-1,ABIERTOS:Telefe
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Telefe.m3u8
+#EXTINF:-1,ABIERTOS:Telemundo
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Telemundo.m3u8
+#EXTINF:-1,DEPORTES:Bein Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Bein-Sports.m3u8
+#EXTINF:-1,DEPORTES:Claro Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Claro-Sports.m3u8
+#EXTINF:-1,DEPORTES:CDF Premium
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/CDF-Premium.m3u8
+#EXTINF:-1,DEPORTES:DeporTV
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/DeporTV.m3u8
+#EXTINF:-1,DEPORTES:DirecTV Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/DirecTV-Sports.m3u8
+#EXTINF:-1,DEPORTES:TyC Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TyC-Sports.m3u8
+#EXTINF:-1,DEPORTES:ESPNmas
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPNmas.m3u8
+#EXTINF:-1,DEPORTES:ESPN
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPN.m3u8
+#EXTINF:-1,DEPORTES:ESPN 2
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPN-2.m3u8
+#EXTINF:-1,DEPORTES:ESPN 3
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPN-3.m3u8
+#EXTINF:-1,DEPORTES:ESPN MX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPN-MX.m3u8
+#EXTINF:-1,DEPORTES:ESPN 2 MX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/ESPN-2-MX.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports 2
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports-2.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports 3
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports-3.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports MX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports-MX.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports 2 MX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports-2-MX.m3u8
+#EXTINF:-1,DEPORTES:Fox Sports Premium
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Sports-Premium.m3u8
+#EXTINF:-1,DEPORTES:TNT Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TNT-Sports.m3u8
+#EXTINF:-1,DEPORTES:Movistar Futbol
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Movistar-Futbol.m3u8
+#EXTINF:-1,DEPORTES:Movistar F1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Movistar-F1.m3u8
+#EXTINF:-1,DEPORTES:Garage TV
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Garage-TV.m3u8
+#EXTINF:-1,DEPORTES:UFC Network
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/UFC-Network.m3u8
+#EXTINF:-1,DEPORTES:Win Sports
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Win-Sports.m3u8
+#EXTINF:-1,EVENTOS:Godoy Cruz vs Estudiantes | Superliga 2018-2019 Fecha 1 | 13:15hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Godoy-Cruz-vs-Estudiantes-%7C-Superliga-2018-2019-Fecha-1-%7C-13%3A15hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Boca vs Talleres | Superliga 2018-2019 Fecha 1 | 11:00hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Boca-vs-Talleres-%7C-Superliga-2018-2019-Fecha-1-%7C-11%3A00hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Arsenal vs Manchester City | Premier League 2018-2019 Fecha 1 | 12:00hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Arsenal-vs-Manchester-City-%7C-Premier-League-2018-2019-Fecha-1-%7C-12%3A00hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Lanus vs Defensa y Justicia | Superliga 2018-2019 Fecha 1 | 15:30hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Lanus-vs-Defensa-y-Justicia-%7C-Superliga-2018-2019-Fecha-1-%7C-15%3A30hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Barcelona vs Sevilla | Supercopa de Espana 2018 en DIRECTO | 17:00hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Barcelona-vs-Sevilla-%7C-Supercopa-de-Espana-2018-en-DIRECTO-%7C-17%3A00hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Rosario Central vs Banfield | Superliga 2018-2019 Fecha 1 | 17:45hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Rosario-Central-vs-Banfield-%7C-Superliga-2018-2019-Fecha-1-%7C-17%3A45hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:Huracan vs River | Superliga 2018-2019 Fecha 1 | 20:00hs (Argentina GTM-3)
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Huracan-vs-River-%7C-Superliga-2018-2019-Fecha-1-%7C-20%3A00hs-%28Argentina-GTM-3%29.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Belgrano 0 San Martin de San Juan 0 | Superliga 2018-2019 Fecha 1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Belgrano-0-San-Martin-de-San-Juan-0-%7C-Superliga-2018-2019-Fecha-1.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Patronato 0 Colon 0 | Superliga 2018-2019 Fecha 1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Patronato-0-Colon-0-%7C-Superliga-2018-2019-Fecha-1.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Real Madrid 3 Milan 1 | Trofeo Santiago Bernabeu 2018
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Real-Madrid-3-Milan-1-%7C-Trofeo-Santiago-Bernabeu-2018.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Atletico de Madrid 0 Inter 1 | International Champions Cup 2018
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Atletico-de-Madrid-0-Inter-1-%7C-International-Champions-Cup-2018.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Union 1 Aldosivi 0 | Superliga 2018-2019 Fecha 1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Union-1-Aldosivi-0-%7C-Superliga-2018-2019-Fecha-1.m3u8
+#EXTINF:-1,EVENTOS:RESUMEN: Gimnasia 1 Argentinos 0 | Superliga 2018-2019 Fecha 1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/RESUMEN%3A-Gimnasia-1-Argentinos-0-%7C-Superliga-2018-2019-Fecha-1.m3u8
+#EXTINF:-1,INFANTILES:Boomerang
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Boomerang.m3u8
+#EXTINF:-1,INFANTILES:Cartoon Network
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Cartoon-Network.m3u8
+#EXTINF:-1,INFANTILES:Discovery Kids
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Discovery-Kids.m3u8
+#EXTINF:-1,INFANTILES:Disney Channel
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Disney-Channel.m3u8
+#EXTINF:-1,INFANTILES:Disney XD
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Disney-XD.m3u8
+#EXTINF:-1,INFANTILES:Nickelodeon
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Nickelodeon.m3u8
+#EXTINF:-1,INFANTILES:Tooncast
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Tooncast.m3u8
+#EXTINF:-1,24/7:Alf
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Alf.m3u8
+#EXTINF:-1,24/7:Bob Esponja
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Bob-Esponja.m3u8
+#EXTINF:-1,24/7:Chespirito
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Chespirito.m3u8
+#EXTINF:-1,24/7:Dragon Ball Z
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Dragon-Ball-Z.m3u8
+#EXTINF:-1,24/7:El Chavo del 8
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Chavo-del-8.m3u8
+#EXTINF:-1,24/7:El Coyote y El Correcaminos
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Coyote-y-El-Correcaminos.m3u8
+#EXTINF:-1,24/7:El Pajaro Loco
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Pajaro-Loco.m3u8
+#EXTINF:-1,24/7:Futurama
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Futurama.m3u8
+#EXTINF:-1,24/7:Los Simpsons
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Los-Simpsons.m3u8
+#EXTINF:-1,24/7:Pinky y Cerebro
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Pinky-y-Cerebro.m3u8
+#EXTINF:-1,24/7:Scooby Doo
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Scooby-Doo.m3u8
+#EXTINF:-1,24/7:Tom y Jerry
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Tom-y-Jerry.m3u8
+#EXTINF:-1,CULTURA:Animal Planet
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Animal-Planet.m3u8
+#EXTINF:-1,CULTURA:Discovery Channel
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Discovery-Channel.m3u8
+#EXTINF:-1,CULTURA:Discovery Turbo
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Discovery-Turbo.m3u8
+#EXTINF:-1,CULTURA:History Channel
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/History-Channel.m3u8
+#EXTINF:-1,CULTURA:H2
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/H2.m3u8
+#EXTINF:-1,CULTURA:NatGeo
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/NatGeo.m3u8
+#EXTINF:-1,CULTURA:NatGeo Wild
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/NatGeo-Wild.m3u8
+#EXTINF:-1,CULTURA:TLC
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TLC.m3u8
+#EXTINF:-1,CULTURA:Fox Life
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Life.m3u8
+#EXTINF:-1,CULTURA:El Gourmet
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/El-Gourmet.m3u8
+#EXTINF:-1,CULTURA:Investigation Discovery
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Investigation-Discovery.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:AMC
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/AMC.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:AXN
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/AXN.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Cinecanal
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Cinecanal.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Cinemax
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Cinemax.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Comedy Central
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Comedy-Central.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:De Pelicula
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/De-Pelicula.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Distrito Comedia
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Distrito-Comedia.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:FX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/FX.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:FOX
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/FOX.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Space
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Space.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:TNT
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TNT.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:TNT Series
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/TNT-Series.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Warner Channel
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Warner-Channel.m3u8
+#EXTINF:-1,PREMIUM:Fox Action
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Action.m3u8
+#EXTINF:-1,PREMIUM:Fox Cinema
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Fox-Cinema.m3u8
+#EXTINF:-1,PREMIUM:HBO
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/HBO.m3u8
+#EXTINF:-1,PREMIUM:HBO 2
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/HBO-2.m3u8
+#EXTINF:-1,PREMIUM:HBO Family
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/HBO-Family.m3u8
+#EXTINF:-1,MUSICA:HIT TV
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/HIT-TV.m3u8
+#EXTINF:-1,MUSICA:MTV
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/MTV.m3u8
+#EXTINF:-1,MUSICA:MTV Hits
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/MTV-Hits.m3u8
+#EXTINF:-1,MUSICA:VH1
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/VH1.m3u8
+#EXTINF:-1,MUSICA:Rock Nacional TV
+http://live.nibbletv.info/CH/BCZJk6Ee2gjN/Rock-Nacional-TV.m3u8
+#EXTINF:-1,Without category:Fm Hot HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,Without category:Fm Hot
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,Nacional:Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1,Without category:CINE Y SERIES:Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Without category:CINE Y SERIES:Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+#EXTINF:-1,Without category:Trailer tv
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/a33b581b/playlist.m3u8
+#EXTINF:-1,Without category:Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:-1,Without category:Investigation Discovery [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,Without category:Investigation Discovery [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,Discovery Civilization MUNDO CRUEL IPTV
+http://freeiptv.apisecurers.com/canal_61_discoverycivilization.m3u8
+#EXTINF:-1,Discovery MUNDO CRUEL IPTV
+http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428,Discovery
+#EXTINF:-1,Without category:CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+#EXTINF:-1,Without category:History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,Without category:Televisión Tele Roja
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,Without category:RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1,CHILE:Tv Pop HD
+http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,SPAIN:Hit TV (Opt-1)
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1,SPAIN:Hit TV (Opt-2)
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:-1,USA:Music Choice
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:-1,Without category:Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Without category:TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:-1,MUSICA:NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Without category:TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,Without category:Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Without category:MUSICA:La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Power HD (Argentina)
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Soy Rock (Argentina)
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:-1,Without category:MUSICA:Teleritmo (Mexico)
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1,Without category:MUSICA:Urban 106.1 (Argentina)
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1,Latinos:TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(01)/index.m3u8
+#EXTINF:-1,Latinos:TELEMUNDO
+http://tvpremiumhd.club/lista-gratuita/151717/tv/v/2006.ts
+#EXTINF:-1,Without category:TELEMUNDO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(04)/index.m3u8
+#EXTINF:-1,LATINO:Telemundo 62 Philadelphia
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+#EXTINF:-1,Latinos:TL Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+#EXTINF:-1,Latinos:RCN Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(RCN_TELENOVELAS)/Stream(01)/index.m3u8
+#EXTINF:-1,Latinos:VePlus Tv
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VEPLUSTV)/Stream(01)/index.m3u8
+#EXTINF:-1,Mundial Rusia:Canal Mundial 2
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,Mundial Rusia:Canal Mundial 3
+http://z3.reporteperuano.com:1935/liverp3/zrhn/master.m3u8
+#EXTINF:-1,Mundial Rusia:Canal Mundial 9
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,Entretenimiento:VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:-1,Entretenimiento:VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1,ID Fashion MUNDO CRUEL IPTV
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,The Travel Channel MUNDO CRUEL IPTV
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:-1,The Voice MUNDO CRUEL IPTV
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,CULTURA:Animal Planet
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CULTURA:Discovery Civilization
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(01)/index.m3u8
+#EXTINF:-1,CULTURA:Discovery H&H
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,Discovery Science
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(01)/index.m3u8
+#EXTINF:-1,CULTURA:Discovery Theater
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CULTURA:Discovery Turbo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(01)/index.m3u8
+#EXTINF:-1,CULTURA:Discovery TLC
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CULTURA:History
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CULTURA:H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(01)/index.m3u8
+#EXTINF:-1,CULTURA:NatGeo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:A&E
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Comedy Central
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:CINEcanal
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Film Zone
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Studio Universal
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:Sony
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Space
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:AXN
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:TNT
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:TNT Series
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Universal Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Warner Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Lifetime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:FX
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:FXM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:Fox
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:FOX Life
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Premium Series
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX1_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Action
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Cinema
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Classics
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Movies
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Family
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Fox Comedy
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:HBO Plus
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:HBO Family
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:HBO Signature
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:Max Prime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:DirecTv Cinema
+http://tvpremiumhd.club/lista-gratuita/151717/tv/v/1243.ts
+#EXTINF:-1,CINE:MultiPremier
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:-1,CINE:Paramount Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:SUNDANCE Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CINE:CINEma Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:Claro Cinema
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8
+#EXTINF:-1,CINE:CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:-1,Space
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
+#EXTINF:-1,SPACE HD MUNDO CRUEL IPTV
+http://jadegames.ml/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,Without category:IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:-1,Without category:Azteca Uno
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,Without category:Azteca Mas
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1,Without category:CNC
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,Without category:MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,DEPORTES:CDF Premium
+http://tvpremiumhd.club/lista-gratuita/151717/tv/v/2077.ts
+#EXTINF:-1,DEPORTES:CNT SPORT
+http://tvpremiumhd.club/lista-gratuita/151717/tv/v/2083.ts
+#EXTINF:-1,DEPORTES:ESPN News
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,DEPORTES:CDO Basico
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:Pac 12 Moutain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DEPORTES:Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,CLARO:Tooncast
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Disney Jr
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Boomerang
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Disney XD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
+#EXTINF:-1,CLARO:AXN SD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:AXN FHD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:A&E [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:A&E [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Comedy Central [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Comedy Central [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(COMEDY_CENTRAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Film Zone [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Film Zone [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Sony [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Sony [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Space [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Space [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:TNT [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:( TNT Series [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:TNT Series [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Universal Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Universal Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Warner Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Warner Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:FX [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:FX [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Fox [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Fox [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CLARO:Fox [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Fox Cinema [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Fox Cinema [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Fox Movies [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Fox Movies [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Fox Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Fox Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Fox Comedy [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Fox Comedy [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:HBO [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:HBO [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CLARO:HBO [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:HBO Family [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:HBO Family [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:HBO Signature [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:HBO Signature [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:CINE Latino
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:CINEma Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Cinecanal [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Cinecanal [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:HBO Plus [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:HBO Plus [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Paramount Channel [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Paramount Channel [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Max
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
+#EXTINF:-1,CLARO:Max Prime [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Max Prime [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:TL Novelas
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Animal Planet [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Animal Planet [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Investigation Discovery [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:History [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:History [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:NatGeo [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:NatGeo [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Lifetime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:E! Entertainment
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery Civilization
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+#EXTINF:-1,CLARO:Discovery H&H [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery H&H [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Discovery Science
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery Theater [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery Theater [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:Discovery Turbo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery TLC [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:Discovery TLC [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:MTV [SD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:MTV [HD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,CLARO:MTV [FHD]
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,CLARO:VH1
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(04)/index.m3u8
+#EXTINF:-1,CLARO:VH1 Classics
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(04)/index.m3u8
+#EXTINF:-1,AUTOS:Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,MODA:Fashion Tv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,MODA:ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,MODA:HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,CULTURA:Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,CULTURA:NASA Space Station 1
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,CULTURA:NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,CULTURA:Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,LATINOS:Telemundo 62
+http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,SPAIN:Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1,MUSICA:Gufo Rock Latino
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/ce9bebcc_1_540/chunklist.m3u8
+#EXTINF:-1,MUSICA:Retro
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/148a6ff0_1_270/chunklist.m3u8
+#EXTINF:-1,MUSICA:Gufo Indie
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/d3daa538_1_540/chunklist.m3u8
+#EXTINF:-1,MUSICA:TVR
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1,MUSICA:La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8
+#EXTINF:-1,MUSICA:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1,MUSICA:Pandero Music
+http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185_b1500000_sleng.m3u8
+#EXTINF:-1,MUSICA:Pandero Music Chile
+http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
+#EXTINF:-1,MUSICA:Tv Loncho
+http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+#EXTINF:-1,MUSICA:MTV USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MUSICA:Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1,MUSICA:California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,MUSICA:Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Dream Tv
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Melody Channel HD
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:Virgin Music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,MUSICA:NRJ HITS TV Live
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,MUSICA:Xite
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:-1,MUSICA:CHAU Tv
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1,MUSICA:Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1,MUSICA:Virgin TV Live
+http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,MUSICA:FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1,MUSICA:RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,MUSICA:The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,MUSICA:Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1,USA:(ONLINE) 360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) A&E
+https://lhr-1.firstonetv.net:4434/hls/9d73dd4b19894ea67e0822140f3adaf7/1529573971/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352d35392d3232312d3135362e6d6264722e63662f7032702f62623338643930343862376239313730363236343136396130333166333261342e6d3375383f73743d32433538464e716b767269636c5864466a57736b4f6726653d31353239353838333731.m3u8
+#EXTINF:-1,USA:(ONLINE) ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1,USA:(ONLINE) Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,USA:(ONLINE) Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1,USA:(ONLINE) C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,USA:(ONLINE) C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,USA:(ONLINE) C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,USA:(ONLINE) CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,USA:(ONLINE) CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,USA:(ONLINE) Celebrity Page TV
+https://vcncelebritypage.teleosmedia.com/stream/celebritypage/livefeed1/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,USA:(ONLINE) Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1,USA:(ONLINE) Cheddar Big News
+https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,USA:(ONLINE) Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,USA:(ONLINE) Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) CNBC
+http://93.87.85.71/PLTV/88888888/224/3221226774/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9cUL0yoetz%2BvKdx%2Fd54YxqItYB1ayo8ZvEJFS8LuNff4%3D%3A20180117221111%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117221111%2Curn%3AHuawei%3AliveTV%3AXTV100001815%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2&from=2&hms_devid=4
+#EXTINF:-1,USA:(ONLINE) Comet TV (Opt-1)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1,USA:(ONLINE) Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,USA:(ONLINE) Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1,USA:(ONLINE) District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,USA:(ONLINE) District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,USA:(ONLINE) Dog TV
+https://content-ausc3.uplynk.com/channel/e8aeaab0dc3540d5adac23f8618903e4/j.m3u8?check2?b=1b241774cc0e46779bd8c366cbd51c14&v=e8aeaab0dc3540d5adac23f8618903e4&r=e&c=e8aeaab0dc3540d5adac23f8618903e4&pbs=41b95411dfd840488e1e9dcf15c35796
+#EXTINF:-1,USA:(ONLINE) DPAN.TV
+https://dplive-i.akamaihd.net/hls/live/264199/dpanlive/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,USA:(ONLINE) FrontDoor
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,USA:(ONLINE) Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,USA:(ONLINE) House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,USA:(ONLINE) Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,USA:(ONLINE) IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1,USA:(ONLINE) Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,USA:(ONLINE) MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,USA:(ONLINE) NatureVision TV
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,USA:(ONLINE) News 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1,USA:(ONLINE) Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1,USA:(ONLINE) NFL Network
+http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_androidtab.m3u8?hdnea=expires=1516072054~access=/nlds/nfl/nfltv/as/live/*~md5=d8d69ae369547e7ec9ae2facd432366d&mvpd=sony_auth-gateway_net&__sid__=f3efdd60-bab1-3de2-138d-fc0b7f000001&nltid=nflno&nltdt=13&nltnt=1
+#EXTINF:-1,USA:(ONLINE) NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,USA:(ONLINE) Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Oprah Winfrey Network
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+#EXTINF:-1,USA:(ONLINE) Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 National
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pac-12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Pluto TV Movies 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Pluto TV Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,USA:(ONLINE) Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1,USA:(ONLINE) QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:-1,USA:(ONLINE) QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,USA:(ONLINE) QVC 2
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+#EXTINF:-1,USA:(ONLINE) Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:-1,USA:(ONLINE) Real News
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:-1,USA:(DOUBTFUL) Red Bull TV (Updated)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:-1,USA:(ONLINE) RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,USA:(ONLINE) RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,USA:(ONLINE) Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+#EXTINF:-1,USA:(ONLINE) Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,USA:(ONLINE) Spydar TV (Opt-1)
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) Stadium Sports Network (Updated)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1,USA:(ONLINE) Tastemade
+https://amagi-primary.akamaized.net/out/v1/3f7bf105c018444dbc8f74a3a283afaf/index_7.m3u8
+#EXTINF:-1,USA:(ONLINE) TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,USA:(ONLINE) Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,USA:(ONLINE) The Blaze (Opt-1)
+http://theblaze.global.ssl.fastly.net/live/blaze-dvr/master.m3u8
+#EXTINF:-1,USA:(ONLINE) The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,USA:(ONLINE) TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,USA:(ONLINE) Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,USA:(ONLINE) TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,USA:(DOUBTFUL) TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+#EXTINF:-1,USA:(ONLINE) Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,USA:(ONLINE) VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1,USA:(DOUBTFUL) Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,USA:(ONLINE) Western 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,USA:(ONLINE) WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Long Island - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Long Island - News)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Connecticut - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (New York City - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (New Jersey - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:-1,USA LOCAL:(DOUBTFUL) WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) NBC 5 News (Chicago)
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1,USA LOCAL:(ONLINE) CBS 4 News (Indianapolis)
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) KAMC (Lubbock)
+http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1,USA LOCAL:(DOUBTFUL) WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) ABC 7 News (Sarasota)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) King5 News (Seattle)
+http://king-lh.akamaihd.net/i/KING_Shows_1@77350/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) KOMO 4 News (Seattle)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1,USA LOCAL:(ONLINE) KRGV 5 (Weslaco)
+http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1,INFANTIL:Disney Jr
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/index.m3u8
+#EXTINF:-1,INFANTIL:Boomerang
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/index.m3u8
+#EXTINF:-1,INFANTIL:TOONCAST
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
+#EXTINF:-1,INFANTIL:Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,CULTURA:Discovery Investigation
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/index.m3u8
+#EXTINF:-1,CULTURA:Animal Planet
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
+#EXTINF:-1,CULTURA:History
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
+#EXTINF:-1,CULTURA:NatGeo
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/index.m3u8
+#EXTINF:-1,CULTURA:DISCOVERY CIVIZATION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+#EXTINF:-1,CULTURA:DISCOVERY SCIENCE
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+#EXTINF:-1,CULTURA:DISCOVERY THEATER HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+#EXTINF:-1,CULTURA:DISCOVERY TURBO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+#EXTINF:-1,CULTURA:H2
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FX
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Film Zone
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:AXN
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:SONY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:TNT
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:TNT Series
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Golden Plus
+http://mirandatv.tk/hpI1lasigms/golden.m3u8
+#EXTINF:-1,CINE/SERIES:Golden Premier
+http://mirandatv.tk/hpI1lasigms/goldenprem.m3u8
+#EXTINF:-1,CINE/SERIES:Cinecanal
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Cinelatino
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Cinemax
+http://mirandatv.tk/hpI1lasigms/cinemax.m3u8
+#EXTINF:-1,CINE/SERIES:De Pelicula
+http://mirandatv.tk/hpI1lasigms/depelicula.m3u8
+#EXTINF:-1,CINE/SERIES:Space
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Universal Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Studio Universal
+http://mirandatv.tk/hpI1lasigms/studiouniv.m3u8
+#EXTINF:-1,CINE/SERIES:Multipremier
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Paramount
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:A&E
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Warner Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:TCM
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Cine Dinamita
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMA_DINAMITA)/index.m3u8
+#EXTINF:-1,CINE/SERIES:ISAT
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1,CINE/SERIES:E
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Life Time
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Eurochannel
+http://mirandatv.tk/hpI1lasigms/euroch.m3u8
+#EXTINF:-1,CINE/SERIES:TBS
+http://mirandatv.tk/hpI1lasigms/tbs.m3u8
+#EXTINF:-1,CINE:SUNDANCE Channel
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:CINEMA PLUS
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINEMAPLUS)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_ACTION)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX CINEMA HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX CLASSICS HD
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX ACTION
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX COMEDY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:FOX FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Max
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/index.m3u8
+#EXTINF:-1,CINE/SERIES:Max Up
+http://mirandatv.tk/hpI1lasigms/maxu.m3u8
+#EXTINF:-1,CINE/SERIES:Max Prime
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:HBO
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:HBO PLUS
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS)/index.m3u8
+#EXTINF:-1,CINE/SERIES:HBO SIGNATURE
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1,CINE/SERIES:HTV
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HTV)/index.m3u8
+#EXTINF:-1,CINE/SERIES:HBO FAMILY
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/index.m3u8
+#EXTINF:-1,MUSICA:90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8
+#EXTINF:-1,MUSICA:Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8
+#EXTINF:-1,MUSICA:Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8
+#EXTINF:-1,MUSICA:Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8
+#EXTINF:-1,MUSICA:Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8
+#EXTINF:-1,MUSICA:Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8
+#EXTINF:-1,MUSICA:Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8
+#EXTINF:-1,MUSICA:Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8
+#EXTINF:-1,MUSICA:Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8
+#EXTINF:-1,MUSICA:Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8
+#EXTINF:-1,MUSICA:Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8
+#EXTINF:-1,MUSICA:Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8
+#EXTINF:-1,MUSICA:Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8
+#EXTINF:-1,MUSICA:Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8
+#EXTINF:-1,MUSICA:R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8
+#EXTINF:-1,MUSICA:Rap
