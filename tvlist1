@@ -1,8 +1,249 @@
 #EXTM3U
-#EXTINF:-1,     List-Iptv.com        ,24/7 Entourage Show
-http://p4.giffy.be:8080/live/Mike/Mike/52149.ts
-#EXTINF:-1,     List-Iptv.com        ,24/7 Kids Movies
-http://p4.giffy.be:8080/live/Mike/Mike/52153.ts
-#EXTINF:-1,     List-Iptv.com        ,24/7 | Friends
-http://p4.giffy.be:8080/live/Mike/Mike/52151.ts
+#EXTINF:-1 tvg-name="NO:NRK 1 HD" tvg-logo="",NO:NRK 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1586.ts
+#EXTINF:-1 tvg-name="NO:NRK 2 HD" tvg-logo="",NO:NRK 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1585.ts
+#EXTINF:-1 tvg-name="NO:NRK 3 HD" tvg-logo="",NO:NRK 3 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1584.ts
+#EXTINF:-1 tvg-name="NO:TV Norge" tvg-logo="",NO:TV Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1577.ts
+#EXTINF:-1 tvg-name="NO:TV 2 (N)" tvg-logo="",NO:TV 2 (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1582.ts
+#EXTINF:-1 tvg-name="NO:TV 2 Nyhetskanalen" tvg-logo="",NO:TV 2 Nyhetskanalen
+http://178.132.6.74:8282/live/ramo/ramo1/1580.ts
+#EXTINF:-1 tvg-name="NO:TV 2 Livsstil" tvg-logo="",NO:TV 2 Livsstil
+http://178.132.6.74:8282/live/ramo/ramo1/1581.ts
+#EXTINF:-1 tvg-name="NO:TV 2 Zebra" tvg-logo="",NO:TV 2 Zebra
+http://178.132.6.74:8282/live/ramo/ramo1/1578.ts
+#EXTINF:-1 tvg-name="NO:TV3 HD (N)" tvg-logo="",NO:TV3 HD (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1576.ts
+#EXTINF:-1 tvg-name="NO:VOX HD" tvg-logo="",NO:VOX HD
+http://178.132.6.74:8282/live/ramo/ramo1/1572.ts
+#EXTINF:-1 tvg-name="NO:FEM" tvg-logo="",NO:FEM
+http://178.132.6.74:8282/live/ramo/ramo1/1590.ts
+#EXTINF:-1 tvg-name="NO:MAX HD" tvg-logo="",NO:MAX HD
+http://178.132.6.74:8282/live/ramo/ramo1/1588.ts
+#EXTINF:-1 tvg-name="NO:TLC" tvg-logo="",NO:TLC
+http://178.132.6.74:8282/live/ramo/ramo1/1583.ts
+#EXTINF:-1 tvg-name="NO:TV6 (N)" tvg-logo="",NO:TV6 (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1575.ts
+#EXTINF:-1 tvg-name="NO:Viasat 4 No" tvg-logo="",NO:Viasat 4 No
+http://178.132.6.74:8282/live/ramo/ramo1/1574.ts
+#EXTINF:-1 tvg-name="NO:Visjon Norge" tvg-logo="",NO:Visjon Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1573.ts
+#EXTINF:-1 tvg-name="NO:KANAL 10 Norge" tvg-logo="",NO:KANAL 10 Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1589.ts
+#EXTINF:-1 tvg-name="NO_Discovery Channel" tvg-logo="",NO_Discovery Channel
+http://178.132.6.74:8282/live/ramo/ramo1/4198.ts
+#EXTINF:-1 tvg-name="NO_Discovert Science" tvg-logo="",NO_Discovert Science
+http://178.132.6.74:8282/live/ramo/ramo1/4199.ts
+#EXTINF:-1 tvg-name="NO_Discovery World" tvg-logo="",NO_Discovery World
+http://178.132.6.74:8282/live/ramo/ramo1/4197.ts
+#EXTINF:-1 tvg-name="NO_Investigation Discovery Sweden" tvg-logo="",NO_Investigation Discovery Sweden
+http://178.132.6.74:8282/live/ramo/ramo1/4201.ts
+#EXTINF:-1 tvg-name="NO_National Geographic" tvg-logo="",NO_National Geographic
+http://178.132.6.74:8282/live/ramo/ramo1/4200.ts
+#EXTINF:-1 tvg-name="NO: NAT GEO" tvg-logo="",NO: NAT GEO
+http://178.132.6.74:8282/live/ramo/ramo1/1587.ts
+#EXTINF:-1 tvg-name="NO_Nat Geo Wild HD" tvg-logo="",NO_Nat Geo Wild HD
+http://178.132.6.74:8282/live/ramo/ramo1/2969.ts
+#EXTINF:-1 tvg-name="NO:ANIMAL PLANET" tvg-logo="",NO:ANIMAL PLANET
+http://178.132.6.74:8282/live/ramo/ramo1/3447.ts
+#EXTINF:-1 tvg-name="NO_TRAVEL CHANNEL" tvg-logo="",NO_TRAVEL CHANNEL
+http://178.132.6.74:8282/live/ramo/ramo1/4196.ts
+#EXTINF:-1 tvg-name="NO_Fatstone.TV" tvg-logo="",NO_Fatstone.TV
+http://178.132.6.74:8282/live/ramo/ramo1/2936.ts
+#EXTINF:-1 tvg-name="NO_Hope Channel Norge" tvg-logo="",NO_Hope Channel Norge
+http://178.132.6.74:8282/live/ramo/ramo1/2935.ts
+#EXTINF:-1 tvg-name="NO_MTV Norge" tvg-logo="",NO_MTV Norge
+http://178.132.6.74:8282/live/ramo/ramo1/2934.ts
+#EXTINF:-1 tvg-name="NO_Stortinget" tvg-logo="",NO_Stortinget
+http://178.132.6.74:8282/live/ramo/ramo1/2933.ts
+#EXTINF:-1 tvg-name="NO_TV Haugaland" tvg-logo="",NO_TV Haugaland
+http://178.132.6.74:8282/live/ramo/ramo1/2932.ts
+#EXTINF:-1 tvg-name="NO_E! Entertainment TV Nordic" tvg-logo="",NO_E! Entertainment TV Nordic
+http://178.132.6.74:8282/live/ramo/ramo1/2931.ts
+#EXTINF:-1 tvg-name="NO_Canal Motor" tvg-logo="",NO_Canal Motor
+http://178.132.6.74:8282/live/ramo/ramo1/2937.ts
+#EXTINF:-1 tvg-name="NO_Disney Channel" tvg-logo="",NO_Disney Channel
+http://178.132.6.74:8282/live/ramo/ramo1/2928.ts
+#EXTINF:-1 tvg-name="NO:DISNEY CHANNEL NO" tvg-logo="",NO:DISNEY CHANNEL NO
+http://178.132.6.74:8282/live/ramo/ramo1/1593.ts
+#EXTINF:-1 tvg-name="NO_DISNEY XD" tvg-logo="",NO_DISNEY XD
+http://178.132.6.74:8282/live/ramo/ramo1/2929.ts
+#EXTINF:-1 tvg-name="NO:TV 2 Sportskanalen" tvg-logo="",NO:TV 2 Sportskanalen
+http://178.132.6.74:8282/live/ramo/ramo1/1579.ts
+#EXTINF:-1 tvg-name="NO:EUROSPORT NOR" tvg-logo="",NO:EUROSPORT NOR
+http://178.132.6.74:8282/live/ramo/ramo1/1592.ts
+#EXTINF:-1 tvg-name="NO_VIASAT GOLF" tvg-logo="",NO_VIASAT GOLF
+http://178.132.6.74:8282/live/ramo/ramo1/3434.ts
+#EXTINF:-1 tvg-name="NO:Eurosport 1 Nordic" tvg-logo="",NO:Eurosport 1 Nordic
+http://178.132.6.74:8282/live/ramo/ramo1/1591.ts
+#EXTINF:-1 tvg-name="NO_Eurosport Pluss 1 macth time" tvg-logo="",NO_Eurosport Pluss 1 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2941.ts
+#EXTINF:-1 tvg-name="NO_Eurosport Pluss 2 macth time" tvg-logo="",NO_Eurosport Pluss 2 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2940.ts
+#EXTINF:-1 tvg-name="NO_Eurosport Pluss 3 macth time" tvg-logo="",NO_Eurosport Pluss 3 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2939.ts
+#EXTINF:-1 tvg-name="NO_Eurosport Pluss 4 macth time" tvg-logo="",NO_Eurosport Pluss 4 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2938.ts
+#EXTINF:-1 tvg-name="DK:DR 1 HD" tvg-logo="",DK:DR 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1638.ts
+#EXTINF:-1 tvg-name="DK:DR 2" tvg-logo="",DK:DR 2
+http://178.132.6.74:8282/live/ramo/ramo1/1637.ts
+#EXTINF:-1 tvg-name="DK:DR 3" tvg-logo="",DK:DR 3
+http://178.132.6.74:8282/live/ramo/ramo1/1636.ts
+#EXTINF:-1 tvg-name="DK:DR K" tvg-logo="",DK:DR K
+http://178.132.6.74:8282/live/ramo/ramo1/1635.ts
+#EXTINF:-1 tvg-name="DK:CANAL 9" tvg-logo="",DK:CANAL 9
+http://178.132.6.74:8282/live/ramo/ramo1/1643.ts
+#EXTINF:-1 tvg-name="DK:6`eren HD" tvg-logo="",DK:6`eren HD
+http://178.132.6.74:8282/live/ramo/ramo1/1644.ts
+#EXTINF:-1 tvg-name="DK:DK 4" tvg-logo="",DK:DK 4
+http://178.132.6.74:8282/live/ramo/ramo1/1640.ts
+#EXTINF:-1 tvg-name="DK_KANAL 4" tvg-logo="",DK_KANAL 4
+http://178.132.6.74:8282/live/ramo/ramo1/2967.ts
+#EXTINF:-1 tvg-name="DK:Kanal 5 (D)" tvg-logo="",DK:Kanal 5 (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1630.ts
+#EXTINF:-1 tvg-name="DK:TLC Danmark" tvg-logo="",DK:TLC Danmark
+http://178.132.6.74:8282/live/ramo/ramo1/1626.ts
+#EXTINF:-1 tvg-name="DK:TV 2" tvg-logo="",DK:TV 2
+http://178.132.6.74:8282/live/ramo/ramo1/1625.ts
+#EXTINF:-1 tvg-name="DK:TV 2 Fyn" tvg-logo="",DK:TV 2 Fyn
+http://178.132.6.74:8282/live/ramo/ramo1/1622.ts
+#EXTINF:-1 tvg-name="DK:TV 2 LORRY" tvg-logo="",DK:TV 2 LORRY
+http://178.132.6.74:8282/live/ramo/ramo1/1621.ts
+#EXTINF:-1 tvg-name="DK:TV 2 Midtvest" tvg-logo="",DK:TV 2 Midtvest
+http://178.132.6.74:8282/live/ramo/ramo1/1620.ts
+#EXTINF:-1 tvg-name="DK:TV 2 Nord" tvg-logo="",DK:TV 2 Nord
+http://178.132.6.74:8282/live/ramo/ramo1/1619.ts
+#EXTINF:-1 tvg-name="DK_TV2 Øst" tvg-logo="",DK_TV2 Øst
+http://178.132.6.74:8282/live/ramo/ramo1/2966.ts
+#EXTINF:-1 tvg-name="DK:TV 2 Syd" tvg-logo="",DK:TV 2 Syd
+http://178.132.6.74:8282/live/ramo/ramo1/1617.ts
+#EXTINF:-1 tvg-name="DK:TV 2 FRI" tvg-logo="",DK:TV 2 FRI
+http://178.132.6.74:8282/live/ramo/ramo1/1623.ts
+#EXTINF:-1 tvg-name="DK:TV 3 PULS" tvg-logo="",DK:TV 3 PULS
+http://178.132.6.74:8282/live/ramo/ramo1/1616.ts
+#EXTINF:-1 tvg-name="DK:TV2 Charlie" tvg-logo="",DK:TV2 Charlie
+http://178.132.6.74:8282/live/ramo/ramo1/1615.ts
+#EXTINF:-1 tvg-name="DK:TV2 NEWS" tvg-logo="",DK:TV2 NEWS
+http://178.132.6.74:8282/live/ramo/ramo1/1614.ts
+#EXTINF:-1 tvg-name="DK:TV2 Zulu" tvg-logo="",DK:TV2 Zulu
+http://178.132.6.74:8282/live/ramo/ramo1/1613.ts
+#EXTINF:-1 tvg-name="DK:TV3 +" tvg-logo="",DK:TV3 +
+http://178.132.6.74:8282/live/ramo/ramo1/1612.ts
+#EXTINF:-1 tvg-name="DK:TV3 (D)" tvg-logo="",DK:TV3 (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1611.ts
+#EXTINF:-1 tvg-name="DK:NAT GEO" tvg-logo="",DK:NAT GEO
+http://178.132.6.74:8282/live/ramo/ramo1/1639.ts
+#EXTINF:-1 tvg-name="DK:Nickelodeon (D)" tvg-logo="",DK:Nickelodeon (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1627.ts
+#EXTINF:-1 tvg-name="DK:DR Ramasjang" tvg-logo="",DK:DR Ramasjang
+http://178.132.6.74:8282/live/ramo/ramo1/1634.ts
+#EXTINF:-1 tvg-name="DK:DR ULTRA" tvg-logo="",DK:DR ULTRA
+http://178.132.6.74:8282/live/ramo/ramo1/1633.ts
+#EXTINF:-1 tvg-name="DK_Cartoon Network" tvg-logo="",DK_Cartoon Network
+http://178.132.6.74:8282/live/ramo/ramo1/2930.ts
+#EXTINF:-1 tvg-name="DK:DISNEY CHANNEL DK" tvg-logo="",DK:DISNEY CHANNEL DK
+http://178.132.6.74:8282/live/ramo/ramo1/1641.ts
+#EXTINF:-1 tvg-name="DK:Comedy Central (D)" tvg-logo="",DK:Comedy Central (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1642.ts
+#EXTINF:-1 tvg-name="DK:National Geographic (D)" tvg-logo="",DK:National Geographic (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1628.ts
+#EXTINF:-1 tvg-name="DK:Investigation Discovery (D)" tvg-logo="",DK:Investigation Discovery (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1631.ts
+#EXTINF:-1 tvg-name="DK:TV3 Sport 1" tvg-logo="",DK:TV3 Sport 1
+http://178.132.6.74:8282/live/ramo/ramo1/1610.ts
+#EXTINF:-1 tvg-name="DK:TV3 MAX" tvg-logo="",DK:TV3 MAX
+http://178.132.6.74:8282/live/ramo/ramo1/1609.ts
+#EXTINF:-1 tvg-name="(DK) TV3 SPORT" tvg-logo="",(DK) TV3 SPORT
+http://178.132.6.74:8282/live/ramo/ramo1/5714.ts
+#EXTINF:-1 tvg-name="DK_EUROSPORT 1" tvg-logo="",DK_EUROSPORT 1
+http://178.132.6.74:8282/live/ramo/ramo1/5203.ts
+#EXTINF:-1 tvg-name="DK:TV 2 SPORT HD" tvg-logo="",DK:TV 2 SPORT HD
+http://178.132.6.74:8282/live/ramo/ramo1/1618.ts
+#EXTINF:-1 tvg-name="DK_VIASAT GOLF" tvg-logo="",DK_VIASAT GOLF
+http://178.132.6.74:8282/live/ramo/ramo1/3433.ts
+#EXTINF:-1 tvg-name="DK_TV3 SPORT 2 G" tvg-logo="",DK_TV3 SPORT 2 G
+http://178.132.6.74:8282/live/ramo/ramo1/1608.ts
+#EXTINF:-1 tvg-name="DK:Eurosport 2" tvg-logo="",DK:Eurosport 2
+http://178.132.6.74:8282/live/ramo/ramo1/1632.ts
+#EXTINF:-1 tvg-name="DK:Motors TV HD" tvg-logo="",DK:Motors TV HD
+http://178.132.6.74:8282/live/ramo/ramo1/1629.ts
+#EXTINF:-1 tvg-name="DK:Viasat History Multi" tvg-logo="",DK:Viasat History Multi
+http://178.132.6.74:8282/live/ramo/ramo1/1604.ts
+#EXTINF:-1 tvg-name="DK:Viasat Nature / Playboy" tvg-logo="",DK:Viasat Nature / Playboy
+http://178.132.6.74:8282/live/ramo/ramo1/1603.ts
+#EXTINF:-1 tvg-name="SE:SVT1 HD" tvg-logo="",SE:SVT1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1550.ts
+#EXTINF:-1 tvg-name="SE:SVT2 HD" tvg-logo="",SE:SVT2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1549.ts
+#EXTINF:-1 tvg-name="SE:TV 3 SE" tvg-logo="",SE:TV 3 SE
+http://178.132.6.74:8282/live/ramo/ramo1/1546.ts
+#EXTINF:-1 tvg-name="SE:TV4 SE" tvg-logo="",SE:TV4 SE
+http://178.132.6.74:8282/live/ramo/ramo1/1537.ts
+#EXTINF:-1 tvg-name="SE:Kanal 5 HD (S)" tvg-logo="",SE:Kanal 5 HD (S)
+http://178.132.6.74:8282/live/ramo/ramo1/1555.ts
+#EXTINF:-1 tvg-name="SE:TV6 SE" tvg-logo="",SE:TV6 SE
+http://178.132.6.74:8282/live/ramo/ramo1/1536.ts
+#EXTINF:-1 tvg-name="SE:Sjuan" tvg-logo="",SE:Sjuan
+http://178.132.6.74:8282/live/ramo/ramo1/1551.ts
+#EXTINF:-1 tvg-name="SE:TV8" tvg-logo="",SE:TV8
+http://178.132.6.74:8282/live/ramo/ramo1/1535.ts
+#EXTINF:-1 tvg-name="SE:Kanal 9 HD SE" tvg-logo="",SE:Kanal 9 HD SE
+http://178.132.6.74:8282/live/ramo/ramo1/1554.ts
+#EXTINF:-1 tvg-name="SE:TV 10 (S)" tvg-logo="",SE:TV 10 (S)
+http://178.132.6.74:8282/live/ramo/ramo1/1547.ts
+#EXTINF:-1 tvg-name="SE_Kanal 11" tvg-logo="",SE_Kanal 11
+http://178.132.6.74:8282/live/ramo/ramo1/3435.ts
+#EXTINF:-1 tvg-name="SE:TV12 SE" tvg-logo="",SE:TV12 SE
+http://178.132.6.74:8282/live/ramo/ramo1/1545.ts
+#EXTINF:-1 tvg-name="SE:Kunskapskanalen HD" tvg-logo="",SE:Kunskapskanalen HD
+http://178.132.6.74:8282/live/ramo/ramo1/1553.ts
+#EXTINF:-1 tvg-name="SE:SVT24" tvg-logo="",SE:SVT24
+http://178.132.6.74:8282/live/ramo/ramo1/1548.ts
+#EXTINF:-1 tvg-name="SE:TV4 Guld" tvg-logo="",SE:TV4 Guld
+http://178.132.6.74:8282/live/ramo/ramo1/1538.ts
+#EXTINF:-1 tvg-name="SE:TV4 Fakta SE" tvg-logo="",SE:TV4 Fakta SE
+http://178.132.6.74:8282/live/ramo/ramo1/1540.ts
+#EXTINF:-1 tvg-name="SE:TV4 Film SE" tvg-logo="",SE:TV4 Film SE
+http://178.132.6.74:8282/live/ramo/ramo1/1539.ts
+#EXTINF:-1 tvg-name="SE_C more First" tvg-logo="",SE_C more First
+http://178.132.6.74:8282/live/ramo/ramo1/2797.ts
+#EXTINF:-1 tvg-name="SE_C more Hits" tvg-logo="",SE_C more Hits
+http://178.132.6.74:8282/live/ramo/ramo1/2796.ts
+#EXTINF:-1 tvg-name="SE_C more Series" tvg-logo="",SE_C more Series
+http://178.132.6.74:8282/live/ramo/ramo1/2795.ts
+#EXTINF:-1 tvg-name="SE_C more Stars" tvg-logo="",SE_C more Stars
+http://178.132.6.74:8282/live/ramo/ramo1/2794.ts
+#EXTINF:-1 tvg-name="SE_Viasat Explore Swe" tvg-logo="",SE_Viasat Explore Swe
+http://178.132.6.74:8282/live/ramo/ramo1/2793.ts
+#EXTINF:-1 tvg-name="SE_Viasat Film Action" tvg-logo="",SE_Viasat Film Action
+http://178.132.6.74:8282/live/ramo/ramo1/2792.ts
+#EXTINF:-1 tvg-name="SE_Viasat Film Hits" tvg-logo="",SE_Viasat Film Hits
+http://178.132.6.74:8282/live/ramo/ramo1/2791.ts
+#EXTINF:-1 tvg-name="SE_Viasat Film Premiere" tvg-logo="",SE_Viasat Film Premiere
+http://178.132.6.74:8282/live/ramo/ramo1/2790.ts
+#EXTINF:-1 tvg-name="SE_VIASAT_FAMILY" tvg-logo="",SE_VIASAT_FAMILY
+http://178.132.6.74:8282/live/ramo/ramo1/2954.ts
+#EXTINF:-1 tvg-name="SE_Viasat Family" tvg-logo="",SE_Viasat Family
+http://178.132.6.74:8282/live/ramo/ramo1/2953.ts
+#EXTINF:-1 tvg-name="SE_Viasat Film Premier" tvg-logo="",SE_Viasat Film Premier
+http://178.132.6.74:8282/live/ramo/ramo1/2952.ts
+#EXTINF:-1 tvg-name="SE_VIASAT PREMIER" tvg-logo="",SE_VIASAT PREMIER
+http://178.132.6.74:8282/live/ramo/ramo1/2949.ts
+#EXTINF:-1 tvg-name="SE_Viasat Premiere" tvg-logo="",SE_Viasat Premiere
+http://178.132.6.74:8282/live/ramo/ramo1/2948.ts
+#EXTINF:-1 tvg-name="SE_VIASAT SERIES" tvg-logo="",SE_VIASAT SERIES
+http://178.132.6.74:8282/live/ramo/ramo1/2947.ts
+#EXTINF:-1 tvg-name="SE_VIASAT ACTION" tvg-logo="",SE_VIASAT ACTION
+http://178.132.6.74:8282/live/ramo/ramo1/2955.ts
+#EXTINF:-1 tvg-name="SE_C MORE LIVE" tvg-logo="",SE_C MORE LIVE
+http://178.132.6.74:8282/live/ramo/ramo1/2945.ts
+#EXTINF:-1 tvg-name="SE_Viasat Series HD" tvg-logo="",SE_Viasat Series HD
+http://178.132.6.74:8282/live/ramo/ramo1/2946.ts
+#EXTINF:-1 tvg-name="SE:C More Sport HD se" tvg-logo="",SE:C More Sport HD se
+http://178.132.6.74:8282/live/ramo/ramo1/1563.ts
+#EXTINF:-1 tvg-name="(SW) TV3 Sport" tvg-logo="",(SW) TV3 Sport
 
